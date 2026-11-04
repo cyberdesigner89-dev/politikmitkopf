@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-04T07:30:31.835Z",
+  "syncedAt": "2026-11-04T15:12:30.345Z",
   "channels": [
     {
       "id": "primary",
@@ -15,7 +15,7 @@
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
       "name": "Politik mit Kopf REAGIERT",
       "stats": {
-        "subscriberCount": 17600,
+        "subscriberCount": 17800,
         "hiddenSubscriberCount": false
       }
     }
@@ -6165,6 +6165,21 @@
       "at": "2026-11-04T07:30:31.835Z",
       "channelId": "tiktok",
       "subscriberCount": 118
+    },
+    {
+      "at": "2026-11-04T15:12:30.345Z",
+      "channelId": "tiktok",
+      "subscriberCount": 119
+    },
+    {
+      "at": "2026-11-04T15:12:30.345Z",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "subscriberCount": 287000
+    },
+    {
+      "at": "2026-11-04T15:12:30.345Z",
+      "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
+      "subscriberCount": 17800
     }
   ]
 }

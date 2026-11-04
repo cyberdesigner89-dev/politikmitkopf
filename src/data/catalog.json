@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-04T07:30:31.835Z",
-  "ok": false,
+  "syncedAt": "2026-11-04T15:12:30.345Z",
+  "ok": true,
   "source": "youtube-public",
-  "error": "Mindestens ein Kanal konnte nicht gelesen werden. Angezeigt werden gespeicherte Videos.",
+  "error": null,
   "live": null,
   "channels": [
     {
@@ -10,7 +10,7 @@
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
       "name": "Politik mit Kopf",
       "videoCount": 15,
-      "status": "fehler",
+      "status": "verbunden",
       "avatar": "/brand/mark.jpg",
       "slug": "politik-mit-kopf",
       "handle": "@PolitikmitKopf",
@@ -18,8 +18,8 @@
       "subscribeUrl": "https://www.youtube.com/channel/UCsLN1bEfDJoZOs8udTwHatQ?sub_confirmation=1",
       "stats": {
         "subscriberCount": 287000,
-        "viewCount": 177819675,
-        "videoCount": 1576,
+        "viewCount": 178148321,
+        "videoCount": 1578,
         "hiddenSubscriberCount": false
       }
     },
@@ -28,21 +28,69 @@
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
       "name": "Politik mit Kopf REAGIERT",
       "videoCount": 8,
-      "status": "fehler",
+      "status": "verbunden",
       "avatar": "/brand/UCOdBOgdBxkqo5CaGukX8z4g.jpg",
       "slug": "politik-mit-kopf-reagiert",
       "handle": "@PolitikmitKopfReagiert",
       "channelUrl": "https://www.youtube.com/@PolitikmitKopfReagiert",
       "subscribeUrl": "https://www.youtube.com/@PolitikmitKopfReagiert?sub_confirmation=1",
       "stats": {
-        "subscriberCount": 17600,
-        "viewCount": 463335,
+        "subscriberCount": 17800,
+        "viewCount": 463825,
         "videoCount": 8,
         "hiddenSubscriberCount": false
       }
     }
   ],
   "videos": [
+    {
+      "id": "2RCxrgpfSGk",
+      "slug": "klartext-von-weidel-baumann-zur-lage-der-nation-2RCxrgpfSGk",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Klartext von Weidel & Baumann zur Lage der Nation!",
+      "description": "Seit 10 Jahren ignoriert man es. Jetzt kommt die Quittung.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Seit 10 Jahren ignoriert man es. Jetzt kommt die Quittung.",
+      "publishedAt": "2026-11-04T13:31:29+00:00",
+      "url": "https://www.youtube.com/watch?v=2RCxrgpfSGk",
+      "thumbnail": "/media/2RCxrgpfSGk.jpg",
+      "thumbnailRemote": "https://i3.ytimg.com/vi/2RCxrgpfSGk/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 13965,
+        "likeCount": null,
+        "commentCount": 188
+      }
+    },
+    {
+      "id": "5tLTfIG1BgM",
+      "slug": "deutschlandhasser-die-linke-deutschland-soll-fuer-wohlstandsgewinne-re-5tLTfIG1BgM",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Deutschlandhasser Die Linke: Deutschland soll für Wohlstandsgewinne Reparationen bezahlen!",
+      "description": "Die Linksfraktion fordert per Bundestagsantrag, dass Deutschland wegen historischer CO₂-Emissionen und Wohlstandsgewinnen Reparationen und Ausgleichszahlungen an den Globalen Süden leisten muss.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Die Linksfraktion fordert per Bundestagsantrag, dass Deutschland wegen historischer CO₂-Emissionen und Wohlstandsgewinnen Reparationen und Ausgleichszahlungen an den Globalen…",
+      "publishedAt": "2026-11-04T08:45:37+00:00",
+      "url": "https://www.youtube.com/watch?v=5tLTfIG1BgM",
+      "thumbnail": "/media/5tLTfIG1BgM.jpg",
+      "thumbnailRemote": "https://i2.ytimg.com/vi/5tLTfIG1BgM/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 103287,
+        "likeCount": null,
+        "commentCount": 1086
+      }
+    },
     {
       "id": "LqXcjTeXNaA",
       "slug": "pinocchio-merz-lacht-erklaert-uns-fuer-zu-bloed-200-millionen-extra-na-LqXcjTeXNaA",
@@ -62,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 10377,
+        "viewCount": 128645,
         "likeCount": null,
-        "commentCount": 554
+        "commentCount": 2150
       }
     },
     {
@@ -86,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 34420,
+        "viewCount": 63814,
         "likeCount": null,
-        "commentCount": 255
+        "commentCount": 366
       }
     },
     {
@@ -113,7 +161,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 66
+        "commentCount": 101
       }
     },
     {
@@ -135,9 +183,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 178694,
+        "viewCount": 247684,
         "likeCount": null,
-        "commentCount": 1727
+        "commentCount": 1981
       }
     },
     {
@@ -159,9 +207,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 80445,
+        "viewCount": 85432,
         "likeCount": null,
-        "commentCount": 476
+        "commentCount": 521
       }
     },
     {
@@ -183,9 +231,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 124992,
+        "viewCount": 132543,
         "likeCount": null,
-        "commentCount": 664
+        "commentCount": 673
       }
     },
     {
@@ -209,7 +257,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 65
+        "commentCount": 67
       }
     },
     {
@@ -231,9 +279,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 113907,
+        "viewCount": 115170,
         "likeCount": null,
-        "commentCount": 875
+        "commentCount": 878
       }
     },
     {
@@ -255,7 +303,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 167521,
+        "viewCount": 168717,
         "likeCount": null,
         "commentCount": 993
       }
@@ -281,7 +329,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 140
+        "commentCount": 142
       }
     },
     {
@@ -303,9 +351,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 91552,
+        "viewCount": 92243,
         "likeCount": null,
-        "commentCount": 549
+        "commentCount": 551
       }
     },
     {
@@ -327,7 +375,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 126491,
+        "viewCount": 126879,
         "likeCount": null,
         "commentCount": 1300
       }
@@ -351,9 +399,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 330360,
+        "viewCount": 330549,
         "likeCount": null,
-        "commentCount": 1942
+        "commentCount": 1940
       }
     },
     {
@@ -375,57 +423,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 115558,
+        "viewCount": 116013,
         "likeCount": null,
         "commentCount": 189
-      }
-    },
-    {
-      "id": "f11M0MnykiM",
-      "slug": "japan-sagt-nein-zur-masseneinwanderung-f11M0MnykiM",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Japan sagt Nein zur Masseneinwanderung ...",
-      "description": "... und keiner regt sich auf. Kontrollierte, befristete Zuwanderung und null Toleranz für Illegale sind dort Regierungslinie. In Deutschland wirst du für weniger vom Verfassungsschutz beobachtet.\n\n#Japan #Migration #Verfassungsschutz\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "... und keiner regt sich auf. Kontrollierte, befristete Zuwanderung und null Toleranz für Illegale sind dort Regierungslinie. In Deutschland wirst du für weniger vom…",
-      "publishedAt": "2026-10-31T10:06:04+00:00",
-      "url": "https://www.youtube.com/watch?v=f11M0MnykiM",
-      "thumbnail": "/media/f11M0MnykiM.jpg",
-      "thumbnailRemote": "https://i3.ytimg.com/vi/f11M0MnykiM/hqdefault.jpg",
-      "durationLabel": "1:07",
-      "tags": [
-        "Japan",
-        "Migration",
-        "Verfassungsschutz"
-      ],
-      "stats": {
-        "viewCount": 19357,
-        "likeCount": 2099,
-        "commentCount": 70
-      }
-    },
-    {
-      "id": "Re70Dd16-CE",
-      "slug": "hochverrat-in-polen-tusk-gesteht-gewalt-medien-luegen-ueber-das-verfas-Re70Dd16-CE",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Hochverrat in Polen? Tusk gesteht Gewalt, Medien lügen über das Verfassungsgericht",
-      "description": "In Polen eskaliert der Streit um das Verfassungsgericht: Präsident Nawrocki wird am Betreten gehindert, während Donald Tusk von einem „schmerzhaften Prozess“ zur Wiederherstellung der Rechtsstaatlichkeit spricht. Dabei wurde das Artikel-7-Verfahren 2024 beendet und 137 Milliarden Euro freigegeben – es geht um den Euro, die Abschaffung des Złoty und die Goldreserven.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "In Polen eskaliert der Streit um das Verfassungsgericht: Präsident Nawrocki wird am Betreten gehindert, während Donald Tusk von einem „schmerzhaften Prozess“ zur…",
-      "publishedAt": "2026-10-31T08:37:51+00:00",
-      "url": "https://www.youtube.com/watch?v=Re70Dd16-CE",
-      "thumbnail": "/media/Re70Dd16-CE.jpg",
-      "thumbnailRemote": "https://i3.ytimg.com/vi/Re70Dd16-CE/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 158577,
-        "likeCount": null,
-        "commentCount": 925
       }
     },
     {
@@ -447,9 +447,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 72312,
+        "viewCount": 72624,
         "likeCount": null,
-        "commentCount": 334
+        "commentCount": 335
       }
     },
     {
@@ -471,7 +471,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 81380,
+        "viewCount": 81447,
         "likeCount": null,
         "commentCount": 524
       }
@@ -495,7 +495,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 99405,
+        "viewCount": 99466,
         "likeCount": null,
         "commentCount": 576
       }
@@ -519,7 +519,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 33649,
+        "viewCount": 33655,
         "likeCount": 3363,
         "commentCount": 633
       }
@@ -543,7 +543,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88329,
+        "viewCount": 88348,
         "likeCount": 4492,
         "commentCount": 403
       }
@@ -567,7 +567,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 42885,
+        "viewCount": 42892,
         "likeCount": 3038,
         "commentCount": 508
       }
@@ -603,9 +603,9 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 118,
-      "likeCount": 285,
-      "videoCount": 13
+      "followerCount": 119,
+      "likeCount": 316,
+      "videoCount": 14
     }
   }
 }
