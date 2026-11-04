@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-04T15:12:30.345Z",
+  "syncedAt": "2026-11-04T16:17:12.617Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 178148321,
-        "videoCount": 1578,
+        "videoCount": 1579,
         "hiddenSubscriberCount": false
       }
     },
@@ -35,7 +35,7 @@
       "channelUrl": "https://www.youtube.com/@PolitikmitKopfReagiert",
       "subscribeUrl": "https://www.youtube.com/@PolitikmitKopfReagiert?sub_confirmation=1",
       "stats": {
-        "subscriberCount": 17800,
+        "subscriberCount": 17900,
         "viewCount": 463825,
         "videoCount": 8,
         "hiddenSubscriberCount": false
@@ -43,6 +43,30 @@
     }
   ],
   "videos": [
+    {
+      "id": "QlcRXVnclBQ",
+      "slug": "diesen-winter-musst-du-energie-sparen-QlcRXVnclBQ",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Diesen Winter musst du Energie sparen",
+      "description": "Heizöl, Diesel, jedes Produkt: Das zahlst am Ende du. Die Politiker haben so sehr geschlafen, dass Italien uns jetzt die Schuld gibt. Kommen wir durch den Winter, und wenn nein, was wird alles abgeschaltet?\n\n#italien #Meloni #Gasspeicher",
+      "excerpt": "Heizöl, Diesel, jedes Produkt: Das zahlst am Ende du. Die Politiker haben so sehr geschlafen, dass Italien uns jetzt die Schuld gibt. Kommen wir durch den Winter, und wenn…",
+      "publishedAt": "2026-11-04T15:45:48+00:00",
+      "url": "https://www.youtube.com/watch?v=QlcRXVnclBQ",
+      "thumbnail": "/media/QlcRXVnclBQ.jpg",
+      "thumbnailRemote": "https://i2.ytimg.com/vi/QlcRXVnclBQ/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "italien",
+        "Meloni",
+        "Gasspeicher"
+      ],
+      "stats": {
+        "viewCount": null,
+        "likeCount": null,
+        "commentCount": 9
+      }
+    },
     {
       "id": "2RCxrgpfSGk",
       "slug": "klartext-von-weidel-baumann-zur-lage-der-nation-2RCxrgpfSGk",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 13965,
+        "viewCount": 22457,
         "likeCount": null,
-        "commentCount": 188
+        "commentCount": 292
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 103287,
+        "viewCount": 113757,
         "likeCount": null,
-        "commentCount": 1086
+        "commentCount": 1146
       }
     },
     {
@@ -110,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 128645,
+        "viewCount": 131999,
         "likeCount": null,
-        "commentCount": 2150
+        "commentCount": 2184
       }
     },
     {
@@ -134,9 +158,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 63814,
+        "viewCount": 64746,
         "likeCount": null,
-        "commentCount": 366
+        "commentCount": 367
       }
     },
     {
@@ -161,7 +185,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 101
+        "commentCount": 102
       }
     },
     {
@@ -183,9 +207,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 247684,
+        "viewCount": 249872,
         "likeCount": null,
-        "commentCount": 1981
+        "commentCount": 1992
       }
     },
     {
@@ -207,9 +231,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 85432,
+        "viewCount": 85623,
         "likeCount": null,
-        "commentCount": 521
+        "commentCount": 522
       }
     },
     {
@@ -231,9 +255,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 132543,
+        "viewCount": 132847,
         "likeCount": null,
-        "commentCount": 673
+        "commentCount": 674
       }
     },
     {
@@ -279,7 +303,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 115170,
+        "viewCount": 115227,
         "likeCount": null,
         "commentCount": 878
       }
@@ -303,7 +327,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 168717,
+        "viewCount": 168787,
         "likeCount": null,
         "commentCount": 993
       }
@@ -351,7 +375,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 92243,
+        "viewCount": 92282,
         "likeCount": null,
         "commentCount": 551
       }
@@ -399,33 +423,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 330549,
+        "viewCount": 330568,
         "likeCount": null,
         "commentCount": 1940
-      }
-    },
-    {
-      "id": "41h5zBMtPWU",
-      "slug": "zdf-stuerzt-sich-auf-frohnmaier-dabei-liegt-der-skandal-bei-der-it-sic-41h5zBMtPWU",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "ZDF stürzt sich auf Frohnmaier – dabei liegt der Skandal bei der IT-Sicherheit des Bundestages!",
-      "description": "ZDF berichtet über angebliche Skandale aus den AfD-Leaks rund um Markus Frohnmaier und Verschlusssachen – dabei liegt das eigentliche Problem bei der IT-Sicherheit des Bundestages. In diesem Video geht es darum, warum der Umgang mit VS-NfD-Dokumenten und Drittgeräten der wahre Skandal ist.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "ZDF berichtet über angebliche Skandale aus den AfD-Leaks rund um Markus Frohnmaier und Verschlusssachen – dabei liegt das eigentliche Problem bei der IT-Sicherheit des…",
-      "publishedAt": "2026-10-31T15:01:29+00:00",
-      "url": "https://www.youtube.com/watch?v=41h5zBMtPWU",
-      "thumbnail": "/media/41h5zBMtPWU.jpg",
-      "thumbnailRemote": "https://i1.ytimg.com/vi/41h5zBMtPWU/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 116013,
-        "likeCount": null,
-        "commentCount": 189
       }
     },
     {
@@ -447,7 +447,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 72624,
+        "viewCount": 72638,
         "likeCount": null,
         "commentCount": 335
       }
@@ -495,7 +495,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 99466,
+        "viewCount": 99474,
         "likeCount": null,
         "commentCount": 576
       }
@@ -519,7 +519,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 33655,
+        "viewCount": 33656,
         "likeCount": 3363,
         "commentCount": 633
       }
@@ -567,7 +567,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 42892,
+        "viewCount": 42895,
         "likeCount": 3038,
         "commentCount": 508
       }
