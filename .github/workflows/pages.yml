@@ -51,6 +51,7 @@ jobs:
           YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
           PUBLIC_CONTACT_ENDPOINT: ${{ secrets.PUBLIC_CONTACT_ENDPOINT }}
 
+      # Pages-Quelle muss bereits „GitHub Actions“ sein. enablement legt die Seite nicht an.
       - name: GitHub Pages vorbereiten
         uses: actions/configure-pages@v5
 
