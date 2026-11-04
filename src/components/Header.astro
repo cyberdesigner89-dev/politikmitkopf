@@ -1,0 +1,57 @@
+---
+import { navigation, primaryCta } from '../config/navigation';
+import ChannelBadges from './ChannelBadges.astro';
+import Icon from './Icon.astro';
+import Picture from './Picture.astro';
+
+const pathname = Astro.url.pathname;
+const current = (href: string) => (href === '/' ? pathname === '/' : pathname === href || pathname.startsWith(href));
+---
+<header class="site-header" data-header>
+  <div class="header-bar">
+    <button class="menu-button" type="button" aria-expanded="false" aria-controls="menu" data-menu-button>
+      <span class="sr-only">Menü</span>
+      <Icon name="menu" />
+    </button>
+    <a class="brand" href="/">
+      <Picture src="/brand/mark.jpg" width={36} height={36} sizes="36px" widths={[64, 128]} fallback="/favicon.svg" />
+      <span class="wordmark">Politik <em>mit Kopf</em></span>
+    </a>
+    <nav class="nav-main" aria-label="Hauptnavigation">
+      {navigation.map((item) => (
+        <a href={item.href} aria-current={current(item.href) ? 'page' : undefined}>{item.label}</a>
+      ))}
+    </nav>
+    <div class="header-tools">
+      <ChannelBadges size="header" only={['youtube']} label="YouTube" />
+      <a class="tool tool-search" href="/suche/" data-search-open aria-label="Suche">
+        <Icon name="search" size={18} />
+        <span class="search-text">Suche</span>
+      </a>
+      <a class="button small cta-consult" href={primaryCta.href}>{primaryCta.label}</a>
+    </div>
+  </div>
+</header>
+<div id="menu" class="menu-panel" hidden data-menu-panel>
+  <div class="menu-top">
+    <a class="brand" href="/">
+      <Picture src="/brand/mark.jpg" width={36} height={36} sizes="36px" widths={[64, 128]} fallback="/favicon.svg" />
+      <span class="wordmark">Politik <em>mit Kopf</em></span>
+    </a>
+    <button class="menu-button" type="button" data-menu-close style="display:inline-flex">
+      <span class="sr-only">Menü schließen</span>
+      <Icon name="close" />
+    </button>
+  </div>
+  <nav class="menu-nav" aria-label="Mobilnavigation">
+    {navigation.map((item) => (
+      <a href={item.href} aria-current={current(item.href) ? 'page' : undefined}>{item.label}</a>
+    ))}
+  </nav>
+  <a class="button cta-consult" href={primaryCta.href}>{primaryCta.label}</a>
+  <ChannelBadges size="menu" label="Kanäle" />
+  <div class="menu-social">
+    <a href="/unsere-kanaele/">Meine Kanäle</a>
+    <a href="/suche/" data-search-open>Suche</a>
+  </div>
+</div>

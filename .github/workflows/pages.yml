@@ -1,0 +1,77 @@
+name: Sync and deploy
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "src/data/**"
+      - "public/data/**"
+      - "public/brand/tiktok.jpg"
+      - "public/brand/UCOdBOgdBxkqo5CaGukX8z4g.jpg"
+  schedule:
+    # GitHub Actions erlaubt keinen kürzeren Takt als alle 5 Minuten.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository holen
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Node einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Abhängigkeiten installieren
+        run: npm ci
+
+      - name: Synchronisieren und bauen
+        run: npm run build
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          YOUTUBE_CHANNEL_ID: ${{ secrets.YOUTUBE_CHANNEL_ID }}
+          PUBLIC_CONTACT_ENDPOINT: ${{ secrets.PUBLIC_CONTACT_ENDPOINT }}
+
+      - name: GitHub Pages vorbereiten
+        uses: actions/configure-pages@v5
+
+      - name: Build hochladen
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Veröffentlichen
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Sync-Daten zurückschreiben
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/catalog.json src/data/feed.json src/data/snapshots.json public/data/feed.json public/data/stats.json public/data/community.json public/brand || true
+          if git diff --staged --quiet; then
+            echo "Keine Sync-Änderungen"
+          else
+            git commit -m "chore: sync channel stats"
+            git push
+          fi

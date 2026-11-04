@@ -1,0 +1,44 @@
+{
+  "syncedAt": "2026-11-04T07:30:31.835Z",
+  "live": null,
+  "latest": {
+    "title": "Pinocchio Merz lacht & erklärt uns für zu blöd - 200 Millionen extra nach Kiew",
+    "url": "https://www.youtube.com/watch?v=LqXcjTeXNaA",
+    "pageUrl": "/videos/pinocchio-merz-lacht-erklaert-uns-fuer-zu-bloed-200-millionen-extra-na-LqXcjTeXNaA/",
+    "thumbnail": "/media/LqXcjTeXNaA.jpg",
+    "publishedAt": "2026-11-03T20:04:37+00:00",
+    "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+    "channelName": "Politik mit Kopf"
+  },
+  "channels": [
+    {
+      "id": "primary",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "name": "Politik mit Kopf",
+      "slug": "politik-mit-kopf",
+      "stats": {
+        "subscriberCount": 287000,
+        "viewCount": 177819675,
+        "videoCount": 1576,
+        "hiddenSubscriberCount": false
+      }
+    },
+    {
+      "id": "reagiert",
+      "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
+      "name": "Politik mit Kopf REAGIERT",
+      "slug": "politik-mit-kopf-reagiert",
+      "stats": {
+        "subscriberCount": 17600,
+        "viewCount": 463335,
+        "videoCount": 8,
+        "hiddenSubscriberCount": false
+      }
+    }
+  ],
+  "message": {
+    "headline": "",
+    "ticker": "",
+    "custom": ""
+  }
+}

@@ -1,0 +1,70 @@
+---
+import { channelDirectory, catalog, youtubeSubscribeUrl } from '../lib/catalog';
+import { formatNumber } from '../lib/format';
+import Picture from './Picture.astro';
+
+const channels = channelDirectory().filter((channel) => channel.id === 'primary' || channel.id === 'reagiert');
+const youtubeChannels = channels.map((channel) => ({
+  id: channel.id,
+  channelId: channel.channelId,
+  name: channel.name,
+  slug: channel.slug,
+  avatar: channel.avatar,
+  subscribeUrl: youtubeSubscribeUrl(channel),
+  stats: {
+    subscriberCount: channel.stats?.subscriberCount ?? null,
+    hiddenSubscriberCount: channel.stats?.hiddenSubscriberCount ?? false,
+  },
+}));
+
+const combined = youtubeChannels.reduce((sum, channel) => {
+  const value = channel.stats.subscriberCount;
+  return value == null ? sum : (sum ?? 0) + value;
+}, null as number | null);
+
+const payload = {
+  syncedAt: catalog.syncedAt,
+  syncOk: Boolean(catalog.syncedAt) && !catalog.error,
+  syncError: catalog.error || null,
+  channels: youtubeChannels,
+  combined,
+  snapshots: {
+    channelSnapshots: [] as Array<{ at: string; channelId: string; subscriberCount: number | null }>,
+  },
+};
+const json = JSON.stringify(payload).replace(/</g, '\\u003c');
+---
+<section class="section community-section" id="community" data-subscriber-refresh>
+  <div class="wrap">
+    <h2 class="sr-only">Meine Community wächst</h2>
+    <div class="subscriber-panels" data-subscriber-panels>
+      {youtubeChannels.map((channel) => (
+        <article class:list={['subscriber-panel', `is-${channel.id}`]} data-channel-panel={channel.channelId}>
+          <div class="subscriber-panel-top">
+            <Picture src={channel.avatar} width={72} height={72} sizes="64px" widths={[64, 128, 256]} />
+            <div>
+              <h3>{channel.name}</h3>
+              <p class="sr-only">YouTube-Kanal-ID: {channel.channelId}</p>
+            </div>
+          </div>
+          <p class="subscriber-count">
+            <span class="sr-only">Aktuelle Abonnenten:</span>
+            <strong data-sub-count>{channel.stats.subscriberCount != null ? formatNumber(channel.stats.subscriberCount) : '—'}</strong>
+            <span class="unit">Abonnenten</span>
+          </p>
+          <p class="subscriber-delta" data-sub-delta>—</p>
+          <div class="subscriber-spark" data-sub-spark aria-hidden="true"></div>
+          <div class="hero-actions">
+            <a class="button" href={channel.subscribeUrl} rel="noopener noreferrer">Jetzt abonnieren</a>
+            <a class="button ghost" href={`/${channel.slug}/`}>Zum Kanal</a>
+          </div>
+        </article>
+      ))}
+    </div>
+  </div>
+  <script type="application/json" id="subscriber-payload" set:html={json} />
+</section>
+<script>
+  import { setupSubscriberBoard } from '../scripts/subscriber-board.ts';
+  setupSubscriberBoard();
+</script>

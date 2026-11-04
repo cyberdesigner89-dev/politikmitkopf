@@ -1,0 +1,174 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHeader from '../components/PageHeader.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { site } from '../config/site';
+
+const topics = [
+  'Allgemeine Fragen',
+  'Beratungsgespräch',
+  'Zusammenarbeit',
+  'Presse',
+  'Sonstiges',
+] as const;
+
+const endpoint =
+  import.meta.env.PUBLIC_CONTACT_ENDPOINT ||
+  `https://formsubmit.co/ajax/${site.contactEmail}`;
+---
+<Base
+  title="Beratungsgespräch"
+  description="Schreiben Sie Politik mit Kopf direkt eine E-Mail zu allgemeinen Fragen, einem Beratungsgespräch oder einer Zusammenarbeit."
+>
+  <div class="wrap">
+    <Breadcrumbs items={[{ href: '/beratungsgespraech/', label: 'Beratungsgespräch' }]} />
+    <PageHeader
+      kicker="Kontakt"
+      title="Beratungsgespräch"
+      lede={`Wählen Sie ein Thema, schreiben Sie dazu, was Sie wissen möchten, und senden Sie die Nachricht an ${site.contactEmail}.`}
+    />
+
+    <form
+      class="consult-form"
+      data-consult-mail
+      data-endpoint={endpoint}
+      data-address={site.contactEmail}
+      novalidate
+    >
+      <input type="hidden" name="_subject" value="Anfrage über politikmitkopf.de" />
+      <input type="hidden" name="_template" value="table" />
+      <input type="text" name="_honey" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true" />
+      <label class="field">
+        <span>Thema</span>
+        <select name="topic" required aria-describedby="error-topic">
+          <option value="">Bitte wählen</option>
+          {topics.map((topic) => <option value={topic}>{topic}</option>)}
+        </select>
+        <span class="error" id="error-topic" data-error-for="topic"></span>
+      </label>
+      <label class="field">
+        <span>Name</span>
+        <input name="name" autocomplete="name" required maxlength="120" aria-describedby="error-name" />
+        <span class="error" id="error-name" data-error-for="name"></span>
+      </label>
+      <label class="field wide">
+        <span>Ihre E-Mail-Adresse</span>
+        <input name="email" type="email" autocomplete="email" required maxlength="200" aria-describedby="error-email" />
+        <span class="error" id="error-email" data-error-for="email"></span>
+      </label>
+      <label class="field wide consult-check">
+        <input name="interest" type="checkbox" />
+        <span>Ich interessiere mich für ein Beratungsgespräch.</span>
+      </label>
+      <label class="field wide">
+        <span>Was möchten Sie zusätzlich mitteilen?</span>
+        <textarea name="message" required maxlength="4000" placeholder="Ihr Anliegen" aria-describedby="error-message"></textarea>
+        <span class="error" id="error-message" data-error-for="message"></span>
+      </label>
+      <div class="wide consult-actions">
+        <button class="button" type="submit">Nachricht senden</button>
+        <p class="status" data-consult-status role="status"></p>
+        <p class="legal-note">
+          Die Nachricht geht direkt an {site.contactEmail}.
+          Gewöhnliche E-Mail ist nicht Ende-zu-Ende-verschlüsselt.
+        </p>
+      </div>
+    </form>
+  </div>
+</Base>
+<script>
+  const topics = new Set(['Allgemeine Fragen', 'Beratungsgespräch', 'Zusammenarbeit', 'Presse', 'Sonstiges']);
+  const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+  document.querySelectorAll('[data-consult-mail]').forEach((node) => {
+    if (!(node instanceof HTMLFormElement) || node.dataset.bound === 'true') return;
+    node.dataset.bound = 'true';
+    const endpoint = node.dataset.endpoint || '';
+    const address = node.dataset.address || '';
+    const status = node.querySelector('[data-consult-status]');
+
+    const setError = (name: string, message: string) => {
+      const field = node.elements.namedItem(name);
+      const slot = node.querySelector(`[data-error-for="${name}"]`);
+      if (field instanceof HTMLElement) field.setAttribute('aria-invalid', message ? 'true' : 'false');
+      if (slot) slot.textContent = message;
+    };
+
+    node.addEventListener('submit', async (event) => {
+      event.preventDefault();
+      const data = new FormData(node);
+      const topic = String(data.get('topic') || '').trim();
+      const name = String(data.get('name') || '').trim();
+      const email = String(data.get('email') || '').trim();
+      const message = String(data.get('message') || '').trim();
+      const interested = data.get('interest') === 'on';
+      const honey = String(data.get('_honey') || '').trim();
+
+      const errors = {
+        topic: topics.has(topic) ? '' : 'Bitte ein Thema wählen.',
+        name: name.length < 2 ? 'Bitte einen Namen angeben.' : '',
+        email: emailPattern.test(email) ? '' : 'Bitte eine gültige E-Mail-Adresse angeben.',
+        message: message.length < 10 ? 'Bitte noch etwas zum Anliegen schreiben.' : '',
+      };
+      Object.entries(errors).forEach(([key, value]) => setError(key, value));
+      if (Object.values(errors).some(Boolean)) {
+        if (status) status.textContent = 'Bitte die markierten Felder prüfen.';
+        const invalid = node.querySelector('[aria-invalid="true"]');
+        if (invalid instanceof HTMLElement) invalid.focus();
+        return;
+      }
+      if (honey) {
+        if (status) status.textContent = 'Die Nachricht konnte nicht gesendet werden.';
+        return;
+      }
+
+      const subject = interested
+        ? `Interesse an einem Beratungsgespräch – ${topic}`
+        : `Anfrage – ${topic}`;
+
+      const button = node.querySelector('button[type="submit"]');
+      if (button instanceof HTMLButtonElement) button.disabled = true;
+      if (status) status.textContent = 'Wird gesendet…';
+
+      try {
+        const response = await fetch(endpoint, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            Accept: 'application/json',
+          },
+          body: JSON.stringify({
+            name,
+            email,
+            topic,
+            interest: interested ? 'Ja' : 'Nein',
+            message,
+            _subject: subject,
+            _template: 'table',
+            _replyto: email,
+            _captcha: 'false',
+          }),
+        });
+
+        const result = await response.json().catch(() => ({}));
+        if (!response.ok) {
+          throw new Error(typeof result.message === 'string' ? result.message : 'request failed');
+        }
+
+        node.reset();
+        if (status) {
+          status.textContent = `Vielen Dank. Die Nachricht wurde an ${address} gesendet.`;
+        }
+      } catch {
+        if (status) {
+          status.textContent =
+            'Die Nachricht konnte nicht gesendet werden. Bitte versuchen Sie es später erneut oder schreiben Sie direkt an ' +
+            address +
+            '.';
+        }
+      } finally {
+        if (button instanceof HTMLButtonElement) button.disabled = false;
+      }
+    });
+  });
+</script>

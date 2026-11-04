@@ -1,0 +1,65 @@
+---
+import type { Video } from '../types';
+import { formatCompact, formatDate } from '../lib/format';
+import { videoPath } from '../lib/catalog';
+import Icon from './Icon.astro';
+import Picture from './Picture.astro';
+
+interface Props {
+  video: Video;
+  variant?: 'standard' | 'lead' | 'rail';
+  hidden?: boolean;
+  priority?: boolean;
+  /** Homepage and editorial surfaces: no views/likes/comments. */
+  hideEngagement?: boolean;
+  /** Archive pages start at h1, so the card title is the next level. */
+  level?: 'h2' | 'h3';
+}
+const { video, variant = 'standard', hidden = false, priority = false, hideEngagement = false, level = 'h3' } = Astro.props;
+const sizes = variant === 'lead'
+  ? '(max-width: 900px) 92vw, 640px'
+  : variant === 'rail'
+    ? '(max-width: 900px) 78vw, 280px'
+    : '(max-width: 640px) 92vw, (max-width: 900px) 46vw, 360px';
+const stats = video.stats || { viewCount: null, likeCount: null, commentCount: null };
+const showEngagement =
+  !hideEngagement &&
+  (stats.viewCount != null || stats.likeCount != null || stats.commentCount != null);
+---
+<article
+  class:list={['video-card', `is-${variant}`]}
+  hidden={hidden}
+  data-video
+  data-year={video.publishedAt.slice(0, 4)}
+  data-tags={video.tags.join('|')}
+  data-channel={video.channelId}
+  data-time={video.publishedAt}
+>
+  <a href={videoPath(video)}>
+    <div class="thumb">
+      <Picture
+        src={video.thumbnail}
+        width={1280}
+        height={720}
+        sizes={sizes}
+        priority={priority}
+        fallback={video.thumbnailRemote}
+      />
+      <span class="play"><Icon name="play" /></span>
+      {video.durationLabel && <span class="duration">{video.durationLabel}</span>}
+    </div>
+    <p class="card-meta">
+      <span>{video.channelName}</span>
+      <time datetime={video.publishedAt}>{formatDate(video.publishedAt)}</time>
+    </p>
+    {level === 'h2' ? <h2>{video.title}</h2> : <h3>{video.title}</h3>}
+    {variant !== 'rail' && <p class="excerpt">{video.excerpt}</p>}
+    {showEngagement && (
+      <p class="stat-row" aria-label="YouTube-Statistiken">
+        {stats.viewCount != null && <span><span class="sr-only">Aufrufe: </span>{formatCompact(stats.viewCount)} Aufrufe</span>}
+        {stats.likeCount != null && <span><span class="sr-only">Likes: </span>{formatCompact(stats.likeCount)} Likes</span>}
+        {stats.commentCount != null && <span><span class="sr-only">Kommentare: </span>{formatCompact(stats.commentCount)} Kommentare</span>}
+      </p>
+    )}
+  </a>
+</article>

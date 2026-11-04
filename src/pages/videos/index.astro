@@ -1,0 +1,106 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHeader from '../../components/PageHeader.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import VideoCard from '../../components/VideoCard.astro';
+import EmptyState from '../../components/EmptyState.astro';
+import { catalog, channelDirectory, uniqueYears } from '../../lib/catalog';
+
+const q = Astro.url.searchParams.get('q') ?? '';
+const kanal = Astro.url.searchParams.get('kanal') ?? '';
+const jahr = Astro.url.searchParams.get('jahr') ?? '';
+const thema = Astro.url.searchParams.get('thema')?.trim() ?? '';
+const themaKey = thema.toLowerCase();
+const sort = Astro.url.searchParams.get('sort') === 'alt' ? 'alt' : 'neu';
+const page = Math.max(1, Number(Astro.url.searchParams.get('seite') || '1') || 1);
+const limit = page * 12;
+const years = uniqueYears();
+const channels = channelDirectory();
+const selectedChannel = channels.find((channel) => channel.id === kanal);
+
+const matches = (video: (typeof catalog.videos)[number]) => {
+  const needle = q.trim().toLowerCase();
+  const haystack = `${video.title} ${video.excerpt} ${video.channelName} ${video.tags.join(' ')}`.toLowerCase();
+  const channelOk = !selectedChannel || video.channelId === selectedChannel.channelId;
+  const topicOk = !themaKey || video.tags.some((tag) => tag.toLowerCase() === themaKey);
+  return channelOk && topicOk && (!needle || haystack.includes(needle)) && (!jahr || video.publishedAt.startsWith(jahr));
+};
+
+const ordered = [...catalog.videos].sort((a, b) => {
+  const delta = Date.parse(a.publishedAt) - Date.parse(b.publishedAt);
+  return sort === 'alt' ? delta : -delta;
+});
+const matched = ordered.filter(matches);
+let seen = 0;
+const rows = ordered.map((video) => {
+  const ok = matches(video);
+  if (ok) seen += 1;
+  return { video, hidden: !ok || seen > limit };
+});
+const params = new URLSearchParams();
+if (q) params.set('q', q);
+if (kanal) params.set('kanal', kanal);
+if (jahr) params.set('jahr', jahr);
+if (thema) params.set('thema', thema);
+if (sort === 'alt') params.set('sort', 'alt');
+params.set('seite', String(page + 1));
+const moreHref = `/videos/?${params.toString()}`;
+---
+<Base title="Videos" description="Das Videoarchiv von Politik mit Kopf und Politik mit Kopf REAGIERT." lcpImage={catalog.videos[0]?.thumbnail} lcpSizes="(max-width: 640px) 92vw, (max-width: 900px) 46vw, 360px">
+  <div class="wrap">
+    <Breadcrumbs items={[{ href: '/videos/', label: 'Videos' }]} />
+    <PageHeader kicker="Archiv" title="Videos" lede="Neue Beiträge werden automatisch aus YouTube übernommen." />
+    {!catalog.ok && catalog.videos.length > 0 && (
+      <p class="notice" role="status">Inhalte konnten momentan nicht vollständig geladen werden. Angezeigt werden die zuletzt gespeicherten Videos. <a href="/videos/">Erneut versuchen</a></p>
+    )}
+    {thema && (
+      <p class="notice" role="status" data-topic-notice>Thema „{thema}“. <a href="/videos/">Thema zurücksetzen</a></p>
+    )}
+    <form action="/videos/" method="get" data-archive>
+      <div class="filters">
+        <label class="field">
+          <span>Videos durchsuchen</span>
+          <input name="q" value={q} autocomplete="off" />
+        </label>
+        <label class="field">
+          <span>Kanal</span>
+          <select name="kanal">
+            <option value="">Alle Kanäle</option>
+            {channels.map((channel) => (
+              <option value={channel.id} data-channel-id={channel.channelId} selected={kanal === channel.id}>{channel.name}</option>
+            ))}
+          </select>
+        </label>
+        <label class="field">
+          <span>Sortierung</span>
+          <select name="sort">
+            <option value="neu" selected={sort === 'neu'}>Neueste zuerst</option>
+            <option value="alt" selected={sort === 'alt'}>Älteste zuerst</option>
+          </select>
+        </label>
+        <label class="field">
+          <span>Jahr</span>
+          <select name="jahr">
+            <option value="">Alle Jahre</option>
+            {years.map((year) => <option value={year} selected={jahr === year}>{year}</option>)}
+          </select>
+        </label>
+        <button class="button" type="submit">Anwenden</button>
+      </div>
+      <p data-archive-count class="legal-note">{matched.length === 1 ? '1 Video' : `${matched.length} Videos`}</p>
+      <div class="cards" data-archive-grid>
+        {rows.map((row, index) => <VideoCard video={row.video} hidden={row.hidden} priority={index === 0} level="h2" />)}
+      </div>
+      <div data-archive-empty hidden={matched.length !== 0}>
+        <EmptyState title={catalog.videos.length ? 'Keine Videos passen zu dieser Auswahl.' : 'Aktuell sind in diesem Bereich noch keine Beiträge vorhanden.'} actionHref="/videos/" action="Filter zurücksetzen" />
+      </div>
+      <p>
+        <a data-archive-more class="button ghost" href={moreHref} hidden={matched.length <= limit}>Weitere Videos</a>
+      </p>
+    </form>
+  </div>
+</Base>
+<script>
+  import { setupArchive } from '../../scripts/archive.ts';
+  setupArchive();
+</script>

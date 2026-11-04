@@ -1,0 +1,46 @@
+---
+import { badgeSocials } from '../config/social';
+import Picture from './Picture.astro';
+
+interface Props {
+  size?: 'header' | 'section' | 'menu';
+  label?: string;
+  /** If set, only these social ids are shown (e.g. ['youtube']). */
+  only?: string[];
+}
+const { size = 'section', label = 'Kanäle', only } = Astro.props;
+const px = size === 'header' ? 30 : size === 'menu' ? 56 : 112;
+const badgeSizes = size === 'header' ? '30px' : size === 'menu' ? '56px' : '(max-width: 700px) 68px, 112px';
+const items = only?.length
+  ? badgeSocials.filter((item) => only.includes(item.id))
+  : badgeSocials;
+
+const platformClass = (id: string) => {
+  if (id.startsWith('youtube')) return 'is-youtube';
+  if (id === 'tiktok') return 'is-tiktok';
+  if (id === 'telegram') return 'is-telegram';
+  if (id === 'whatsapp') return 'is-whatsapp';
+  if (id === 'x') return 'is-x';
+  return '';
+};
+---
+<nav class:list={['channel-badges', `is-${size}`]} aria-label={label}>
+  {items.map((item) => (
+    <a
+      class:list={['channel-badge', platformClass(item.id)]}
+      href={item.href}
+      rel="noopener noreferrer"
+      title={item.label}
+    >
+      <Picture
+        src={item.badge || ''}
+        width={px}
+        height={px}
+        sizes={badgeSizes}
+        widths={[64, 128, 256]}
+        priority={false}
+      />
+      <span class="sr-only">{item.label}</span>
+    </a>
+  ))}
+</nav>
