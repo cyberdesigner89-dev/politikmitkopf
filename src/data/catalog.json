@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-04T19:25:01.485Z",
+  "syncedAt": "2026-11-04T20:14:54.123Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 178346559,
-        "videoCount": 1579,
+        "videoCount": 1580,
         "hiddenSubscriberCount": false
       }
     },
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "s9kWLRalVyY",
+      "slug": "die-wahrheit-ueber-die-herkunft-der-tatverdaechtigen-der-halloween-kra-s9kWLRalVyY",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Die Wahrheit über die Herkunft der Tatverdächtigen der Halloween-Krawalle in Frankfurt!",
+      "description": "Die ersten belastbaren Zahlen zu den Halloween-Krawallen in Frankfurt zeigen, dass die Mehrheit der Tatverdächtigen einen Migrationshintergrund hat – während die Debatte über Integrationspolitik und Gewalt gegen Polizisten weitergeht.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Die ersten belastbaren Zahlen zu den Halloween-Krawallen in Frankfurt zeigen, dass die Mehrheit der Tatverdächtigen einen Migrationshintergrund hat – während die Debatte über…",
+      "publishedAt": "2026-11-04T19:51:17+00:00",
+      "url": "https://www.youtube.com/watch?v=s9kWLRalVyY",
+      "thumbnail": "/media/s9kWLRalVyY.jpg",
+      "thumbnailRemote": "https://i4.ytimg.com/vi/s9kWLRalVyY/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 2697,
+        "likeCount": null,
+        "commentCount": 52
+      }
+    },
+    {
       "id": "QlcRXVnclBQ",
       "slug": "diesen-winter-musst-du-energie-sparen-QlcRXVnclBQ",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -64,7 +88,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 53
+        "commentCount": 60
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 78936,
+        "viewCount": 86941,
         "likeCount": null,
-        "commentCount": 481
+        "commentCount": 512
       }
     },
     {
@@ -110,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 140875,
+        "viewCount": 146124,
         "likeCount": null,
-        "commentCount": 1232
+        "commentCount": 1244
       }
     },
     {
@@ -134,9 +158,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 140827,
+        "viewCount": 143519,
         "likeCount": null,
-        "commentCount": 2280
+        "commentCount": 2295
       }
     },
     {
@@ -158,7 +182,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 67681,
+        "viewCount": 68324,
         "likeCount": null,
         "commentCount": 375
       }
@@ -185,7 +209,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 104
+        "commentCount": 106
       }
     },
     {
@@ -207,9 +231,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 255358,
+        "viewCount": 256758,
         "likeCount": null,
-        "commentCount": 2015
+        "commentCount": 2022
       }
     },
     {
@@ -231,9 +255,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 86149,
+        "viewCount": 86333,
         "likeCount": null,
-        "commentCount": 540
+        "commentCount": 541
       }
     },
     {
@@ -255,7 +279,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 133561,
+        "viewCount": 133752,
         "likeCount": null,
         "commentCount": 676
       }
@@ -281,7 +305,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 68
+        "commentCount": 69
       }
     },
     {
@@ -303,7 +327,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 115486,
+        "viewCount": 115572,
         "likeCount": null,
         "commentCount": 880
       }
@@ -327,7 +351,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 169149,
+        "viewCount": 169251,
         "likeCount": null,
         "commentCount": 994
       }
@@ -375,9 +399,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 92382,
+        "viewCount": 92414,
         "likeCount": null,
-        "commentCount": 551
+        "commentCount": 553
       }
     },
     {
@@ -399,33 +423,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 126923,
+        "viewCount": 126966,
         "likeCount": null,
         "commentCount": 1300
-      }
-    },
-    {
-      "id": "OxgXg5E5I00",
-      "slug": "brennende-barrikaden-wasserwerfer-die-duemmste-generation-z-eskaliert-OxgXg5E5I00",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Brennende Barrikaden & Wasserwerfer: Die dümmste Generation Z eskaliert!",
-      "description": "Die Gen-Z-Demos am Halloween sind in mehreren Städten eskaliert: Wasserwerfer in Köln, brennende Barrikaden und eine überforderte Polizei in Berlin. Die dümmste Generation will das Ende des kapitalistischen Deutschlands – und bekommt genau das Chaos, das sie selbst provoziert.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Die Gen-Z-Demos am Halloween sind in mehreren Städten eskaliert: Wasserwerfer in Köln, brennende Barrikaden und eine überforderte Polizei in Berlin. Die dümmste Generation will…",
-      "publishedAt": "2026-10-31T19:58:01+00:00",
-      "url": "https://www.youtube.com/watch?v=OxgXg5E5I00",
-      "thumbnail": "/media/OxgXg5E5I00.jpg",
-      "thumbnailRemote": "https://i4.ytimg.com/vi/OxgXg5E5I00/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 330646,
-        "likeCount": null,
-        "commentCount": 1940
       }
     },
     {
@@ -471,7 +471,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 81478,
+        "viewCount": 81481,
         "likeCount": null,
         "commentCount": 524
       }
@@ -567,7 +567,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 42904,
+        "viewCount": 42903,
         "likeCount": 3038,
         "commentCount": 508
       }
@@ -603,8 +603,8 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 119,
-      "likeCount": 320,
+      "followerCount": 120,
+      "likeCount": 322,
       "videoCount": 14
     }
   }
