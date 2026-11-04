@@ -1,3 +1,5 @@
+import { withBase } from '../lib/paths';
+
 function focusable(root: ParentNode): HTMLElement[] {
   return [...root.querySelectorAll<HTMLElement>('a[href], button:not([disabled]), input, select, textarea, [tabindex]:not([tabindex="-1"])')].filter(
     (element) => !element.hasAttribute('disabled') && element.tabIndex !== -1 && !element.closest('[hidden]'),
@@ -84,7 +86,7 @@ function setupSearch(): void {
   let loading: Promise<typeof index> | null = null;
   const ensureIndex = () => {
     if (!loading) {
-      loading = fetch('/search-index.json')
+      loading = fetch(withBase('/search-index.json'))
         .then((response) => (response.ok ? response.json() : []))
         .then((data) => {
           index = Array.isArray(data) ? data : [];
@@ -201,11 +203,13 @@ function setupDeferredAssets(): void {
   const apply = () => {
     const link = document.createElement('link');
     link.rel = 'stylesheet';
-    link.href = '/fonts/fonts.css';
+    link.href = withBase('/fonts/fonts.css');
     document.head.append(link);
+    const avif = withBase('/optimized/images/politik-mit-kopf-background-1600.avif');
+    const webp = withBase('/optimized/images/politik-mit-kopf-background-1600.webp');
     document.documentElement.style.setProperty(
       '--texture',
-      'image-set(url("/optimized/images/politik-mit-kopf-background-1600.avif") type("image/avif"), url("/optimized/images/politik-mit-kopf-background-1600.webp") type("image/webp"))',
+      `image-set(url("${avif}") type("image/avif"), url("${webp}") type("image/webp"))`,
     );
   };
   window.addEventListener('load', apply, { once: true });

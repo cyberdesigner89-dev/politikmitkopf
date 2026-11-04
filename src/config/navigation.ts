@@ -1,32 +1,33 @@
-export const navigation = [
-  { href: '/videos/', label: 'Videos' },
-  { href: '/unsere-kanaele/', label: 'Meine Kanäle' },
-  { href: '/shop/', label: 'Shop' },
-  { href: '/informant-werden/', label: 'Informant werden' },
-  { href: '/unterstuetzen/', label: 'Unterstützen' },
-] as const;
+import { withBase } from '../lib/paths';
 
-export const primaryCta = {
-  href: '/beratungsgespraech/',
-  label: 'Beratungsgespräch',
-} as const;
+const link = (href: string, label: string) => ({ href: withBase(href), label });
+
+export const navigation = [
+  link('/videos/', 'Videos'),
+  link('/unsere-kanaele/', 'Meine Kanäle'),
+  link('/shop/', 'Shop'),
+  link('/informant-werden/', 'Informant werden'),
+  link('/unterstuetzen/', 'Unterstützen'),
+];
+
+export const primaryCta = link('/beratungsgespraech/', 'Beratungsgespräch');
 
 export const footerDiscover = [
-  { href: '/videos/', label: 'Videos' },
-  { href: '/unsere-kanaele/', label: 'Meine Kanäle' },
-  { href: '/shop/', label: 'Shop' },
-  { href: '/aktuelles/', label: 'Aktuelles' },
-  { href: '/suche/', label: 'Suche' },
-] as const;
+  link('/videos/', 'Videos'),
+  link('/unsere-kanaele/', 'Meine Kanäle'),
+  link('/shop/', 'Shop'),
+  link('/aktuelles/', 'Aktuelles'),
+  link('/suche/', 'Suche'),
+];
 
 export const footerProject = [
-  { href: '/ueber-uns/', label: 'Über uns' },
-  { href: '/informant-werden/', label: 'Informant werden' },
-  { href: '/beratungsgespraech/', label: 'Beratungsgespräch' },
-  { href: '/unterstuetzen/', label: 'Unterstützen' },
-] as const;
+  link('/ueber-uns/', 'Über uns'),
+  link('/informant-werden/', 'Informant werden'),
+  link('/beratungsgespraech/', 'Beratungsgespräch'),
+  link('/unterstuetzen/', 'Unterstützen'),
+];
 
 export const footerLegal = [
-  { href: '/impressum/', label: 'Impressum' },
-  { href: '/datenschutz/', label: 'Datenschutz' },
-] as const;
+  link('/impressum/', 'Impressum'),
+  link('/datenschutz/', 'Datenschutz'),
+];

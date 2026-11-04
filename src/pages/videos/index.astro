@@ -5,6 +5,7 @@ import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import VideoCard from '../../components/VideoCard.astro';
 import EmptyState from '../../components/EmptyState.astro';
 import { catalog, channelDirectory, uniqueYears } from '../../lib/catalog';
+import { withBase } from '../../lib/paths';
 
 const q = Astro.url.searchParams.get('q') ?? '';
 const kanal = Astro.url.searchParams.get('kanal') ?? '';
@@ -44,19 +45,19 @@ if (jahr) params.set('jahr', jahr);
 if (thema) params.set('thema', thema);
 if (sort === 'alt') params.set('sort', 'alt');
 params.set('seite', String(page + 1));
-const moreHref = `/videos/?${params.toString()}`;
+const moreHref = withBase(`/videos/?${params.toString()}`);
 ---
 <Base title="Videos" description="Das Videoarchiv von Politik mit Kopf und Politik mit Kopf REAGIERT." lcpImage={catalog.videos[0]?.thumbnail} lcpSizes="(max-width: 640px) 92vw, (max-width: 900px) 46vw, 360px">
   <div class="wrap">
     <Breadcrumbs items={[{ href: '/videos/', label: 'Videos' }]} />
     <PageHeader kicker="Archiv" title="Videos" lede="Neue Beiträge werden automatisch aus YouTube übernommen." />
     {!catalog.ok && catalog.videos.length > 0 && (
-      <p class="notice" role="status">Inhalte konnten momentan nicht vollständig geladen werden. Angezeigt werden die zuletzt gespeicherten Videos. <a href="/videos/">Erneut versuchen</a></p>
+      <p class="notice" role="status">Inhalte konnten momentan nicht vollständig geladen werden. Angezeigt werden die zuletzt gespeicherten Videos. <a href={withBase('/videos/')}>Erneut versuchen</a></p>
     )}
     {thema && (
-      <p class="notice" role="status" data-topic-notice>Thema „{thema}“. <a href="/videos/">Thema zurücksetzen</a></p>
+      <p class="notice" role="status" data-topic-notice>Thema „{thema}“. <a href={withBase('/videos/')}>Thema zurücksetzen</a></p>
     )}
-    <form action="/videos/" method="get" data-archive>
+    <form action={withBase('/videos/')} method="get" data-archive>
       <div class="filters">
         <label class="field">
           <span>Videos durchsuchen</span>

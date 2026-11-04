@@ -1,5 +1,6 @@
 ---
 import { PHOTO_WIDTHS, buildSrcSet, supportsAvif } from '../lib/images';
+import { withBase } from '../lib/paths';
 
 interface Props {
   src: string;
@@ -23,12 +24,14 @@ const {
 } = Astro.props;
 const webp = buildSrcSet(src, widths, 'webp');
 const avif = supportsAvif(src) ? buildSrcSet(src, widths, 'avif') : '';
+const resolvedSrc = src ? withBase(src) : src;
+const resolvedFallback = fallback ? withBase(fallback) : fallback;
 ---
 <picture>
   {avif && <source type="image/avif" srcset={avif} sizes={sizes} />}
   <source type="image/webp" srcset={webp} sizes={sizes} />
   <img
-    src={src}
+    src={resolvedSrc}
     alt={alt}
     width={width}
     height={height}
@@ -36,6 +39,6 @@ const avif = supportsAvif(src) ? buildSrcSet(src, widths, 'avif') : '';
     loading={priority ? 'eager' : 'lazy'}
     decoding="async"
     fetchpriority={priority ? 'high' : 'low'}
-    data-fallback={fallback}
+    data-fallback={resolvedFallback}
   />
 </picture>

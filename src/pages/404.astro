@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import { withBase } from '../lib/paths';
 ---
 <Base title="Seite nicht gefunden" description="Diese Seite konnten wir nicht finden." noindex={true}>
   <div class="wrap">
@@ -7,8 +8,8 @@ import Base from '../layouts/Base.astro';
       <p class="kicker">404</p>
       <h1>Diese Seite konnten wir nicht finden.</h1>
       <div class="hero-actions">
-        <a class="button" href="/">Zur Startseite</a>
-        <a class="button ghost" href="/videos/">Videos ansehen</a>
+        <a class="button" href={withBase('/')}>Zur Startseite</a>
+        <a class="button ghost" href={withBase('/videos/')}>Videos ansehen</a>
       </div>
     </header>
   </div>

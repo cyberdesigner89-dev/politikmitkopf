@@ -1,4 +1,6 @@
 ---
+import { withBase } from '../lib/paths';
+
 interface Props {
   items: { href: string; label: string }[];
 }
@@ -6,10 +8,10 @@ const { items } = Astro.props;
 ---
 <nav aria-label="Brotkrumen">
   <ol class="crumbs">
-    <li><a href="/">Startseite</a></li>
+    <li><a href={withBase('/')}>Startseite</a></li>
     {items.map((item, index) => (
       <li>
-        {index < items.length - 1 ? <a href={item.href}>{item.label}</a> : <span aria-current="page">{item.label}</span>}
+        {index < items.length - 1 ? <a href={withBase(item.href)}>{item.label}</a> : <span aria-current="page">{item.label}</span>}
       </li>
     ))}
   </ol>

@@ -1,11 +1,18 @@
 ---
 import { navigation, primaryCta } from '../config/navigation';
+import { withBase } from '../lib/paths';
 import ChannelBadges from './ChannelBadges.astro';
 import Icon from './Icon.astro';
 import Picture from './Picture.astro';
 
-const pathname = Astro.url.pathname;
-const current = (href: string) => (href === '/' ? pathname === '/' : pathname === href || pathname.startsWith(href));
+const home = withBase('/');
+const pathname = Astro.url.pathname.endsWith('/') ? Astro.url.pathname : `${Astro.url.pathname}/`;
+const current = (href: string) => {
+  const target = href.split('?')[0];
+  const normalized = target.endsWith('/') ? target : `${target}/`;
+  if (normalized === home) return pathname === home;
+  return pathname === normalized || pathname.startsWith(normalized);
+};
 ---
 <header class="site-header" data-header>
   <div class="header-bar">
@@ -13,7 +20,7 @@ const current = (href: string) => (href === '/' ? pathname === '/' : pathname ==
       <span class="sr-only">Menü</span>
       <Icon name="menu" />
     </button>
-    <a class="brand" href="/">
+    <a class="brand" href={home}>
       <Picture src="/brand/mark.jpg" width={36} height={36} sizes="36px" widths={[64, 128]} fallback="/favicon.svg" />
       <span class="wordmark">Politik <em>mit Kopf</em></span>
     </a>
@@ -24,7 +31,7 @@ const current = (href: string) => (href === '/' ? pathname === '/' : pathname ==
     </nav>
     <div class="header-tools">
       <ChannelBadges size="header" only={['youtube']} label="YouTube" />
-      <a class="tool tool-search" href="/suche/" data-search-open aria-label="Suche">
+      <a class="tool tool-search" href={withBase('/suche/')} data-search-open aria-label="Suche">
         <Icon name="search" size={18} />
         <span class="search-text">Suche</span>
       </a>
@@ -34,7 +41,7 @@ const current = (href: string) => (href === '/' ? pathname === '/' : pathname ==
 </header>
 <div id="menu" class="menu-panel" hidden data-menu-panel>
   <div class="menu-top">
-    <a class="brand" href="/">
+    <a class="brand" href={home}>
       <Picture src="/brand/mark.jpg" width={36} height={36} sizes="36px" widths={[64, 128]} fallback="/favicon.svg" />
       <span class="wordmark">Politik <em>mit Kopf</em></span>
     </a>
@@ -51,7 +58,7 @@ const current = (href: string) => (href === '/' ? pathname === '/' : pathname ==
   <a class="button cta-consult" href={primaryCta.href}>{primaryCta.label}</a>
   <ChannelBadges size="menu" label="Kanäle" />
   <div class="menu-social">
-    <a href="/unsere-kanaele/">Meine Kanäle</a>
-    <a href="/suche/" data-search-open>Suche</a>
+    <a href={withBase('/unsere-kanaele/')}>Meine Kanäle</a>
+    <a href={withBase('/suche/')} data-search-open>Suche</a>
   </div>
 </div>

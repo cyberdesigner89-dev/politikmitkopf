@@ -1,6 +1,6 @@
 export const site = {
   name: 'Politik mit Kopf',
-  url: 'https://web-developer89.github.io',
+  url: 'https://cyberdesigner89-dev.github.io',
   locale: 'de-DE',
   description:
     'Politik mit Kopf ist die unabhängige Medienplattform für Analysen, Einordnungen und Reaktionsvideos zu Politik, Gesellschaft, Wirtschaft und Medien.',

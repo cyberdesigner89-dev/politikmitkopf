@@ -1,4 +1,6 @@
 ---
+import { withBase } from '../lib/paths';
+
 interface Props {
   title: string;
   actionHref?: string;
@@ -8,5 +10,5 @@ const { title, actionHref, action } = Astro.props;
 ---
 <div class="empty">
   <p>{title}</p>
-  {actionHref && action && <p><a class="link-arrow" href={actionHref}>{action}</a></p>}
+  {actionHref && action && <p><a class="link-arrow" href={withBase(actionHref)}>{action}</a></p>}
 </div>

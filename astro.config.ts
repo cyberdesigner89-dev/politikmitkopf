@@ -2,8 +2,11 @@ import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 import { site } from './src/config/site';
 
+const base = '/politikmitkopf';
+
 export default defineConfig({
   site: site.url,
+  base,
   trailingSlash: 'always',
   integrations: [
     sitemap({
@@ -19,11 +22,11 @@ export default defineConfig({
     inlineStylesheets: 'always',
   },
   redirects: {
-    '/kontakt/': '/informant-werden/',
-    '/themen/': '/videos/',
-    '/themen/gesellschaft/': '/videos/',
-    '/themen/wirtschaft/': '/videos/',
-    '/themen/medien/': '/videos/',
-    '/themen/politik/': '/videos/',
+    '/kontakt/': `${base}/informant-werden/`,
+    '/themen/': `${base}/videos/`,
+    '/themen/gesellschaft/': `${base}/videos/`,
+    '/themen/wirtschaft/': `${base}/videos/`,
+    '/themen/medien/': `${base}/videos/`,
+    '/themen/politik/': `${base}/videos/`,
   },
 });

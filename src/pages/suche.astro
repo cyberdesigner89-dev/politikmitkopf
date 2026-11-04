@@ -3,6 +3,7 @@ import Base from '../layouts/Base.astro';
 import PageHeader from '../components/PageHeader.astro';
 import { searchContent } from '../lib/search';
 import { formatDate } from '../lib/format';
+import { withBase } from '../lib/paths';
 
 const q = Astro.url.searchParams.get('q')?.trim() ?? '';
 const results = q ? searchContent(q) : [];
@@ -10,7 +11,7 @@ const results = q ? searchContent(q) : [];
 <Base title="Suche" description="Beiträge, Themen und Seiten von Politik mit Kopf durchsuchen." noindex={Boolean(q)}>
   <div class="wrap" data-search-page data-rendered={q ? 'server' : undefined}>
     <PageHeader kicker="Suche" title="Was möchten Sie finden?" />
-    <form class="filters filters-search" action="/suche/" method="get" role="search">
+    <form class="filters filters-search" action={withBase('/suche/')} method="get" role="search">
       <label class="field">
         <span class="sr-only">Suchbegriff</span>
         <input name="q" type="search" value={q} enterkeyhint="search" />
@@ -36,6 +37,8 @@ const results = q ? searchContent(q) : [];
   </div>
 </Base>
 <script>
+  import { withBase } from '../lib/paths';
+
   const root = document.querySelector('[data-search-page]');
   if (root instanceof HTMLElement && root.dataset.rendered !== 'server') {
     const params = new URLSearchParams(window.location.search);
@@ -49,7 +52,7 @@ const results = q ? searchContent(q) : [];
       status.setAttribute('role', 'status');
       status.textContent = 'Suche läuft…';
       output.replaceChildren(status);
-      fetch('/search-index.json')
+      fetch(withBase('/search-index.json'))
         .then((response) => (response.ok ? response.json() : []))
         .then((data) => {
           const needle = query.toLowerCase();
@@ -82,7 +85,7 @@ const results = q ? searchContent(q) : [];
             const body = document.createElement('div');
             const heading = document.createElement('h2');
             const link = document.createElement('a');
-            link.href = String(item.href || '/');
+            link.href = String(item.href || withBase('/'));
             link.textContent = String(item.title || 'Eintrag');
             heading.append(link);
             body.append(heading);

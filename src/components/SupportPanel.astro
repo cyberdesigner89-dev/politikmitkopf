@@ -1,5 +1,6 @@
 ---
 import { support } from '../config/support';
+import { withBase } from '../lib/paths';
 
 interface Props {
   compact?: boolean;
@@ -42,5 +43,5 @@ const banks = support.banks.filter((bank) => bank.enabled);
       <p><em>{support.disclaimer}</em></p>
     </div>
   )}
-  {compact && <p><a class="link-arrow" href="/unterstuetzen/">Alle Angaben</a></p>}
+  {compact && <p><a class="link-arrow" href={withBase('/unterstuetzen/')}>Alle Angaben</a></p>}
 </section>

@@ -1,5 +1,6 @@
 import { catalog, videoPath } from './catalog';
 import { connectedSocials } from '../config/social';
+import { withBase } from './paths';
 
 export type SearchItem = {
   href: string;
@@ -11,79 +12,79 @@ export type SearchItem = {
 
 const pages: SearchItem[] = [
   {
-    href: '/videos/',
+    href: withBase('/videos/'),
     title: 'Videos',
     kind: 'Seite',
     text: 'Videothek Archiv Beiträge durchsuchen',
   },
   {
-    href: '/unsere-kanaele/',
+    href: withBase('/unsere-kanaele/'),
     title: 'Meine Kanäle',
     kind: 'Seite',
     text: 'Politik mit Kopf REAGIERT YouTube Kanäle',
   },
   {
-    href: '/politik-mit-kopf/',
+    href: withBase('/politik-mit-kopf/'),
     title: 'Politik mit Kopf',
     kind: 'Seite',
     text: 'Hauptkanal YouTube Analysen',
   },
   {
-    href: '/politik-mit-kopf-reagiert/',
+    href: withBase('/politik-mit-kopf-reagiert/'),
     title: 'Politik mit Kopf REAGIERT',
     kind: 'Seite',
     text: 'Reaktionskanal YouTube Reaktionen',
   },
   {
-    href: '/aktuelles/',
+    href: withBase('/aktuelles/'),
     title: 'Aktuelles',
     kind: 'Seite',
     text: 'Neueste Veröffentlichungen Videos Livestream',
   },
   {
-    href: '/informant-werden/',
+    href: withBase('/informant-werden/'),
     title: 'Informant werden',
     kind: 'Seite',
     text: 'Hinweise Unterlagen E-Mail Post Diskretion',
   },
   {
-    href: '/beratungsgespraech/',
+    href: withBase('/beratungsgespraech/'),
     title: 'Beratungsgespräch',
     kind: 'Seite',
     text: 'Beratung Anfrage Zusammenarbeit kontakt@politikmitkopf.de',
   },
   {
-    href: '/ueber-uns/',
+    href: withBase('/ueber-uns/'),
     title: 'Über uns',
     kind: 'Seite',
     text: 'Politik mit Kopf Projekt Kanal Beschreibung',
   },
   {
-    href: '/social-media/',
+    href: withBase('/social-media/'),
     title: 'Social Media',
     kind: 'Seite',
     text: connectedSocials.map((item) => item.label).join(' '),
   },
   {
-    href: '/shop/',
+    href: withBase('/shop/'),
     title: 'Shop',
     kind: 'Seite',
     text: 'Amazon Shop Tesla Empfehlungslink Produkte',
   },
   {
-    href: '/unterstuetzen/',
+    href: withBase('/unterstuetzen/'),
     title: 'Projekt unterstützen',
     kind: 'Seite',
     text: 'Spende Unterstützung IBAN',
   },
   {
-    href: '/impressum/',
+    href: withBase('/impressum/'),
     title: 'Impressum',
     kind: 'Seite',
     text: 'MK Swiss Media GmbH Impressum Einsiedeln kontakt@politikmitkopf.de',
   },
   {
-    href: '/datenschutz/',
+    href: withBase('/datenschutz/'),
     title: 'Datenschutz',
     kind: 'Seite',
     text: 'Datenschutz YouTube',

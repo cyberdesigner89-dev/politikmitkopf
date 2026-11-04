@@ -2,6 +2,7 @@
 import { connectedSocials } from '../config/social';
 import { feed } from '../lib/catalog';
 import { formatDate } from '../lib/format';
+import { withBase } from '../lib/paths';
 import '../styles/overlay.css';
 
 interface Props {
@@ -19,7 +20,7 @@ const custom = feed.message.custom || '';
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="robots" content="noindex" />
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href={withBase('/favicon.svg')} type="image/svg+xml" />
     <title>{title}</title>
   </head>
   <body data-overlay={kind}>
@@ -42,7 +43,7 @@ const custom = feed.message.custom || '';
     )}
     {kind === 'latest-video' && feed.latest && (
       <article class="card" data-bind="latest">
-        <img data-bind="thumb" src={feed.latest.thumbnail} alt="" width="640" height="360" />
+        <img data-bind="thumb" src={withBase(feed.latest.thumbnail)} alt="" width="640" height="360" />
         <div>
           <p class="kicker">Neues Video</p>
           <h1 data-bind="latest-title">{feed.latest.title}</h1>
@@ -70,6 +71,8 @@ const custom = feed.message.custom || '';
       </section>
     )}
     <script>
+      import { withBase } from '../lib/paths';
+
       const params = new URLSearchParams(window.location.search);
       if (params.has('preview')) document.documentElement.classList.add('is-preview');
 
@@ -93,7 +96,7 @@ const custom = feed.message.custom || '';
         const date = document.querySelector('[data-bind="latest-date"]');
         if (date && feed.latest) date.textContent = feed.latest.publishedAt ?? '';
         const thumb = document.querySelector('[data-bind="thumb"]');
-        if (thumb instanceof HTMLImageElement && feed.latest?.thumbnail) thumb.src = feed.latest.thumbnail;
+        if (thumb instanceof HTMLImageElement && feed.latest?.thumbnail) thumb.src = withBase(feed.latest.thumbnail);
         const live = document.querySelector('[data-bind="live"]');
         const liveTitle = document.querySelector('[data-bind="live-title"]');
         if (live instanceof HTMLElement) {
@@ -108,7 +111,7 @@ const custom = feed.message.custom || '';
 
       const refresh = async () => {
         try {
-          const response = await fetch(`/data/feed.json?t=${Date.now()}`, { cache: 'no-store' });
+          const response = await fetch(withBase(`/data/feed.json?t=${Date.now()}`), { cache: 'no-store' });
           if (!response.ok) return;
           apply(await response.json());
         } catch {

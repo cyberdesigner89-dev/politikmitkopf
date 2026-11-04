@@ -5,6 +5,7 @@ import Breadcrumbs from '../components/Breadcrumbs.astro';
 import VideoCard from '../components/VideoCard.astro';
 import EmptyState from '../components/EmptyState.astro';
 import { catalog, videoPath } from '../lib/catalog';
+import { withBase } from '../lib/paths';
 import Picture from '../components/Picture.astro';
 import { formatCompact, formatDate } from '../lib/format';
 
@@ -68,7 +69,7 @@ const rest = videos.slice(1);
           <section class="section" style="padding-top:28px">
             <div class="section-head">
               <h2>Weitere aktuelle Videos</h2>
-              <a class="link-arrow" href="/videos/">Alle Videos</a>
+              <a class="link-arrow" href={withBase('/videos/')}>Alle Videos</a>
             </div>
             <div class="aktuelles-grid">
               {rest.map((video) => (

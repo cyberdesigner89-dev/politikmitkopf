@@ -646,13 +646,13 @@ a { color: inherit; }
   transform: translate(-50%, -50%);
   pointer-events: none;
   background: rgba(59, 167, 255, 0.32);
-  mask-image: url("/images/cyberdesigner-logo.png"), url("/images/cyberdesigner-logo.png");
+  mask-image: var(--credit-logo), var(--credit-logo);
   mask-repeat: no-repeat, no-repeat;
   mask-position: center, center;
   mask-mode: alpha, alpha;
   mask-size: 150px 62px, 154px 63.63px;
   mask-composite: exclude, add;
-  -webkit-mask-image: url("/images/cyberdesigner-logo.png"), url("/images/cyberdesigner-logo.png");
+  -webkit-mask-image: var(--credit-logo), var(--credit-logo);
   -webkit-mask-repeat: no-repeat, no-repeat;
   -webkit-mask-position: center, center;
   -webkit-mask-size: 150px 62px, 154px 63.63px;

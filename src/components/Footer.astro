@@ -3,6 +3,11 @@ import { footerDiscover, footerLegal, footerProject } from '../config/navigation
 import { connectedSocials } from '../config/social';
 import { publisherLines, site } from '../config/site';
 import { currentYear } from '../lib/format';
+import { withBase } from '../lib/paths';
+
+const watermark = withBase('/brand/watermark.svg');
+const creditLogo = withBase('/images/cyberdesigner-logo.png');
+const creditLogoWebp = withBase('/images/cyberdesigner-logo.webp');
 ---
 <footer class="site-footer">
   <div class="wrap">
@@ -33,13 +38,13 @@ import { currentYear } from '../lib/format';
         </ul>
       </div>
     </div>
-    <p class="footer-mark" aria-hidden="true"><img src="/brand/watermark.svg" alt="" width="980" height="140" decoding="async" loading="lazy" /></p>
+    <p class="footer-mark" aria-hidden="true"><img src={watermark} alt="" width="980" height="140" decoding="async" loading="lazy" /></p>
     <p class="legal-note">© {currentYear()} {site.name}</p>
     <div class="footer-credit">
-      <a class="footer-credit-logo" href="https://cyberdesigner.de" target="_blank" rel="noopener noreferrer">
+      <a class="footer-credit-logo" href="https://cyberdesigner.de" target="_blank" rel="noopener noreferrer" style={`--credit-logo:url("${creditLogo}")`}>
         <picture>
-          <source type="image/webp" srcset="/images/cyberdesigner-logo.webp" />
-          <img src="/images/cyberdesigner-logo.png" alt="cyberdesigner.de" width="300" height="124" decoding="async" loading="lazy" />
+          <source type="image/webp" srcset={creditLogoWebp} />
+          <img src={creditLogo} alt="cyberdesigner.de" width="300" height="124" decoding="async" loading="lazy" />
         </picture>
       </a>
       <a class="footer-credit-text" href="https://cyberdesigner.de" target="_blank" rel="noopener noreferrer">Diese Seite wurde entwickelt von cyberdesigner.de</a>

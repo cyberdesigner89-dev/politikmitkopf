@@ -7,6 +7,7 @@ import VideoCard from '../../components/VideoCard.astro';
 import { catalog, relatedVideos, subscribeUrlForVideo, videoPath } from '../../lib/catalog';
 import { descriptionLines, formatDate, linkify } from '../../lib/format';
 import { site } from '../../config/site';
+import { absoluteUrl, withBase } from '../../lib/paths';
 import type { Video } from '../../types';
 
 export function getStaticPaths() {
@@ -18,15 +19,16 @@ interface Props {
 }
 const { video } = Astro.props;
 const related = relatedVideos(video);
-const pageUrl = new URL(videoPath(video), site.url).href;
-const image = video.thumbnail.startsWith('http') ? video.thumbnail : new URL(video.thumbnail, site.url).href;
+const pageUrl = absoluteUrl(videoPath(video), site.url);
+const image = absoluteUrl(video.thumbnail, site.url);
+const homeUrl = absoluteUrl('/', site.url);
 const jsonLd = [
   {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Startseite', item: `${site.url}/` },
-      { '@type': 'ListItem', position: 2, name: 'Videos', item: `${site.url}/videos/` },
+      { '@type': 'ListItem', position: 1, name: 'Startseite', item: homeUrl },
+      { '@type': 'ListItem', position: 2, name: 'Videos', item: absoluteUrl('/videos/', site.url) },
       { '@type': 'ListItem', position: 3, name: video.title, item: pageUrl },
     ],
   },
@@ -39,7 +41,7 @@ const jsonLd = [
     uploadDate: video.publishedAt,
     embedUrl: `https://www.youtube-nocookie.com/embed/${video.id}`,
     url: pageUrl,
-    publisher: { '@type': 'Organization', name: site.name, url: site.url },
+    publisher: { '@type': 'Organization', name: site.name, url: homeUrl },
   },
 ];
 ---
@@ -47,8 +49,8 @@ const jsonLd = [
   <article class="wrap">
     <nav aria-label="Brotkrumen">
       <ol class="crumbs">
-        <li><a href="/">Startseite</a></li>
-        <li><a href="/videos/">Videos</a></li>
+        <li><a href={withBase('/')}>Startseite</a></li>
+        <li><a href={withBase('/videos/')}>Videos</a></li>
         <li><span aria-current="page">{video.title}</span></li>
       </ol>
     </nav>
@@ -77,7 +79,7 @@ const jsonLd = [
     </div>
     {video.tags.length > 0 && (
       <ul class="tags">
-        {video.tags.map((tag) => <li><a href={`/videos/?thema=${encodeURIComponent(tag)}`}>#{tag}</a></li>)}
+        {video.tags.map((tag) => <li><a href={withBase(`/videos/?thema=${encodeURIComponent(tag)}`)}>#{tag}</a></li>)}
       </ul>
     )}
   </article>
@@ -86,7 +88,7 @@ const jsonLd = [
       <div class="wrap">
         <div class="section-head">
           <h2>Weitere Videos</h2>
-          <a class="link-arrow" href="/videos/">Alle Videos</a>
+          <a class="link-arrow" href={withBase('/videos/')}>Alle Videos</a>
         </div>
         <div class="cards">
           {related.map((item) => <VideoCard video={item} />)}

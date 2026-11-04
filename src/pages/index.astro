@@ -10,6 +10,7 @@ import ChannelBadges from '../components/ChannelBadges.astro';
 import Picture from '../components/Picture.astro';
 import { site } from '../config/site';
 import { primaryCta } from '../config/navigation';
+import { absoluteUrl, withBase } from '../lib/paths';
 import { connectedSocials } from '../config/social';
 
 const featured = getFeatured();
@@ -24,7 +25,7 @@ const reactionVideos = reagiert
 const latest = primary
   ? catalog.videos.filter((video) => video.channelId === primary.channelId).slice(0, 8)
   : catalog.videos.slice(0, 8);
-const origin = site.url;
+const origin = absoluteUrl('/', site.url);
 const jsonLd = [
   {
     '@context': 'https://schema.org',
@@ -33,7 +34,7 @@ const jsonLd = [
     legalName: site.publisher.legalName,
     url: origin,
     email: site.contactEmail,
-    logo: new URL('/brand/mark.jpg', origin).href,
+    logo: absoluteUrl('/brand/mark.jpg', site.url),
     sameAs: connectedSocials.map((item) => item.profileUrl || item.href),
     address: {
       '@type': 'PostalAddress',
@@ -53,7 +54,7 @@ const jsonLd = [
       '@type': 'SearchAction',
       target: {
         '@type': 'EntryPoint',
-        urlTemplate: `${origin}/suche/?q={search_term_string}`,
+        urlTemplate: `${absoluteUrl('/suche/', site.url)}?q={search_term_string}`,
       },
       'query-input': 'required name=search_term_string',
     },
@@ -76,7 +77,7 @@ const jsonLd = [
       <h1>Politik mit Kopf</h1>
       <p class="lede">{site.description}</p>
       <div class="hero-actions">
-        <a class="button" href="/videos/">Neueste Videos ansehen</a>
+        <a class="button" href={withBase('/videos/')}>Neueste Videos ansehen</a>
         <a class="button ghost" href={primaryCta.href}>{primaryCta.label}</a>
       </div>
     </section>
@@ -108,7 +109,7 @@ const jsonLd = [
     <div class="wrap">
       <div class="section-head">
         <h2>Neueste Videos</h2>
-        <a class="link-arrow" href="/videos/">Ins Archiv</a>
+        <a class="link-arrow" href={withBase('/videos/')}>Ins Archiv</a>
       </div>
       <div class="mosaic">
         {latest.map((video, index) => (
@@ -126,7 +127,7 @@ const jsonLd = [
             <p class="kicker">Reaktionskanal</p>
             <h2>Politik mit Kopf REAGIERT</h2>
           </div>
-          <a class="link-arrow" href="/politik-mit-kopf-reagiert/">Zum Kanal</a>
+          <a class="link-arrow" href={withBase('/politik-mit-kopf-reagiert/')}>Zum Kanal</a>
         </div>
         <div class="rail">
           {reactionVideos.map((video) => <VideoCard video={video} variant="rail" hideEngagement={true} />)}
@@ -141,7 +142,7 @@ const jsonLd = [
         <p class="kicker">Vertraulich</p>
         <h2>Informant werden</h2>
         <p>Sie verfügen über relevante Informationen, Hinweise oder Unterlagen? Erfahren Sie, wie Sie mit Politik mit Kopf vertraulich Kontakt aufnehmen können.</p>
-        <a class="button" href="/informant-werden/">Hinweise übermitteln</a>
+        <a class="button" href={withBase('/informant-werden/')}>Hinweise übermitteln</a>
       </div>
     </div>
   </section>
@@ -161,7 +162,7 @@ const jsonLd = [
         <p class="kicker">Unterstützung</p>
         <h2>Projekt unterstützen</h2>
         <p>Sie möchten die Arbeit von Politik mit Kopf unterstützen? Hier finden Sie die verfügbaren Möglichkeiten.</p>
-        <p><a class="link-arrow" href="/unterstuetzen/">Alle Angaben</a></p>
+        <p><a class="link-arrow" href={withBase('/unterstuetzen/')}>Alle Angaben</a></p>
       </div>
       <SupportPanel compact={true} />
     </div>

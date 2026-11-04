@@ -4,6 +4,7 @@ import youtubeConfig from '../config/youtube.json';
 import tiktokConfig from '../config/tiktok.json';
 import { topics } from '../config/topics';
 import type { Catalog, CatalogChannel, Feed, TikTokChannel, Video } from '../types';
+import { withBase } from './paths';
 
 function normalizeCatalog(raw: Catalog): Catalog {
   return {
@@ -67,7 +68,7 @@ export function getTikTok(): TikTokChannel | null {
 }
 
 export function videoPath(video: Pick<Video, 'slug'>): string {
-  return `/videos/${video.slug}/`;
+  return withBase(`/videos/${video.slug}/`);
 }
 
 /** Every outbound YouTube channel link must open the subscribe confirmation dialog. */

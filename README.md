@@ -2,7 +2,7 @@
 
 Statische Medienplattform für [Politik mit Kopf](https://www.youtube.com/@PolitikmitKopf) und [Politik mit Kopf REAGIERT](https://www.youtube.com/@PolitikmitKopfReagiert).
 
-Öffentliche Adresse: https://web-developer89.github.io/
+Öffentliche Adresse: https://cyberdesigner89-dev.github.io/politikmitkopf/
 
 ## Lokal
 
@@ -25,7 +25,7 @@ Konfiguration in `src/config/youtube.json`:
 
 Ohne `YOUTUBE_API_KEY` liest der Sync die öffentlichen About-Seiten der Kanäle (`/about`: Abonnenten, Aufrufe, Videoanzahl) und ergänzt Aufrufe einzelner Videos über die öffentliche YouTube-Seite. Die Zeitreihe liegt in `src/data/snapshots.json` und `public/data/stats.json`. Ein API-Key ist nur optional und wird für diese Anzeige nicht gebraucht.
 
-Die Sektion **Meine Community wächst** zeigt die YouTube-Abonnentenzahlen. Jeder Lauf des Sync-Workflows schreibt `/data/community.json` neu (Messpunkte der letzten 40 Tage) und veröffentlicht sie mit demselben Deploy. Die Seite lädt diese Datei nach dem Aufbau und danach alle 60 Sekunden mit `cache: 'no-store'` und einem Zeitstempel in der Adresse. Eine fehlgeschlagene, ungültige oder ältere Antwort lässt die zuletzt gültigen Zahlen stehen; eine gemeldete 0 ersetzt keine bereits bekannte positive Abonnentenzahl. Ist die Änderung in 7 Tagen nicht 0, steht sie in der Zeile. Sonst die Änderung über 30 Tage, oder „seit dem …“, wenn die Historie kürzer ist. Ist die gemessene Änderung 0, wird die Zeile ausgeblendet, weil YouTube Abonnenten rundet. TikTok erscheint in diesen Panels nicht.
+Die Sektion **Meine Community wächst** zeigt die YouTube-Abonnentenzahlen. Jeder Lauf des Sync-Workflows schreibt `public/data/community.json` neu (Messpunkte der letzten 40 Tage) und veröffentlicht sie mit demselben Deploy. Die Seite lädt diese Datei über das base-Präfix unter `/politikmitkopf/data/community.json` nach dem Aufbau und danach alle 60 Sekunden mit `cache: 'no-store'` und einem Zeitstempel in der Adresse. Eine fehlgeschlagene, ungültige oder ältere Antwort lässt die zuletzt gültigen Zahlen stehen; eine gemeldete 0 ersetzt keine bereits bekannte positive Abonnentenzahl. Ist die Änderung in 7 Tagen nicht 0, steht sie in der Zeile. Sonst die Änderung über 30 Tage, oder „seit dem …“, wenn die Historie kürzer ist. Ist die gemessene Änderung 0, wird die Zeile ausgeblendet, weil YouTube Abonnenten rundet. TikTok erscheint in diesen Panels nicht.
 
 ### Backend-Takt
 
@@ -51,24 +51,24 @@ Siehe `.env.example`.
 
 ## Seiten
 
-- `/` — Premium-Homepage mit Abonnenten-Panels und Kanalentwicklung
-- `/beratungsgespraech/` — Anfrage direkt vom Browser an `kontakt@politikmitkopf.de` (FormSubmit; erste Nutzung einmal per Mail bestätigen)
-- `/informant-werden/` — vertrauliche Hinweise
-- `/politik-mit-kopf/` und `/politik-mit-kopf-reagiert/` — Kanalarchive
+- `/politikmitkopf/` — Premium-Homepage mit Abonnenten-Panels und Kanalentwicklung
+- `/politikmitkopf/beratungsgespraech/` — Anfrage direkt vom Browser an `kontakt@politikmitkopf.de` (FormSubmit; erste Nutzung einmal per Mail bestätigen)
+- `/politikmitkopf/informant-werden/` — vertrauliche Hinweise
+- `/politikmitkopf/politik-mit-kopf/` und `/politikmitkopf/politik-mit-kopf-reagiert/` — Kanalarchive
 
 Die interne Synchronisation wird nicht als Seite veröffentlicht.
 
 ## OBS
 
-Browserquellen, transparent, 1920×1080:
+Browserquellen, transparent, 1920×1080. Die Adressen enthalten den Projektpfad:
 
-- `/overlay/news/`
-- `/overlay/headline/`
-- `/overlay/ticker/`
-- `/overlay/latest-video/`
-- `/overlay/live/`
-- `/overlay/socials/`
-- `/overlay/custom/`
+- https://cyberdesigner89-dev.github.io/politikmitkopf/overlay/news/
+- https://cyberdesigner89-dev.github.io/politikmitkopf/overlay/headline/
+- https://cyberdesigner89-dev.github.io/politikmitkopf/overlay/ticker/
+- https://cyberdesigner89-dev.github.io/politikmitkopf/overlay/latest-video/
+- https://cyberdesigner89-dev.github.io/politikmitkopf/overlay/live/
+- https://cyberdesigner89-dev.github.io/politikmitkopf/overlay/socials/
+- https://cyberdesigner89-dev.github.io/politikmitkopf/overlay/custom/
 
 ## Veröffentlichung
 

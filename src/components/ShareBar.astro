@@ -1,12 +1,14 @@
 ---
 import { videoPath } from '../lib/catalog';
+import { site } from '../config/site';
+import { absoluteUrl } from '../lib/paths';
 import type { Video } from '../types';
 
 interface Props {
   video: Video;
 }
 const { video } = Astro.props;
-const pageUrl = new URL(videoPath(video), Astro.site ?? 'https://web-developer89.github.io').href;
+const pageUrl = absoluteUrl(videoPath(video), Astro.site?.href ?? site.url);
 const text = encodeURIComponent(video.title);
 const url = encodeURIComponent(pageUrl);
 ---

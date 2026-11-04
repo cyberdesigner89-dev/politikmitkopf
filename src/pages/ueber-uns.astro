@@ -3,6 +3,7 @@ import Base from '../layouts/Base.astro';
 import PageHeader from '../components/PageHeader.astro';
 import Breadcrumbs from '../components/Breadcrumbs.astro';
 import { publisherLines, site } from '../config/site';
+import { withBase } from '../lib/paths';
 ---
 <Base title="Über uns" description={site.description}>
   <div class="wrap">
@@ -20,7 +21,7 @@ import { publisherLines, site } from '../config/site';
       <h2>Herausgeber</h2>
       <p>{publisherLines.join(', ')}</p>
       <p>Handelsregister: {site.publisher.registerNumber}, {site.publisher.registerCourt}</p>
-      <p><a class="link-arrow" href="/impressum/">Impressum</a></p>
+      <p><a class="link-arrow" href={withBase('/impressum/')}>Impressum</a></p>
     </div>
   </div>
 </Base>

@@ -1,3 +1,5 @@
+import { withBase } from '../lib/paths';
+
 export function setupArchive(): void {
   const root = document.querySelector('[data-archive]');
   if (!(root instanceof HTMLElement)) return;
@@ -28,7 +30,7 @@ export function setupArchive(): void {
     note.setAttribute('role', 'status');
     note.dataset.topicNotice = '';
     const clear = document.createElement('a');
-    clear.href = '/videos/';
+    clear.href = withBase('/videos/');
     clear.textContent = 'Thema zurücksetzen';
     note.append(`Thema „${topicParam}“. `, clear);
     count?.before(note);

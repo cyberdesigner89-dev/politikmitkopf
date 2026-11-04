@@ -5,6 +5,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { site } from '../config/site';
 import { PHOTO_WIDTHS, buildSrcSet, optimizedSrc } from '../lib/images';
+import { absoluteUrl, withBase } from '../lib/paths';
 
 interface Props {
   title: string;
@@ -28,9 +29,9 @@ const {
   lcpSizes = '(min-width: 981px) 640px, 92vw',
 } = Astro.props;
 const fullTitle = title === site.name ? site.name : `${title} · ${site.name}`;
-const isNotFound = Astro.url.pathname === '/404/';
+const isNotFound = /\/404\/?$/.test(Astro.url.pathname);
 const canonical = new URL(Astro.url.pathname, site.url);
-const imageUrl = image.startsWith('http') ? image : new URL(image, site.url).href;
+const imageUrl = absoluteUrl(image, site.url);
 const schema = jsonLd ? JSON.stringify(jsonLd).replace(/</g, '\\u003c') : '';
 const lcpSrcSet = lcpImage ? buildSrcSet(lcpImage, PHOTO_WIDTHS, 'avif') : '';
 ---
@@ -45,8 +46,8 @@ const lcpSrcSet = lcpImage ? buildSrcSet(lcpImage, PHOTO_WIDTHS, 'avif') : '';
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     {!isNotFound && <link rel="canonical" href={canonical.href} />}
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-    <link rel="apple-touch-icon" href="/brand/mark.jpg" />
+    <link rel="icon" href={withBase('/favicon.svg')} type="image/svg+xml" />
+    <link rel="apple-touch-icon" href={withBase('/brand/mark.jpg')} />
     {lcpImage && (
       <link
         rel="preload"
@@ -58,7 +59,7 @@ const lcpSrcSet = lcpImage ? buildSrcSet(lcpImage, PHOTO_WIDTHS, 'avif') : '';
         fetchpriority="high"
       />
     )}
-    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="manifest" href={withBase('/manifest.webmanifest')} />
     <meta property="og:type" content={ogType} />
     <meta property="og:locale" content="de_DE" />
     <meta property="og:site_name" content={site.name} />
@@ -88,7 +89,7 @@ const lcpSrcSet = lcpImage ? buildSrcSet(lcpImage, PHOTO_WIDTHS, 'avif') : '';
           <p class="kicker" data-search-label>Zuletzt veröffentlicht</p>
           <form method="dialog"><button class="tool" type="submit">Schließen</button></form>
         </div>
-        <form action="/suche/" method="get" role="search">
+        <form action={withBase('/suche/')} method="get" role="search">
           <label class="field">
             <span>Was möchten Sie finden?</span>
             <input name="q" type="search" data-search-input autocomplete="off" enterkeyhint="search" />
