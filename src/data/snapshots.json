@@ -9135,6 +9135,27 @@
       "subscriberCount": 19400,
       "viewCount": 534779,
       "videoCount": 9
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "channelId": "tiktok",
+      "subscriberCount": 130,
+      "viewCount": 373,
+      "videoCount": 15
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "subscriberCount": 287000,
+      "viewCount": 178859450,
+      "videoCount": 1582
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
+      "subscriberCount": 19400,
+      "viewCount": 539527,
+      "videoCount": 9
     }
   ],
   "videoSnapshots": [
@@ -71252,6 +71273,198 @@
     },
     {
       "at": "2026-11-05T20:25:15.518Z",
+      "videoId": "rsJnBsIWRUU",
+      "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
+      "viewCount": 45560,
+      "likeCount": 2339,
+      "commentCount": 165
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "176ZPnOOjjY",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "viewCount": 64502,
+      "likeCount": null,
+      "commentCount": 161
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "VhCbdHCnADI",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "viewCount": 167535,
+      "likeCount": null,
+      "commentCount": 1386
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "s9kWLRalVyY",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "viewCount": 60090,
+      "likeCount": null,
+      "commentCount": 373
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "QlcRXVnclBQ",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "viewCount": null,
+      "likeCount": null,
+      "commentCount": 165
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "2RCxrgpfSGk",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "viewCount": 129499,
+      "likeCount": null,
+      "commentCount": 598
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "5tLTfIG1BgM",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "viewCount": 176574,
+      "likeCount": null,
+      "commentCount": 1330
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "LqXcjTeXNaA",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "viewCount": 173571,
+      "likeCount": null,
+      "commentCount": 2472
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "Gl9rrVhFoRo",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "viewCount": null,
+      "likeCount": null,
+      "commentCount": 113
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "PUJFpwGK8Do",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "viewCount": 301416,
+      "likeCount": null,
+      "commentCount": 2132
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "M43tQviiFFo",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "viewCount": 89092,
+      "likeCount": null,
+      "commentCount": 546
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "qk49fJdkdU4",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "viewCount": 136405,
+      "likeCount": null,
+      "commentCount": 683
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "5w4Mq7MzRCc",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "viewCount": null,
+      "likeCount": null,
+      "commentCount": 71
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "FvvPx3n24ZU",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "viewCount": 116564,
+      "likeCount": null,
+      "commentCount": 882
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "9XVFnlW_MYI",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "viewCount": 169999,
+      "likeCount": null,
+      "commentCount": 997
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "YF5qX00aLbg",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "viewCount": null,
+      "likeCount": null,
+      "commentCount": 149
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "-C62VWh7Vs0",
+      "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
+      "viewCount": 36068,
+      "likeCount": null,
+      "commentCount": 316
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "HhvGHLPe5Zo",
+      "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
+      "viewCount": 78040,
+      "likeCount": null,
+      "commentCount": 404
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "fEchecle3Sw",
+      "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
+      "viewCount": 72988,
+      "likeCount": null,
+      "commentCount": 336
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "1OnErr4qSb0",
+      "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
+      "viewCount": 81626,
+      "likeCount": null,
+      "commentCount": 524
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "s3YTWUVEqsE",
+      "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
+      "viewCount": 99586,
+      "likeCount": null,
+      "commentCount": 576
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "PWzRo3FWjbo",
+      "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
+      "viewCount": 33674,
+      "likeCount": 3363,
+      "commentCount": 633
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "4vqdluC_F_U",
+      "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
+      "viewCount": 88392,
+      "likeCount": 4492,
+      "commentCount": 403
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
+      "videoId": "1vtk3_xDG78",
+      "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
+      "viewCount": 42931,
+      "likeCount": 3038,
+      "commentCount": 508
+    },
+    {
+      "at": "2026-11-05T21:11:43.202Z",
       "videoId": "rsJnBsIWRUU",
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
       "viewCount": 45560,
