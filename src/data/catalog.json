@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-05T15:28:07.023Z",
+  "syncedAt": "2026-11-05T16:29:12.401Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 178711025,
-        "videoCount": 1581,
+        "videoCount": 1582,
         "hiddenSubscriberCount": false
       }
     },
@@ -27,7 +27,7 @@
       "id": "reagiert",
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
       "name": "Politik mit Kopf REAGIERT",
-      "videoCount": 8,
+      "videoCount": 9,
       "status": "verbunden",
       "avatar": "/brand/UCOdBOgdBxkqo5CaGukX8z4g.jpg",
       "slug": "politik-mit-kopf-reagiert",
@@ -35,14 +35,62 @@
       "channelUrl": "https://www.youtube.com/@PolitikmitKopfReagiert",
       "subscribeUrl": "https://www.youtube.com/@PolitikmitKopfReagiert?sub_confirmation=1",
       "stats": {
-        "subscriberCount": 18000,
+        "subscriberCount": 18500,
         "viewCount": 534779,
-        "videoCount": 8,
+        "videoCount": 9,
         "hiddenSubscriberCount": false
       }
     }
   ],
   "videos": [
+    {
+      "id": "176ZPnOOjjY",
+      "slug": "hast-du-das-gesehen-so-eskaliert-die-aktuelle-stunde-im-bundestag-176ZPnOOjjY",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Hast du das gesehen? So eskaliert die Aktuelle Stunde im Bundestag",
+      "description": "https://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Hast du das gesehen? So eskaliert die Aktuelle Stunde im Bundestag",
+      "publishedAt": "2026-11-05T15:34:15+00:00",
+      "url": "https://www.youtube.com/watch?v=176ZPnOOjjY",
+      "thumbnail": "/media/176ZPnOOjjY.jpg",
+      "thumbnailRemote": "https://i2.ytimg.com/vi/176ZPnOOjjY/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 8695,
+        "likeCount": null,
+        "commentCount": 55
+      }
+    },
+    {
+      "id": "-C62VWh7Vs0",
+      "slug": "aktuelle-stunde-der-afd-zerlegt-linke-gruene-spd-widerspricht-der-spd--C62VWh7Vs0",
+      "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
+      "channelName": "Politik mit Kopf REAGIERT",
+      "title": "Aktuelle Stunde der AfD zerlegt Linke & Grüne! SPD widerspricht der SPD & Russland wäre die Gefahr",
+      "description": "Die Aktuelle Stunde der AfD zu den Krawallen offenbart die Probleme in den Köpfen der Ideologen.\n\nhttps://youtu.be/PWzRo3FWjbo\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n\n#Bundestag #Politik #Bundesregierung\n\nhttps://youtu.be/4vqdluC_F_U\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Die Aktuelle Stunde der AfD zu den Krawallen offenbart die Probleme in den Köpfen der Ideologen.",
+      "publishedAt": "2026-11-05T15:30:05+00:00",
+      "url": "https://www.youtube.com/watch?v=-C62VWh7Vs0",
+      "thumbnail": "/media/-C62VWh7Vs0.jpg",
+      "thumbnailRemote": "https://i2.ytimg.com/vi/-C62VWh7Vs0/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 4773,
+        "likeCount": null,
+        "commentCount": 60
+      }
+    },
     {
       "id": "VhCbdHCnADI",
       "slug": "stellv-ministerpraesident-ohne-lka-schutz-aiwanger-tot-im-hotel-gefund-VhCbdHCnADI",
@@ -62,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 105750,
+        "viewCount": 117587,
         "likeCount": null,
-        "commentCount": 1141
+        "commentCount": 1205
       }
     },
     {
@@ -86,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 56784,
+        "viewCount": 57402,
         "likeCount": null,
-        "commentCount": 368
+        "commentCount": 369
       }
     },
     {
@@ -112,7 +160,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 157
+        "commentCount": 159
       }
     },
     {
@@ -134,7 +182,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 127832,
+        "viewCount": 128210,
         "likeCount": null,
         "commentCount": 571
       }
@@ -158,9 +206,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 174424,
+        "viewCount": 174220,
         "likeCount": null,
-        "commentCount": 1321
+        "commentCount": 1327
       }
     },
     {
@@ -182,9 +230,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 167399,
+        "viewCount": 168335,
         "likeCount": null,
-        "commentCount": 2441
+        "commentCount": 2444
       }
     },
     {
@@ -206,9 +254,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 76457,
+        "viewCount": 76758,
         "likeCount": null,
-        "commentCount": 400
+        "commentCount": 402
       }
     },
     {
@@ -255,9 +303,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 293842,
+        "viewCount": 295440,
         "likeCount": null,
-        "commentCount": 2108
+        "commentCount": 2118
       }
     },
     {
@@ -279,9 +327,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88306,
+        "viewCount": 88391,
         "likeCount": null,
-        "commentCount": 543
+        "commentCount": 544
       }
     },
     {
@@ -303,9 +351,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 135929,
+        "viewCount": 135990,
         "likeCount": null,
-        "commentCount": 680
+        "commentCount": 681
       }
     },
     {
@@ -351,7 +399,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 116338,
+        "viewCount": 116354,
         "likeCount": null,
         "commentCount": 880
       }
@@ -375,7 +423,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 169957,
+        "viewCount": 169961,
         "likeCount": null,
         "commentCount": 997
       }
@@ -405,30 +453,6 @@
       }
     },
     {
-      "id": "fzAT4SKdSVk",
-      "slug": "zuerich-halloween-randale-eskaliert-brennende-barrikaden-polizeiangrif-fzAT4SKdSVk",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Zürich: Halloween-Randale eskaliert – brennende Barrikaden, Polizeiangriffe & Chaos in Langstrasse",
-      "description": "Die Gewalt kommt auch in die Schweiz.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Die Gewalt kommt auch in die Schweiz.",
-      "publishedAt": "2026-11-01T14:29:08+00:00",
-      "url": "https://www.youtube.com/watch?v=fzAT4SKdSVk",
-      "thumbnail": "/media/fzAT4SKdSVk.jpg",
-      "thumbnailRemote": "https://i3.ytimg.com/vi/fzAT4SKdSVk/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 92745,
-        "likeCount": null,
-        "commentCount": 555
-      }
-    },
-    {
       "id": "fEchecle3Sw",
       "slug": "friedliche-schuelerproteste-phoenix-runde-vs-realitaet-phoenix-runde-b-fEchecle3Sw",
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
@@ -447,7 +471,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 72918,
+        "viewCount": 72932,
         "likeCount": null,
         "commentCount": 336
       }
@@ -471,7 +495,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 81557,
+        "viewCount": 81564,
         "likeCount": null,
         "commentCount": 524
       }
@@ -495,7 +519,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 99555,
+        "viewCount": 99557,
         "likeCount": null,
         "commentCount": 576
       }
@@ -543,7 +567,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88376,
+        "viewCount": 88378,
         "likeCount": 4492,
         "commentCount": 403
       }
@@ -567,7 +591,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 42922,
+        "viewCount": 42924,
         "likeCount": 3038,
         "commentCount": 508
       }
