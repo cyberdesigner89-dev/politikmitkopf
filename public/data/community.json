@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-05T08:50:20.156Z",
+  "syncedAt": "2026-11-05T09:42:42.406Z",
   "channels": [
     {
       "id": "primary",
@@ -6363,6 +6363,21 @@
     },
     {
       "at": "2026-11-05T08:50:20.156Z",
+      "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
+      "subscriberCount": 18000
+    },
+    {
+      "at": "2026-11-05T09:42:42.406Z",
+      "channelId": "tiktok",
+      "subscriberCount": 121
+    },
+    {
+      "at": "2026-11-05T09:42:42.406Z",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "subscriberCount": 287000
+    },
+    {
+      "at": "2026-11-05T09:42:42.406Z",
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
       "subscriberCount": 18000
     }
