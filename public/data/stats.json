@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-05T02:29:22.933Z",
+  "syncedAt": "2026-11-05T03:16:28.719Z",
   "timezone": "Europe/Zurich",
   "channels": [
     {
@@ -260,9 +260,9 @@
     "handle": "@politik.mit.kopf",
     "uniqueId": "politik.mit.kopf",
     "profileUrl": "https://www.tiktok.com/@politik.mit.kopf",
-    "description": "Der TikTok-Kanal zum Original https://www.youtube.com/@PolitikmitKopf",
+    "description": "Kurze Clips und Hinweise zum YouTube-Kanal von Politik mit Kopf.",
     "avatar": "/brand/tiktok.jpg",
-    "status": "verbunden",
+    "status": "fehler",
     "stats": {
       "followerCount": 120,
       "likeCount": 327,
