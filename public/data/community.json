@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-04T23:43:15.842Z",
+  "syncedAt": "2026-11-05T00:22:43.365Z",
   "channels": [
     {
       "id": "primary",
@@ -6308,6 +6308,11 @@
     },
     {
       "at": "2026-11-04T23:43:15.842Z",
+      "channelId": "tiktok",
+      "subscriberCount": 120
+    },
+    {
+      "at": "2026-11-05T00:22:43.365Z",
       "channelId": "tiktok",
       "subscriberCount": 120
     }
