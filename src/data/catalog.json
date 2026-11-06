@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-06T09:42:59.748Z",
+  "syncedAt": "2026-11-06T10:40:55.095Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 179198090,
-        "videoCount": 1583,
+        "videoCount": 1584,
         "hiddenSubscriberCount": false
       }
     },
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "o0NvSo_bud8",
+      "slug": "linke-fordern-reparationen-fuers-klima-von-deinem-geld-o0NvSo_bud8",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Linke fordern Reparationen fürs Klima. Von deinem Geld?",
+      "description": "Die Linksfraktion fordert in einem Antrag im Bundestag, Reparationen zu zahlen, wegen der Klimagerechtigkeit. So wie ich das sehe, haben wir die Rohstoffe im Ausland bezahlt und nicht geklaut. Und von welchem Geld eigentlich, gibt es dann eine Reparationssteuer?\n\n#Reparationen #DieLinke #Klimagerechtigkeit",
+      "excerpt": "Die Linksfraktion fordert in einem Antrag im Bundestag, Reparationen zu zahlen, wegen der Klimagerechtigkeit. So wie ich das sehe, haben wir die Rohstoffe im Ausland bezahlt…",
+      "publishedAt": "2026-11-06T09:59:54+00:00",
+      "url": "https://www.youtube.com/watch?v=o0NvSo_bud8",
+      "thumbnail": "/media/o0NvSo_bud8.jpg",
+      "thumbnailRemote": "https://i4.ytimg.com/vi/o0NvSo_bud8/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Reparationen",
+        "DieLinke",
+        "Klimagerechtigkeit"
+      ],
+      "stats": {
+        "viewCount": 809,
+        "likeCount": null,
+        "commentCount": 8
+      }
+    },
+    {
       "id": "S3EHNUsCft4",
       "slug": "afd-parteitag-beleidigung-von-journalisten-wird-eingestellt-die-begrue-S3EHNUsCft4",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 4943,
+        "viewCount": 6957,
         "likeCount": null,
-        "commentCount": 156
+        "commentCount": 273
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 102076,
+        "viewCount": 108688,
         "likeCount": null,
-        "commentCount": 200
+        "commentCount": 204
       }
     },
     {
@@ -110,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 57966,
+        "viewCount": 61120,
         "likeCount": null,
-        "commentCount": 418
+        "commentCount": 422
       }
     },
     {
@@ -134,9 +158,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 187670,
+        "viewCount": 191514,
         "likeCount": null,
-        "commentCount": 1458
+        "commentCount": 1467
       }
     },
     {
@@ -158,7 +182,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 62000,
+        "viewCount": 62550,
         "likeCount": null,
         "commentCount": 374
       }
@@ -206,9 +230,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 131581,
+        "viewCount": 132647,
         "likeCount": null,
-        "commentCount": 603
+        "commentCount": 607
       }
     },
     {
@@ -230,7 +254,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 179136,
+        "viewCount": 180546,
         "likeCount": null,
         "commentCount": 1335
       }
@@ -254,9 +278,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 177253,
+        "viewCount": 178472,
         "likeCount": null,
-        "commentCount": 2482
+        "commentCount": 2488
       }
     },
     {
@@ -278,7 +302,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 79223,
+        "viewCount": 79601,
         "likeCount": null,
         "commentCount": 405
       }
@@ -327,9 +351,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 309263,
+        "viewCount": 313047,
         "likeCount": null,
-        "commentCount": 2150
+        "commentCount": 2152
       }
     },
     {
@@ -351,7 +375,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 89688,
+        "viewCount": 89893,
         "likeCount": null,
         "commentCount": 547
       }
@@ -375,7 +399,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 136883,
+        "viewCount": 137101,
         "likeCount": null,
         "commentCount": 684
       }
@@ -423,33 +447,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 116643,
+        "viewCount": 116680,
         "likeCount": null,
         "commentCount": 882
-      }
-    },
-    {
-      "id": "9XVFnlW_MYI",
-      "slug": "rechtsextreme-menschen-gdp-chef-vs-realitaet-der-ausschreitungen-9XVFnlW_MYI",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "„Rechtsextreme Menschen!“ – GdP-Chef vs. Realität der Ausschreitungen",
-      "description": "Die Gewerkschaft kann weg!\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Die Gewerkschaft kann weg!",
-      "publishedAt": "2026-11-01T20:05:28+00:00",
-      "url": "https://www.youtube.com/watch?v=9XVFnlW_MYI",
-      "thumbnail": "/media/9XVFnlW_MYI.jpg",
-      "thumbnailRemote": "https://i2.ytimg.com/vi/9XVFnlW_MYI/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 170088,
-        "likeCount": null,
-        "commentCount": 997
       }
     },
     {
@@ -471,7 +471,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73030,
+        "viewCount": 73038,
         "likeCount": null,
         "commentCount": 336
       }
@@ -495,7 +495,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 81685,
+        "viewCount": 81702,
         "likeCount": null,
         "commentCount": 524
       }
@@ -519,7 +519,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 99687,
+        "viewCount": 99700,
         "likeCount": null,
         "commentCount": 577
       }
@@ -543,7 +543,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 33688,
+        "viewCount": 33689,
         "likeCount": 3363,
         "commentCount": 633
       }
