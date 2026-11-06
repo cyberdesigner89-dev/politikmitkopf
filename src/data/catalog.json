@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-06T21:05:09.890Z",
+  "syncedAt": "2026-11-06T21:40:19.326Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -60,7 +60,7 @@
       "stats": {
         "viewCount": 777,
         "likeCount": null,
-        "commentCount": 40
+        "commentCount": 72
       }
     },
     {
@@ -82,9 +82,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 39193,
+        "viewCount": 43532,
         "likeCount": null,
-        "commentCount": 484
+        "commentCount": 493
       }
     },
     {
@@ -108,7 +108,7 @@
       "stats": {
         "viewCount": 809,
         "likeCount": null,
-        "commentCount": 81
+        "commentCount": 84
       }
     },
     {
@@ -180,7 +180,7 @@
       "stats": {
         "viewCount": 69284,
         "likeCount": null,
-        "commentCount": 460
+        "commentCount": 461
       }
     },
     {
@@ -202,7 +202,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 200426,
+        "viewCount": 200580,
         "likeCount": null,
         "commentCount": 1500
       }
@@ -226,7 +226,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 63982,
+        "viewCount": 63942,
         "likeCount": null,
         "commentCount": 380
       }
@@ -252,7 +252,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 176
+        "commentCount": 178
       }
     },
     {
@@ -322,9 +322,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 181450,
+        "viewCount": 181463,
         "likeCount": null,
-        "commentCount": 2501
+        "commentCount": 2502
       }
     },
     {
@@ -619,12 +619,12 @@
     "handle": "@politik.mit.kopf",
     "uniqueId": "politik.mit.kopf",
     "profileUrl": "https://www.tiktok.com/@politik.mit.kopf",
-    "description": "Kurze Clips und Hinweise zum YouTube-Kanal von Politik mit Kopf.",
+    "description": "Der TikTok-Kanal zum Original https://www.youtube.com/@PolitikmitKopf",
     "avatar": "/brand/tiktok.jpg",
-    "status": "fehler",
+    "status": "verbunden",
     "stats": {
       "followerCount": 136,
-      "likeCount": 425,
+      "likeCount": 427,
       "videoCount": 16
     }
   }
