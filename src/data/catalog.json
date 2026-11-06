@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-06T15:11:01.881Z",
+  "syncedAt": "2026-11-06T15:53:47.588Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 179198090,
-        "videoCount": 1584,
+        "videoCount": 1585,
         "hiddenSubscriberCount": false
       }
     },
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "sZRwNQiipcc",
+      "slug": "klingbeil-zerstoert-die-rente-statt-msci-world-nur-deutsche-aktien-und-sZRwNQiipcc",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Klingbeil zerstört die Rente – statt MSCI World nur deutsche Aktien und Start-ups",
+      "description": "Der Blinde hat über sein Kunstwerk gesprochen.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Der Blinde hat über sein Kunstwerk gesprochen.",
+      "publishedAt": "2026-11-06T15:20:24+00:00",
+      "url": "https://www.youtube.com/watch?v=sZRwNQiipcc",
+      "thumbnail": "/media/sZRwNQiipcc.jpg",
+      "thumbnailRemote": "https://i4.ytimg.com/vi/sZRwNQiipcc/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 3593,
+        "likeCount": null,
+        "commentCount": 98
+      }
+    },
+    {
       "id": "o0NvSo_bud8",
       "slug": "linke-fordern-reparationen-fuers-klima-von-deinem-geld-o0NvSo_bud8",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -64,7 +88,7 @@
       "stats": {
         "viewCount": 809,
         "likeCount": null,
-        "commentCount": 45
+        "commentCount": 50
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 25828,
+        "viewCount": 30232,
         "likeCount": null,
-        "commentCount": 462
+        "commentCount": 469
       }
     },
     {
@@ -110,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 113521,
+        "viewCount": 114367,
         "likeCount": null,
-        "commentCount": 212
+        "commentCount": 211
       }
     },
     {
@@ -134,9 +158,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 64139,
+        "viewCount": 64775,
         "likeCount": null,
-        "commentCount": 443
+        "commentCount": 445
       }
     },
     {
@@ -158,9 +182,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 195414,
+        "viewCount": 196340,
         "likeCount": null,
-        "commentCount": 1491
+        "commentCount": 1490
       }
     },
     {
@@ -182,9 +206,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 62972,
+        "viewCount": 63064,
         "likeCount": null,
-        "commentCount": 378
+        "commentCount": 379
       }
     },
     {
@@ -230,7 +254,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 133465,
+        "viewCount": 133643,
         "likeCount": null,
         "commentCount": 610
       }
@@ -254,9 +278,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 181569,
+        "viewCount": 181777,
         "likeCount": null,
-        "commentCount": 1338
+        "commentCount": 1340
       }
     },
     {
@@ -278,9 +302,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 179519,
+        "viewCount": 179766,
         "likeCount": null,
-        "commentCount": 2496
+        "commentCount": 2497
       }
     },
     {
@@ -302,7 +326,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 80055,
+        "viewCount": 80169,
         "likeCount": null,
         "commentCount": 405
       }
@@ -351,9 +375,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 316933,
+        "viewCount": 317916,
         "likeCount": null,
-        "commentCount": 2164
+        "commentCount": 2166
       }
     },
     {
@@ -375,7 +399,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 90174,
+        "viewCount": 90233,
         "likeCount": null,
         "commentCount": 549
       }
@@ -399,7 +423,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 137441,
+        "viewCount": 137546,
         "likeCount": null,
         "commentCount": 685
       }
@@ -426,30 +450,6 @@
         "viewCount": null,
         "likeCount": null,
         "commentCount": 71
-      }
-    },
-    {
-      "id": "FvvPx3n24ZU",
-      "slug": "was-sind-migrantische-gruppen-pistorius-und-der-grosse-eiertanz-FvvPx3n24ZU",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Was sind migrantische Gruppen? – Pistorius und der große Eiertanz",
-      "description": "Migrantische Gruppen ist jetzt unklar? Die Bundeswehr übernimmt die Definition des Statistischen Bundesamtes für Migrationshintergrund, aber der Innenminister darf nicht von migrantischen Gruppen sprechen?\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Migrantische Gruppen ist jetzt unklar? Die Bundeswehr übernimmt die Definition des Statistischen Bundesamtes für Migrationshintergrund, aber der Innenminister darf nicht von…",
-      "publishedAt": "2026-11-02T09:22:38+00:00",
-      "url": "https://www.youtube.com/watch?v=FvvPx3n24ZU",
-      "thumbnail": "/media/FvvPx3n24ZU.jpg",
-      "thumbnailRemote": "https://i3.ytimg.com/vi/FvvPx3n24ZU/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 116726,
-        "likeCount": null,
-        "commentCount": 884
       }
     },
     {
@@ -519,7 +519,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 99711,
+        "viewCount": 99729,
         "likeCount": null,
         "commentCount": 577
       }
@@ -567,7 +567,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88410,
+        "viewCount": 88414,
         "likeCount": 4492,
         "commentCount": 403
       }
