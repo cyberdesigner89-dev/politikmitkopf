@@ -1,12 +1,12 @@
 {
-  "syncedAt": "2026-11-06T20:23:58.049Z",
+  "syncedAt": "2026-11-06T21:05:09.890Z",
   "live": null,
   "latest": {
     "title": "Letzter Livestream vor ... !",
     "url": "https://www.youtube.com/watch?v=5Rgkf2wEPUA",
     "pageUrl": "/videos/letzter-livestream-vor-5Rgkf2wEPUA/",
     "thumbnail": "/media/5Rgkf2wEPUA.jpg",
-    "publishedAt": "2026-11-06T19:31:48+00:00",
+    "publishedAt": "2026-11-06T20:27:21+00:00",
     "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
     "channelName": "Politik mit Kopf"
   },
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 179274729,
-        "videoCount": 1585,
+        "videoCount": 1586,
         "hiddenSubscriberCount": false
       }
     },

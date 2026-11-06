@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-06T20:23:58.049Z",
+  "syncedAt": "2026-11-06T21:05:09.890Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 179274729,
-        "videoCount": 1585,
+        "videoCount": 1586,
         "hiddenSubscriberCount": false
       }
     },
@@ -51,7 +51,7 @@
       "title": "Letzter Livestream vor ... !",
       "description": "",
       "excerpt": "Letzter Livestream vor ... !",
-      "publishedAt": "2026-11-06T19:31:48+00:00",
+      "publishedAt": "2026-11-06T20:27:21+00:00",
       "url": "https://www.youtube.com/watch?v=5Rgkf2wEPUA",
       "thumbnail": "/media/5Rgkf2wEPUA.jpg",
       "thumbnailRemote": "https://i2.ytimg.com/vi/5Rgkf2wEPUA/hqdefault.jpg",
@@ -60,7 +60,7 @@
       "stats": {
         "viewCount": 777,
         "likeCount": null,
-        "commentCount": null
+        "commentCount": 40
       }
     },
     {
@@ -82,9 +82,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 35140,
+        "viewCount": 39193,
         "likeCount": null,
-        "commentCount": 471
+        "commentCount": 484
       }
     },
     {
@@ -108,7 +108,7 @@
       "stats": {
         "viewCount": 809,
         "likeCount": null,
-        "commentCount": 79
+        "commentCount": 81
       }
     },
     {
@@ -132,7 +132,7 @@
       "stats": {
         "viewCount": 52856,
         "likeCount": null,
-        "commentCount": 496
+        "commentCount": 498
       }
     },
     {
@@ -178,9 +178,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 69214,
+        "viewCount": 69284,
         "likeCount": null,
-        "commentCount": 459
+        "commentCount": 460
       }
     },
     {
@@ -202,7 +202,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 201259,
+        "viewCount": 200426,
         "likeCount": null,
         "commentCount": 1500
       }
@@ -226,7 +226,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 63965,
+        "viewCount": 63982,
         "likeCount": null,
         "commentCount": 380
       }
@@ -274,7 +274,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 134909,
+        "viewCount": 134920,
         "likeCount": null,
         "commentCount": 610
       }
@@ -298,9 +298,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 183167,
+        "viewCount": 183123,
         "likeCount": null,
-        "commentCount": 1341
+        "commentCount": 1342
       }
     },
     {
@@ -322,7 +322,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 181487,
+        "viewCount": 181450,
         "likeCount": null,
         "commentCount": 2501
       }
@@ -443,7 +443,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 138728,
+        "viewCount": 138733,
         "likeCount": null,
         "commentCount": 685
       }
@@ -467,7 +467,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73054,
+        "viewCount": 73070,
         "likeCount": null,
         "commentCount": 336
       }
@@ -491,7 +491,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 81736,
+        "viewCount": 81775,
         "likeCount": null,
         "commentCount": 524
       }
@@ -619,9 +619,9 @@
     "handle": "@politik.mit.kopf",
     "uniqueId": "politik.mit.kopf",
     "profileUrl": "https://www.tiktok.com/@politik.mit.kopf",
-    "description": "Der TikTok-Kanal zum Original https://www.youtube.com/@PolitikmitKopf",
+    "description": "Kurze Clips und Hinweise zum YouTube-Kanal von Politik mit Kopf.",
     "avatar": "/brand/tiktok.jpg",
-    "status": "verbunden",
+    "status": "fehler",
     "stats": {
       "followerCount": 136,
       "likeCount": 425,
