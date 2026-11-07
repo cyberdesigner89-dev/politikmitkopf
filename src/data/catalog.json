@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-07T19:59:13.970Z",
+  "syncedAt": "2026-11-07T20:27:10.746Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "AoD_G1D6kUA",
+      "slug": "mein-fehler-wie-dumm-kann-man-sein-update-polizeieinsatz-dresden-AoD_G1D6kUA",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Mein Fehler: Wie dumm kann man sein? – Update Polizeieinsatz Dresden",
+      "description": "Manchmal muss man korrigieren und auch klarstellen!\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Manchmal muss man korrigieren und auch klarstellen!",
+      "publishedAt": "2026-11-07T19:55:54+00:00",
+      "url": "https://www.youtube.com/watch?v=AoD_G1D6kUA",
+      "thumbnail": "/media/AoD_G1D6kUA.jpg",
+      "thumbnailRemote": "https://i2.ytimg.com/vi/AoD_G1D6kUA/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 6650,
+        "likeCount": null,
+        "commentCount": 86
+      }
+    },
+    {
       "id": "kPZSbySMWyE",
       "slug": "gruene-loesung-gegen-gewalt-mehr-strassenbeleuchtung-kPZSbySMWyE",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 30784,
+        "viewCount": 32929,
         "likeCount": null,
-        "commentCount": 330
+        "commentCount": 336
       }
     },
     {
@@ -110,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 140707,
+        "viewCount": 143204,
         "likeCount": null,
-        "commentCount": 1722
+        "commentCount": 1730
       }
     },
     {
@@ -132,7 +156,7 @@
       "stats": {
         "viewCount": 777,
         "likeCount": null,
-        "commentCount": 220
+        "commentCount": 221
       }
     },
     {
@@ -154,9 +178,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 62890,
+        "viewCount": 62949,
         "likeCount": null,
-        "commentCount": 578
+        "commentCount": 579
       }
     },
     {
@@ -202,7 +226,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 54719,
+        "viewCount": 54758,
         "likeCount": null,
         "commentCount": 510
       }
@@ -226,7 +250,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 123456,
+        "viewCount": 123560,
         "likeCount": null,
         "commentCount": 211
       }
@@ -250,7 +274,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 76181,
+        "viewCount": 76311,
         "likeCount": null,
         "commentCount": 488
       }
@@ -274,7 +298,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 207729,
+        "viewCount": 207837,
         "likeCount": null,
         "commentCount": 1521
       }
@@ -298,7 +322,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 65023,
+        "viewCount": 65061,
         "likeCount": null,
         "commentCount": 379
       }
@@ -346,7 +370,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 135714,
+        "viewCount": 135735,
         "likeCount": null,
         "commentCount": 610
       }
@@ -370,9 +394,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 184765,
+        "viewCount": 184788,
         "likeCount": null,
-        "commentCount": 1344
+        "commentCount": 1345
       }
     },
     {
@@ -394,7 +418,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 183887,
+        "viewCount": 183943,
         "likeCount": null,
         "commentCount": 2519
       }
@@ -418,34 +442,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82664,
+        "viewCount": 82708,
         "likeCount": null,
         "commentCount": 409
-      }
-    },
-    {
-      "id": "Gl9rrVhFoRo",
-      "slug": "laeden-gepluendert-und-wer-schuetzt-dich-noch-Gl9rrVhFoRo",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Läden geplündert. Und wer schützt dich noch?",
-      "description": "Der Staat ist nicht mehr in der Lage, die innere Sicherheit zu garantieren. Du zahlst Spitzensteuern und Spitzensozialabgaben, und was passiert? Was, wenn das jetzt das neue Normal ist?\n\n#Frankfurt #Steuern #Deutschland #Short",
-      "excerpt": "Der Staat ist nicht mehr in der Lage, die innere Sicherheit zu garantieren. Du zahlst Spitzensteuern und Spitzensozialabgaben, und was passiert? Was, wenn das jetzt das neue…",
-      "publishedAt": "2026-11-03T14:25:47+00:00",
-      "url": "https://www.youtube.com/watch?v=Gl9rrVhFoRo",
-      "thumbnail": "/media/Gl9rrVhFoRo.jpg",
-      "thumbnailRemote": "https://i4.ytimg.com/vi/Gl9rrVhFoRo/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Frankfurt",
-        "Steuern",
-        "Deutschland",
-        "Short"
-      ],
-      "stats": {
-        "viewCount": null,
-        "likeCount": null,
-        "commentCount": 121
       }
     },
     {
@@ -491,7 +490,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 81832,
+        "viewCount": 81835,
         "likeCount": null,
         "commentCount": 533
       }
@@ -515,7 +514,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 99920,
+        "viewCount": 99921,
         "likeCount": null,
         "commentCount": 578
       }
@@ -587,7 +586,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 42967,
+        "viewCount": 42970,
         "likeCount": 3038,
         "commentCount": 508
       }
@@ -624,7 +623,7 @@
     "status": "verbunden",
     "stats": {
       "followerCount": 144,
-      "likeCount": 508,
+      "likeCount": 513,
       "videoCount": 17
     }
   }
