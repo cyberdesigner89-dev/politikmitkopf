@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-07T20:27:10.746Z",
+  "syncedAt": "2026-11-07T21:00:32.137Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -62,9 +62,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 6650,
+        "viewCount": 11603,
         "likeCount": null,
-        "commentCount": 86
+        "commentCount": 258
       }
     },
     {
@@ -86,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 32929,
+        "viewCount": 35092,
         "likeCount": null,
-        "commentCount": 336
+        "commentCount": 340
       }
     },
     {
@@ -112,7 +112,7 @@
       "stats": {
         "viewCount": 167,
         "likeCount": null,
-        "commentCount": 161
+        "commentCount": 162
       }
     },
     {
@@ -134,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 143204,
+        "viewCount": 145896,
         "likeCount": null,
-        "commentCount": 1730
+        "commentCount": 1744
       }
     },
     {
@@ -178,7 +178,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 62949,
+        "viewCount": 63021,
         "likeCount": null,
         "commentCount": 579
       }
@@ -204,7 +204,7 @@
       "stats": {
         "viewCount": 809,
         "likeCount": null,
-        "commentCount": 114
+        "commentCount": 113
       }
     },
     {
@@ -226,7 +226,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 54758,
+        "viewCount": 54794,
         "likeCount": null,
         "commentCount": 510
       }
@@ -250,7 +250,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 123560,
+        "viewCount": 123645,
         "likeCount": null,
         "commentCount": 211
       }
@@ -274,7 +274,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 76311,
+        "viewCount": 76408,
         "likeCount": null,
         "commentCount": 488
       }
@@ -298,7 +298,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 207837,
+        "viewCount": 207902,
         "likeCount": null,
         "commentCount": 1521
       }
@@ -322,7 +322,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 65061,
+        "viewCount": 65083,
         "likeCount": null,
         "commentCount": 379
       }
@@ -348,7 +348,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 192
+        "commentCount": 193
       }
     },
     {
@@ -370,7 +370,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 135735,
+        "viewCount": 135751,
         "likeCount": null,
         "commentCount": 610
       }
@@ -394,7 +394,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 184788,
+        "viewCount": 184835,
         "likeCount": null,
         "commentCount": 1345
       }
@@ -418,9 +418,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 183943,
+        "viewCount": 184024,
         "likeCount": null,
-        "commentCount": 2519
+        "commentCount": 2521
       }
     },
     {
@@ -442,7 +442,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82708,
+        "viewCount": 82760,
         "likeCount": null,
         "commentCount": 409
       }
@@ -490,7 +490,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 81835,
+        "viewCount": 81837,
         "likeCount": null,
         "commentCount": 533
       }
@@ -514,7 +514,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 99921,
+        "viewCount": 99925,
         "likeCount": null,
         "commentCount": 578
       }
@@ -562,7 +562,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88433,
+        "viewCount": 88435,
         "likeCount": 4492,
         "commentCount": 403
       }
@@ -622,8 +622,8 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 144,
-      "likeCount": 513,
+      "followerCount": 145,
+      "likeCount": 527,
       "videoCount": 17
     }
   }
