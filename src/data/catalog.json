@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-07T14:25:04.613Z",
+  "syncedAt": "2026-11-07T14:59:45.992Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 179398296,
-        "videoCount": 1588,
+        "videoCount": 1589,
         "hiddenSubscriberCount": false
       }
     },
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "kPZSbySMWyE",
+      "slug": "gruene-loesung-gegen-gewalt-mehr-strassenbeleuchtung-kPZSbySMWyE",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Grüne Lösung gegen Gewalt: mehr Straßenbeleuchtung!",
+      "description": "Für nichts sind die Grünen sich zu schade! \n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Für nichts sind die Grünen sich zu schade!",
+      "publishedAt": "2026-11-07T14:32:44+00:00",
+      "url": "https://www.youtube.com/watch?v=kPZSbySMWyE",
+      "thumbnail": "/media/kPZSbySMWyE.jpg",
+      "thumbnailRemote": "https://i4.ytimg.com/vi/kPZSbySMWyE/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 1052,
+        "likeCount": null,
+        "commentCount": 60
+      }
+    },
+    {
       "id": "HgG3mlA-M1w",
       "slug": "energiehilfe-fuer-kiew-und-wer-zahlt-deine-heizung-HgG3mlA-M1w",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -64,7 +88,7 @@
       "stats": {
         "viewCount": 167,
         "likeCount": null,
-        "commentCount": 74
+        "commentCount": 87
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 81549,
+        "viewCount": 89409,
         "likeCount": null,
-        "commentCount": 1317
+        "commentCount": 1383
       }
     },
     {
@@ -108,7 +132,7 @@
       "stats": {
         "viewCount": 777,
         "likeCount": null,
-        "commentCount": 210
+        "commentCount": 211
       }
     },
     {
@@ -156,7 +180,7 @@
       "stats": {
         "viewCount": 809,
         "likeCount": null,
-        "commentCount": 108
+        "commentCount": 111
       }
     },
     {
@@ -226,7 +250,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 74350,
+        "viewCount": 74480,
         "likeCount": null,
         "commentCount": 485
       }
@@ -250,7 +274,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 206213,
+        "viewCount": 206341,
         "likeCount": null,
         "commentCount": 1520
       }
@@ -300,7 +324,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 191
+        "commentCount": 192
       }
     },
     {
@@ -322,7 +346,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 135487,
+        "viewCount": 135505,
         "likeCount": null,
         "commentCount": 610
       }
@@ -346,7 +370,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 184100,
+        "viewCount": 184165,
         "likeCount": null,
         "commentCount": 1344
       }
@@ -370,9 +394,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 183235,
+        "viewCount": 183295,
         "likeCount": null,
-        "commentCount": 2518
+        "commentCount": 2519
       }
     },
     {
@@ -394,7 +418,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82130,
+        "viewCount": 82161,
         "likeCount": null,
         "commentCount": 408
       }
@@ -422,30 +446,6 @@
         "viewCount": null,
         "likeCount": null,
         "commentCount": 120
-      }
-    },
-    {
-      "id": "PUJFpwGK8Do",
-      "slug": "deutsche-muessen-sich-integrieren-tagesthemen-drehen-voellig-durch-PUJFpwGK8Do",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Deutsche müssen sich integrieren? Tagesthemen drehen völlig durch",
-      "description": "Macht den Laden endlich zu! Diesen Schundfunk mit seiner Propaganda braucht niemand.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Macht den Laden endlich zu! Diesen Schundfunk mit seiner Propaganda braucht niemand.",
-      "publishedAt": "2026-11-03T07:56:25+00:00",
-      "url": "https://www.youtube.com/watch?v=PUJFpwGK8Do",
-      "thumbnail": "/media/PUJFpwGK8Do.jpg",
-      "thumbnailRemote": "https://i1.ytimg.com/vi/PUJFpwGK8Do/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 330150,
-        "likeCount": null,
-        "commentCount": 2197
       }
     },
     {
@@ -624,7 +624,7 @@
     "status": "verbunden",
     "stats": {
       "followerCount": 140,
-      "likeCount": 457,
+      "likeCount": 458,
       "videoCount": 16
     }
   }
