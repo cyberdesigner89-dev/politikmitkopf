@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-07T07:45:16.337Z",
+  "syncedAt": "2026-11-07T08:29:18.715Z",
   "live": null,
   "latest": {
     "title": "Letzter Livestream vor ... !",
@@ -18,7 +18,7 @@
       "slug": "politik-mit-kopf",
       "stats": {
         "subscriberCount": 287000,
-        "viewCount": 179274729,
+        "viewCount": 179398296,
         "videoCount": 1586,
         "hiddenSubscriberCount": false
       }
@@ -29,8 +29,8 @@
       "name": "Politik mit Kopf REAGIERT",
       "slug": "politik-mit-kopf-reagiert",
       "stats": {
-        "subscriberCount": 20000,
-        "viewCount": 607017,
+        "subscriberCount": 20100,
+        "viewCount": 616559,
         "videoCount": 9,
         "hiddenSubscriberCount": false
       }
