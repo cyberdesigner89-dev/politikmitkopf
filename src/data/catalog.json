@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-07T09:15:42.610Z",
+  "syncedAt": "2026-11-07T09:55:55.587Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 179398296,
-        "videoCount": 1586,
+        "videoCount": 1587,
         "hiddenSubscriberCount": false
       }
     },
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "t0Za5i2Orbo",
+      "slug": "absurdistan-dresden-vater-opfert-haus-kindeswohl-wegen-grundsteuer-11-t0Za5i2Orbo",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Absurdistan Dresden: Vater opfert Haus & Kindeswohl wegen Grundsteuer – 11 Wochen auf dem Gehweg",
+      "description": "Ihr habt gefragt, warum Menschen Altparteien wählen. Hier seht ihr wie weit kognitive Dissonanz geht!\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Ihr habt gefragt, warum Menschen Altparteien wählen. Hier seht ihr wie weit kognitive Dissonanz geht!",
+      "publishedAt": "2026-11-07T09:18:12+00:00",
+      "url": "https://www.youtube.com/watch?v=t0Za5i2Orbo",
+      "thumbnail": "/media/t0Za5i2Orbo.jpg",
+      "thumbnailRemote": "https://i1.ytimg.com/vi/t0Za5i2Orbo/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 8133,
+        "likeCount": null,
+        "commentCount": 200
+      }
+    },
+    {
       "id": "5Rgkf2wEPUA",
       "slug": "letzter-livestream-vor-5Rgkf2wEPUA",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -60,7 +84,7 @@
       "stats": {
         "viewCount": 777,
         "likeCount": null,
-        "commentCount": 187
+        "commentCount": 195
       }
     },
     {
@@ -82,9 +106,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 60536,
+        "viewCount": 61514,
         "likeCount": null,
-        "commentCount": 552
+        "commentCount": 558
       }
     },
     {
@@ -108,7 +132,7 @@
       "stats": {
         "viewCount": 809,
         "likeCount": null,
-        "commentCount": 99
+        "commentCount": 100
       }
     },
     {
@@ -130,7 +154,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 55156,
+        "viewCount": 55372,
         "likeCount": null,
         "commentCount": 506
       }
@@ -154,7 +178,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 122060,
+        "viewCount": 122225,
         "likeCount": null,
         "commentCount": 211
       }
@@ -178,9 +202,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 72547,
+        "viewCount": 72908,
         "likeCount": null,
-        "commentCount": 477
+        "commentCount": 482
       }
     },
     {
@@ -202,9 +226,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 204323,
+        "viewCount": 204671,
         "likeCount": null,
-        "commentCount": 1504
+        "commentCount": 1508
       }
     },
     {
@@ -226,7 +250,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 64298,
+        "viewCount": 64352,
         "likeCount": null,
         "commentCount": 379
       }
@@ -252,7 +276,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 184
+        "commentCount": 187
       }
     },
     {
@@ -274,7 +298,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 135293,
+        "viewCount": 135328,
         "likeCount": null,
         "commentCount": 610
       }
@@ -298,7 +322,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 183511,
+        "viewCount": 183582,
         "likeCount": null,
         "commentCount": 1338
       }
@@ -322,9 +346,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 182358,
+        "viewCount": 182492,
         "likeCount": null,
-        "commentCount": 2506
+        "commentCount": 2508
       }
     },
     {
@@ -346,7 +370,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 81557,
+        "viewCount": 81654,
         "likeCount": null,
         "commentCount": 407
       }
@@ -373,7 +397,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 119
+        "commentCount": 120
       }
     },
     {
@@ -395,9 +419,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 326613,
+        "viewCount": 327203,
         "likeCount": null,
-        "commentCount": 2185
+        "commentCount": 2187
       }
     },
     {
@@ -419,33 +443,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 91117,
+        "viewCount": 91131,
         "likeCount": null,
         "commentCount": 556
-      }
-    },
-    {
-      "id": "qk49fJdkdU4",
-      "slug": "winter-kommt-speicher-leer-italien-macht-deutschland-fuer-die-hohen-ga-qk49fJdkdU4",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Winter kommt, Speicher leer – Italien macht Deutschland für die hohen Gaspreise verantwortlich",
-      "description": "Heizperiode hat begonnen, Speicherziele wurden verfehlt und die Netzagentur redet die Speicher weg.\n\nGrafik von: https://x.com/datenfuzzi_de\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Heizperiode hat begonnen, Speicherziele wurden verfehlt und die Netzagentur redet die Speicher weg. Grafik von: https://x.com/datenfuzzi_de",
-      "publishedAt": "2026-11-02T14:12:23+00:00",
-      "url": "https://www.youtube.com/watch?v=qk49fJdkdU4",
-      "thumbnail": "/media/qk49fJdkdU4.jpg",
-      "thumbnailRemote": "https://i2.ytimg.com/vi/qk49fJdkdU4/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 139170,
-        "likeCount": null,
-        "commentCount": 683
       }
     },
     {
@@ -515,7 +515,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 99843,
+        "viewCount": 99845,
         "likeCount": null,
         "commentCount": 578
       }
@@ -539,7 +539,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 33697,
+        "viewCount": 33698,
         "likeCount": 3363,
         "commentCount": 634
       }
@@ -563,7 +563,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88427,
+        "viewCount": 88428,
         "likeCount": 4492,
         "commentCount": 403
       }
@@ -624,7 +624,7 @@
     "status": "verbunden",
     "stats": {
       "followerCount": 137,
-      "likeCount": 450,
+      "likeCount": 451,
       "videoCount": 16
     }
   }
