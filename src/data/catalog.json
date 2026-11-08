@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-08T14:20:52.390Z",
+  "syncedAt": "2026-11-08T14:56:49.357Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -64,7 +64,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 152
+        "commentCount": 203
       }
     },
     {
@@ -88,7 +88,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 61
+        "commentCount": 66
       }
     },
     {
@@ -110,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 45290,
+        "viewCount": 47220,
         "likeCount": null,
-        "commentCount": 458
+        "commentCount": 470
       }
     },
     {
@@ -134,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 129021,
+        "viewCount": 129950,
         "likeCount": null,
-        "commentCount": 893
+        "commentCount": 905
       }
     },
     {
@@ -158,9 +158,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 47945,
+        "viewCount": 48119,
         "likeCount": null,
-        "commentCount": 425
+        "commentCount": 426
       }
     },
     {
@@ -206,7 +206,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 162658,
+        "viewCount": 162902,
         "likeCount": null,
         "commentCount": 1869
       }
@@ -250,9 +250,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 64606,
+        "viewCount": 64654,
         "likeCount": null,
-        "commentCount": 586
+        "commentCount": 587
       }
     },
     {
@@ -276,7 +276,7 @@
       "stats": {
         "viewCount": 809,
         "likeCount": null,
-        "commentCount": 115
+        "commentCount": 116
       }
     },
     {
@@ -298,7 +298,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 55424,
+        "viewCount": 55429,
         "likeCount": null,
         "commentCount": 511
       }
@@ -322,7 +322,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 124664,
+        "viewCount": 124704,
         "likeCount": null,
         "commentCount": 210
       }
@@ -346,7 +346,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 79364,
+        "viewCount": 79449,
         "likeCount": null,
         "commentCount": 509
       }
@@ -370,7 +370,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 210153,
+        "viewCount": 210266,
         "likeCount": null,
         "commentCount": 1521
       }
@@ -394,7 +394,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 65479,
+        "viewCount": 65482,
         "likeCount": null,
         "commentCount": 379
       }
@@ -442,9 +442,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 85203,
+        "viewCount": 85309,
         "likeCount": null,
-        "commentCount": 413
+        "commentCount": 414
       }
     },
     {
@@ -466,7 +466,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73170,
+        "viewCount": 73171,
         "likeCount": null,
         "commentCount": 336
       }
@@ -490,7 +490,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 81927,
+        "viewCount": 81931,
         "likeCount": null,
         "commentCount": 533
       }
@@ -562,7 +562,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88450,
+        "viewCount": 88451,
         "likeCount": 4492,
         "commentCount": 403
       }
@@ -586,7 +586,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 42981,
+        "viewCount": 42980,
         "likeCount": 3038,
         "commentCount": 508
       }
@@ -622,8 +622,8 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 197,
-      "likeCount": 1048,
+      "followerCount": 199,
+      "likeCount": 1066,
       "videoCount": 17
     }
   }
