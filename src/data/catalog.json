@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-08T07:36:38.647Z",
-  "ok": false,
+  "syncedAt": "2026-11-08T08:23:14.543Z",
+  "ok": true,
   "source": "youtube-public",
-  "error": "Mindestens ein Kanal konnte nicht gelesen werden. Angezeigt werden gespeicherte Videos.",
+  "error": null,
   "live": null,
   "channels": [
     {
@@ -10,7 +10,7 @@
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
       "name": "Politik mit Kopf",
       "videoCount": 15,
-      "status": "fehler",
+      "status": "verbunden",
       "avatar": "/brand/mark.jpg",
       "slug": "politik-mit-kopf",
       "handle": "@PolitikmitKopf",
@@ -18,8 +18,8 @@
       "subscribeUrl": "https://www.youtube.com/channel/UCsLN1bEfDJoZOs8udTwHatQ?sub_confirmation=1",
       "stats": {
         "subscriberCount": 287000,
-        "viewCount": 179593856,
-        "videoCount": 1590,
+        "viewCount": 179803405,
+        "videoCount": 1591,
         "hiddenSubscriberCount": false
       }
     },
@@ -28,7 +28,7 @@
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
       "name": "Politik mit Kopf REAGIERT",
       "videoCount": 9,
-      "status": "fehler",
+      "status": "verbunden",
       "avatar": "/brand/UCOdBOgdBxkqo5CaGukX8z4g.jpg",
       "slug": "politik-mit-kopf-reagiert",
       "handle": "@PolitikmitKopfReagiert",
@@ -36,13 +36,37 @@
       "subscribeUrl": "https://www.youtube.com/@PolitikmitKopfReagiert?sub_confirmation=1",
       "stats": {
         "subscriberCount": 20100,
-        "viewCount": 621327,
+        "viewCount": 625649,
         "videoCount": 9,
         "hiddenSubscriberCount": false
       }
     }
   ],
   "videos": [
+    {
+      "id": "ybbGTzZ-woI",
+      "slug": "toedlicher-anschlag-in-krakau-innenminister-sagt-rechts-ich-glaube-es-ybbGTzZ-woI",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Tödlicher Anschlag in Krakau – Innenminister sagt „rechts“, ich glaube es nicht",
+      "description": "Inzwischen wurden 3 Leichen am Wohnort des Täters gefunden. Die Opferzahl könnt höher ausfallen.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Inzwischen wurden 3 Leichen am Wohnort des Täters gefunden. Die Opferzahl könnt höher ausfallen.",
+      "publishedAt": "2026-11-08T07:53:19+00:00",
+      "url": "https://www.youtube.com/watch?v=ybbGTzZ-woI",
+      "thumbnail": "/media/ybbGTzZ-woI.jpg",
+      "thumbnailRemote": "https://i2.ytimg.com/vi/ybbGTzZ-woI/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 2785,
+        "likeCount": null,
+        "commentCount": 63
+      }
+    },
     {
       "id": "AoD_G1D6kUA",
       "slug": "mein-fehler-wie-dumm-kann-man-sein-update-polizeieinsatz-dresden-AoD_G1D6kUA",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 31561,
+        "viewCount": 98087,
         "likeCount": null,
-        "commentCount": 470
+        "commentCount": 766
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 38594,
+        "viewCount": 43775,
         "likeCount": null,
-        "commentCount": 356
+        "commentCount": 390
       }
     },
     {
@@ -112,7 +136,7 @@
       "stats": {
         "viewCount": 167,
         "likeCount": null,
-        "commentCount": 171
+        "commentCount": 214
       }
     },
     {
@@ -134,9 +158,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 151277,
+        "viewCount": 158207,
         "likeCount": null,
-        "commentCount": 1758
+        "commentCount": 1816
       }
     },
     {
@@ -156,7 +180,7 @@
       "stats": {
         "viewCount": 777,
         "likeCount": null,
-        "commentCount": 222
+        "commentCount": 223
       }
     },
     {
@@ -178,9 +202,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 63223,
+        "viewCount": 63828,
         "likeCount": null,
-        "commentCount": 583
+        "commentCount": 582
       }
     },
     {
@@ -204,7 +228,7 @@
       "stats": {
         "viewCount": 809,
         "likeCount": null,
-        "commentCount": 113
+        "commentCount": 115
       }
     },
     {
@@ -226,7 +250,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 54895,
+        "viewCount": 55211,
         "likeCount": null,
         "commentCount": 510
       }
@@ -250,7 +274,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 123788,
+        "viewCount": 124140,
         "likeCount": null,
         "commentCount": 211
       }
@@ -274,9 +298,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 76682,
+        "viewCount": 77944,
         "likeCount": null,
-        "commentCount": 492
+        "commentCount": 501
       }
     },
     {
@@ -298,9 +322,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 208206,
+        "viewCount": 209035,
         "likeCount": null,
-        "commentCount": 1521
+        "commentCount": 1522
       }
     },
     {
@@ -322,7 +346,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 65147,
+        "viewCount": 65219,
         "likeCount": null,
         "commentCount": 379
       }
@@ -348,7 +372,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 194
+        "commentCount": 198
       }
     },
     {
@@ -370,7 +394,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 135816,
+        "viewCount": 135868,
         "likeCount": null,
         "commentCount": 610
       }
@@ -394,33 +418,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 184914,
+        "viewCount": 184932,
         "likeCount": null,
         "commentCount": 1345
-      }
-    },
-    {
-      "id": "LqXcjTeXNaA",
-      "slug": "pinocchio-merz-lacht-erklaert-uns-fuer-zu-bloed-200-millionen-extra-na-LqXcjTeXNaA",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Pinocchio Merz lacht & erklärt uns für zu blöd - 200 Millionen extra nach Kiew",
-      "description": "Friedrich Merz grinst sich mit Selenskyj durch die nächste Pressekonferenz, verspricht 200 Millionen extra nach Kiew und erklärt die Deutschen gleichzeitig für zu dumm, um zu verstehen, warum sie weiter zahlen sollen.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Friedrich Merz grinst sich mit Selenskyj durch die nächste Pressekonferenz, verspricht 200 Millionen extra nach Kiew und erklärt die Deutschen gleichzeitig für zu dumm, um zu…",
-      "publishedAt": "2026-11-03T20:04:37+00:00",
-      "url": "https://www.youtube.com/watch?v=LqXcjTeXNaA",
-      "thumbnail": "/media/LqXcjTeXNaA.jpg",
-      "thumbnailRemote": "https://i1.ytimg.com/vi/LqXcjTeXNaA/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 184166,
-        "likeCount": null,
-        "commentCount": 2523
       }
     },
     {
@@ -442,9 +442,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82896,
+        "viewCount": 84060,
         "likeCount": null,
-        "commentCount": 409
+        "commentCount": 411
       }
     },
     {
@@ -466,7 +466,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73130,
+        "viewCount": 73155,
         "likeCount": null,
         "commentCount": 336
       }
@@ -490,7 +490,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 81850,
+        "viewCount": 81874,
         "likeCount": null,
         "commentCount": 533
       }
@@ -514,7 +514,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 99925,
+        "viewCount": 99964,
         "likeCount": null,
         "commentCount": 578
       }
@@ -538,7 +538,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 33702,
+        "viewCount": 33707,
         "likeCount": 3363,
         "commentCount": 633
       }
@@ -562,7 +562,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88435,
+        "viewCount": 88443,
         "likeCount": 4492,
         "commentCount": 403
       }
@@ -586,7 +586,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 42970,
+        "viewCount": 42975,
         "likeCount": 3038,
         "commentCount": 508
       }
@@ -622,8 +622,8 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 160,
-      "likeCount": 736,
+      "followerCount": 162,
+      "likeCount": 783,
       "videoCount": 17
     }
   }
