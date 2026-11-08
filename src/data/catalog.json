@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-08T12:59:08.542Z",
+  "syncedAt": "2026-11-08T13:41:56.777Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "LmMKFmsS8GU",
+      "slug": "ex-polizist-sei-froh-dass-du-weg-bist-migrantische-horden-keine-abschi-LmMKFmsS8GU",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Ex-Polizist: „Sei froh, dass du weg bist“ – Migrantische Horden, keine Abschiebung & Konsequenzen!",
+      "description": "Die Videoqualität ist durch Zoom leider reduziert. Der Inhalt ist dafür 100%!\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Die Videoqualität ist durch Zoom leider reduziert. Der Inhalt ist dafür 100%!",
+      "publishedAt": "2026-11-08T12:46:28+00:00",
+      "url": "https://www.youtube.com/watch?v=LmMKFmsS8GU",
+      "thumbnail": "/media/LmMKFmsS8GU.jpg",
+      "thumbnailRemote": "https://i1.ytimg.com/vi/LmMKFmsS8GU/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": null,
+        "likeCount": null,
+        "commentCount": 95
+      }
+    },
+    {
       "id": "TX8WI_mlQFY",
       "slug": "strassen-unsicher-weil-es-dunkel-ist-gruene-wollen-mehr-licht-TX8WI_mlQFY",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -64,7 +88,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 48
+        "commentCount": 53
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 37904,
+        "viewCount": 41011,
         "likeCount": null,
-        "commentCount": 428
+        "commentCount": 451
       }
     },
     {
@@ -110,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 125330,
+        "viewCount": 126767,
         "likeCount": null,
-        "commentCount": 879
+        "commentCount": 892
       }
     },
     {
@@ -134,9 +158,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 47239,
+        "viewCount": 47538,
         "likeCount": null,
-        "commentCount": 424
+        "commentCount": 422
       }
     },
     {
@@ -160,7 +184,7 @@
       "stats": {
         "viewCount": 167,
         "likeCount": null,
-        "commentCount": 256
+        "commentCount": 258
       }
     },
     {
@@ -182,7 +206,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 161900,
+        "viewCount": 162311,
         "likeCount": null,
         "commentCount": 1865
       }
@@ -226,7 +250,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 64485,
+        "viewCount": 64515,
         "likeCount": null,
         "commentCount": 586
       }
@@ -274,7 +298,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 55391,
+        "viewCount": 55400,
         "likeCount": null,
         "commentCount": 511
       }
@@ -298,7 +322,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 124556,
+        "viewCount": 124601,
         "likeCount": null,
         "commentCount": 210
       }
@@ -322,9 +346,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 79099,
+        "viewCount": 79228,
         "likeCount": null,
-        "commentCount": 507
+        "commentCount": 509
       }
     },
     {
@@ -346,9 +370,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 209841,
+        "viewCount": 210012,
         "likeCount": null,
-        "commentCount": 1522
+        "commentCount": 1521
       }
     },
     {
@@ -370,7 +394,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 65421,
+        "viewCount": 65450,
         "likeCount": null,
         "commentCount": 379
       }
@@ -400,30 +424,6 @@
       }
     },
     {
-      "id": "2RCxrgpfSGk",
-      "slug": "klartext-von-weidel-baumann-zur-lage-der-nation-2RCxrgpfSGk",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Klartext von Weidel & Baumann zur Lage der Nation!",
-      "description": "Seit 10 Jahren ignoriert man es. Jetzt kommt die Quittung.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Seit 10 Jahren ignoriert man es. Jetzt kommt die Quittung.",
-      "publishedAt": "2026-11-04T13:31:29+00:00",
-      "url": "https://www.youtube.com/watch?v=2RCxrgpfSGk",
-      "thumbnail": "/media/2RCxrgpfSGk.jpg",
-      "thumbnailRemote": "https://i3.ytimg.com/vi/2RCxrgpfSGk/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 136274,
-        "likeCount": null,
-        "commentCount": 610
-      }
-    },
-    {
       "id": "HhvGHLPe5Zo",
       "slug": "abrechnung-mit-merz-cdu-kreisvorsitzende-rechnet-knallhart-ab-HhvGHLPe5Zo",
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
@@ -442,7 +442,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 84955,
+        "viewCount": 85083,
         "likeCount": null,
         "commentCount": 411
       }
@@ -466,7 +466,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73170,
+        "viewCount": 73171,
         "likeCount": null,
         "commentCount": 336
       }
@@ -490,7 +490,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 81913,
+        "viewCount": 81902,
         "likeCount": null,
         "commentCount": 533
       }
@@ -562,7 +562,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88448,
+        "viewCount": 88451,
         "likeCount": 4492,
         "commentCount": 403
       }
@@ -586,7 +586,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 42981,
+        "viewCount": 42980,
         "likeCount": 3038,
         "commentCount": 508
       }
@@ -622,8 +622,8 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 191,
-      "likeCount": 1017,
+      "followerCount": 195,
+      "likeCount": 1040,
       "videoCount": 17
     }
   }
