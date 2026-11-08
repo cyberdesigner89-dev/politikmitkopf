@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-08T10:26:10.596Z",
+  "syncedAt": "2026-11-08T11:06:30.110Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 179803405,
-        "videoCount": 1591,
+        "videoCount": 1592,
         "hiddenSubscriberCount": false
       }
     },
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "TX8WI_mlQFY",
+      "slug": "strassen-unsicher-weil-es-dunkel-ist-gruene-wollen-mehr-licht-TX8WI_mlQFY",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Straßen unsicher weil es dunkel ist? Grüne wollen mehr Licht",
+      "description": "Schlüssel raus, Kopfhörer raus, Straßenseite wechseln: Das zählt Brantner für den Heimweg auf. Ihre Antwort: besser beleuchtete Straßen, sichere Öffis, mehr Schutz vor Gewalt und Anlaufstellen für Frauen. Und was ist mit den ganzen Übergriffen auf beleuchteten Straßen?\n\n#Brantner #Grüne #Sicherheit",
+      "excerpt": "Schlüssel raus, Kopfhörer raus, Straßenseite wechseln: Das zählt Brantner für den Heimweg auf. Ihre Antwort: besser beleuchtete Straßen, sichere Öffis, mehr Schutz vor Gewalt…",
+      "publishedAt": "2026-11-08T10:58:39+00:00",
+      "url": "https://www.youtube.com/watch?v=TX8WI_mlQFY",
+      "thumbnail": "/media/TX8WI_mlQFY.jpg",
+      "thumbnailRemote": "https://i1.ytimg.com/vi/TX8WI_mlQFY/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Brantner",
+        "Grüne",
+        "Sicherheit"
+      ],
+      "stats": {
+        "viewCount": null,
+        "likeCount": null,
+        "commentCount": 6
+      }
+    },
+    {
       "id": "ybbGTzZ-woI",
       "slug": "toedlicher-anschlag-in-krakau-innenminister-sagt-rechts-ich-glaube-es-ybbGTzZ-woI",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 14656,
+        "viewCount": 20801,
         "likeCount": null,
-        "commentCount": 293
+        "commentCount": 339
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 113619,
+        "viewCount": 117383,
         "likeCount": null,
-        "commentCount": 838
+        "commentCount": 855
       }
     },
     {
@@ -110,7 +134,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 45423,
+        "viewCount": 45902,
         "likeCount": null,
         "commentCount": 414
       }
@@ -136,7 +160,7 @@
       "stats": {
         "viewCount": 167,
         "likeCount": null,
-        "commentCount": 235
+        "commentCount": 242
       }
     },
     {
@@ -158,9 +182,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 160090,
+        "viewCount": 160670,
         "likeCount": null,
-        "commentCount": 1851
+        "commentCount": 1856
       }
     },
     {
@@ -202,7 +226,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 64123,
+        "viewCount": 64237,
         "likeCount": null,
         "commentCount": 584
       }
@@ -250,7 +274,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 55326,
+        "viewCount": 55352,
         "likeCount": null,
         "commentCount": 511
       }
@@ -274,7 +298,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 124310,
+        "viewCount": 124385,
         "likeCount": null,
         "commentCount": 210
       }
@@ -298,9 +322,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 78477,
+        "viewCount": 78641,
         "likeCount": null,
-        "commentCount": 501
+        "commentCount": 503
       }
     },
     {
@@ -322,7 +346,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 209348,
+        "viewCount": 209488,
         "likeCount": null,
         "commentCount": 1522
       }
@@ -346,7 +370,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 65236,
+        "viewCount": 65333,
         "likeCount": null,
         "commentCount": 379
       }
@@ -394,33 +418,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 135958,
+        "viewCount": 136043,
         "likeCount": null,
         "commentCount": 610
-      }
-    },
-    {
-      "id": "5tLTfIG1BgM",
-      "slug": "deutschlandhasser-die-linke-deutschland-soll-fuer-wohlstandsgewinne-re-5tLTfIG1BgM",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Deutschlandhasser Die Linke: Deutschland soll für Wohlstandsgewinne Reparationen bezahlen!",
-      "description": "Die Linksfraktion fordert per Bundestagsantrag, dass Deutschland wegen historischer CO₂-Emissionen und Wohlstandsgewinnen Reparationen und Ausgleichszahlungen an den Globalen Süden leisten muss.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Die Linksfraktion fordert per Bundestagsantrag, dass Deutschland wegen historischer CO₂-Emissionen und Wohlstandsgewinnen Reparationen und Ausgleichszahlungen an den Globalen…",
-      "publishedAt": "2026-11-04T08:45:37+00:00",
-      "url": "https://www.youtube.com/watch?v=5tLTfIG1BgM",
-      "thumbnail": "/media/5tLTfIG1BgM.jpg",
-      "thumbnailRemote": "https://i2.ytimg.com/vi/5tLTfIG1BgM/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 185029,
-        "likeCount": null,
-        "commentCount": 1346
       }
     },
     {
@@ -442,7 +442,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 84403,
+        "viewCount": 84579,
         "likeCount": null,
         "commentCount": 411
       }
@@ -622,8 +622,8 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 177,
-      "likeCount": 907,
+      "followerCount": 181,
+      "likeCount": 943,
       "videoCount": 17
     }
   }
