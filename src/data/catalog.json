@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-09T18:11:24.848Z",
+  "syncedAt": "2026-11-09T18:58:06.981Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -64,7 +64,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 172
+        "commentCount": 200
       }
     },
     {
@@ -86,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 109319,
+        "viewCount": 115818,
         "likeCount": null,
-        "commentCount": 956
+        "commentCount": 984
       }
     },
     {
@@ -110,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 123922,
+        "viewCount": 125323,
         "likeCount": null,
-        "commentCount": 526
+        "commentCount": 527
       }
     },
     {
@@ -136,7 +136,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 480
+        "commentCount": 482
       }
     },
     {
@@ -160,7 +160,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 160
+        "commentCount": 161
       }
     },
     {
@@ -182,7 +182,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 66270,
+        "viewCount": 66020,
         "likeCount": null,
         "commentCount": 527
       }
@@ -206,9 +206,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 146054,
+        "viewCount": 146279,
         "likeCount": null,
-        "commentCount": 1005
+        "commentCount": 1006
       }
     },
     {
@@ -230,7 +230,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 53049,
+        "viewCount": 53293,
         "likeCount": null,
         "commentCount": 459
       }
@@ -256,7 +256,7 @@
       "stats": {
         "viewCount": 167,
         "likeCount": null,
-        "commentCount": 332
+        "commentCount": 331
       }
     },
     {
@@ -278,7 +278,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 172206,
+        "viewCount": 172447,
         "likeCount": null,
         "commentCount": 1917
       }
@@ -322,9 +322,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 65830,
+        "viewCount": 65853,
         "likeCount": null,
-        "commentCount": 592
+        "commentCount": 591
       }
     },
     {
@@ -348,7 +348,7 @@
       "stats": {
         "viewCount": 809,
         "likeCount": null,
-        "commentCount": 120
+        "commentCount": 121
       }
     },
     {
@@ -370,9 +370,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 55815,
+        "viewCount": 55835,
         "likeCount": null,
-        "commentCount": 512
+        "commentCount": 510
       }
     },
     {
@@ -394,7 +394,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 124907,
+        "viewCount": 124999,
         "likeCount": null,
         "commentCount": 210
       }
@@ -418,7 +418,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 81360,
+        "viewCount": 81417,
         "likeCount": null,
         "commentCount": 520
       }
@@ -442,7 +442,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88339,
+        "viewCount": 88416,
         "likeCount": null,
         "commentCount": 419
       }
@@ -466,7 +466,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73247,
+        "viewCount": 73254,
         "likeCount": null,
         "commentCount": 336
       }
@@ -562,7 +562,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88520,
+        "viewCount": 88533,
         "likeCount": 4492,
         "commentCount": 404
       }
@@ -622,8 +622,8 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 245,
-      "likeCount": 1527,
+      "followerCount": 246,
+      "likeCount": 1531,
       "videoCount": 17
     }
   }
