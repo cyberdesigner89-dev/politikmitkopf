@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-09T03:18:14.111Z",
+  "syncedAt": "2026-11-09T04:14:48.409Z",
   "ok": false,
   "source": "youtube-public",
   "error": "Mindestens ein Kanal konnte nicht gelesen werden. Angezeigt werden gespeicherte Videos.",
@@ -623,7 +623,7 @@
     "status": "verbunden",
     "stats": {
       "followerCount": 226,
-      "likeCount": 1363,
+      "likeCount": 1373,
       "videoCount": 17
     }
   }
