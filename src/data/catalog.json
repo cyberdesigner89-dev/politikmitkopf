@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-09T20:33:42.434Z",
+  "syncedAt": "2026-11-09T21:24:12.007Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -64,7 +64,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 239
+        "commentCount": 253
       }
     },
     {
@@ -86,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 126418,
+        "viewCount": 130600,
         "likeCount": null,
-        "commentCount": 1028
+        "commentCount": 1032
       }
     },
     {
@@ -110,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 127061,
+        "viewCount": 127642,
         "likeCount": null,
-        "commentCount": 530
+        "commentCount": 532
       }
     },
     {
@@ -182,7 +182,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 66193,
+        "viewCount": 66302,
         "likeCount": null,
         "commentCount": 528
       }
@@ -206,7 +206,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 146999,
+        "viewCount": 147500,
         "likeCount": null,
         "commentCount": 1007
       }
@@ -230,9 +230,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 53622,
+        "viewCount": 53732,
         "likeCount": null,
-        "commentCount": 459
+        "commentCount": 461
       }
     },
     {
@@ -278,9 +278,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 172783,
+        "viewCount": 172936,
         "likeCount": null,
-        "commentCount": 1917
+        "commentCount": 1918
       }
     },
     {
@@ -300,7 +300,7 @@
       "stats": {
         "viewCount": 777,
         "likeCount": null,
-        "commentCount": 221
+        "commentCount": 222
       }
     },
     {
@@ -322,9 +322,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 65923,
+        "viewCount": 65959,
         "likeCount": null,
-        "commentCount": 592
+        "commentCount": 597
       }
     },
     {
@@ -370,7 +370,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 55852,
+        "viewCount": 55860,
         "likeCount": null,
         "commentCount": 510
       }
@@ -394,7 +394,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 125083,
+        "viewCount": 125124,
         "likeCount": null,
         "commentCount": 210
       }
@@ -418,9 +418,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 81550,
+        "viewCount": 81618,
         "likeCount": null,
-        "commentCount": 520
+        "commentCount": 521
       }
     },
     {
@@ -442,7 +442,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88539,
+        "viewCount": 88587,
         "likeCount": null,
         "commentCount": 419
       }
@@ -490,7 +490,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82023,
+        "viewCount": 82024,
         "likeCount": null,
         "commentCount": 533
       }
@@ -623,7 +623,7 @@
     "status": "verbunden",
     "stats": {
       "followerCount": 247,
-      "likeCount": 1542,
+      "likeCount": 1549,
       "videoCount": 17
     }
   }
