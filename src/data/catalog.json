@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-09T11:22:58.153Z",
+  "syncedAt": "2026-11-09T12:15:56.088Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 180200239,
-        "videoCount": 1595,
+        "videoCount": 1596,
         "hiddenSubscriberCount": false
       }
     },
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "dkIPSeSFx5I",
+      "slug": "dein-rentengeld-fuer-start-ups-klingbeils-plan-bitte-das-dkIPSeSFx5I",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Dein Rentengeld für Start-ups? Klingbeils Plan Bitte das",
+      "description": "Klingbeil rechnet: 2 % der Rentenversicherung am Kapitalmarkt, das sind 30 bis 40 Milliarden im Jahr. Sein Ziel: Kapital für Start-ups und Unternehmen in Deutschland. Nur sind Start-ups Hochrisiko, Faustregel: Von hundert tragen am Ende zwei den Rest, und garantiert ist das nicht.\n\n#Klingbeil #Rente #Startups",
+      "excerpt": "Klingbeil rechnet: 2 % der Rentenversicherung am Kapitalmarkt, das sind 30 bis 40 Milliarden im Jahr. Sein Ziel: Kapital für Start-ups und Unternehmen in Deutschland. Nur sind…",
+      "publishedAt": "2026-11-09T12:03:03+00:00",
+      "url": "https://www.youtube.com/watch?v=dkIPSeSFx5I",
+      "thumbnail": "/media/dkIPSeSFx5I.jpg",
+      "thumbnailRemote": "https://i1.ytimg.com/vi/dkIPSeSFx5I/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Klingbeil",
+        "Rente",
+        "Startups"
+      ],
+      "stats": {
+        "viewCount": null,
+        "likeCount": null,
+        "commentCount": 7
+      }
+    },
+    {
       "id": "STA5_AzCurU",
       "slug": "livestream-gestaendnis-graichen-gibt-zu-atomausstieg-aus-ideologie-str-STA5_AzCurU",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 39371,
+        "viewCount": 49894,
         "likeCount": null,
-        "commentCount": 595
+        "commentCount": 669
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 111366,
+        "viewCount": 113084,
         "likeCount": null,
-        "commentCount": 488
+        "commentCount": 495
       }
     },
     {
@@ -112,7 +136,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 452
+        "commentCount": 456
       }
     },
     {
@@ -136,7 +160,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 132
+        "commentCount": 134
       }
     },
     {
@@ -158,9 +182,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 65136,
+        "viewCount": 65250,
         "likeCount": null,
-        "commentCount": 519
+        "commentCount": 520
       }
     },
     {
@@ -182,9 +206,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 143363,
+        "viewCount": 143716,
         "likeCount": null,
-        "commentCount": 997
+        "commentCount": 999
       }
     },
     {
@@ -206,7 +230,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 51396,
+        "viewCount": 51506,
         "likeCount": null,
         "commentCount": 444
       }
@@ -232,7 +256,7 @@
       "stats": {
         "viewCount": 167,
         "likeCount": null,
-        "commentCount": 316
+        "commentCount": 318
       }
     },
     {
@@ -254,9 +278,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 169544,
+        "viewCount": 169849,
         "likeCount": null,
-        "commentCount": 1912
+        "commentCount": 1913
       }
     },
     {
@@ -298,7 +322,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 65490,
+        "viewCount": 65520,
         "likeCount": null,
         "commentCount": 592
       }
@@ -346,7 +370,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 55736,
+        "viewCount": 55749,
         "likeCount": null,
         "commentCount": 512
       }
@@ -370,7 +394,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 124713,
+        "viewCount": 124789,
         "likeCount": null,
         "commentCount": 210
       }
@@ -394,33 +418,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 80939,
+        "viewCount": 81003,
         "likeCount": null,
         "commentCount": 510
-      }
-    },
-    {
-      "id": "VhCbdHCnADI",
-      "slug": "stellv-ministerpraesident-ohne-lka-schutz-aiwanger-tot-im-hotel-gefund-VhCbdHCnADI",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Stellv. Ministerpräsident ohne LKA-Schutz: Aiwanger tot im Hotel gefunden – Viele Fragen!",
-      "description": "Hubert Aiwanger, stellvertretender Ministerpräsident Bayerns, wurde tot in einem Berliner Hotel aufgefunden. wWarum war der zweithöchste Politiker des Freistaats ohne Personenschutz unterwegs?\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Hubert Aiwanger, stellvertretender Ministerpräsident Bayerns, wurde tot in einem Berliner Hotel aufgefunden. wWarum war der zweithöchste Politiker des Freistaats ohne…",
-      "publishedAt": "2026-11-05T08:49:40+00:00",
-      "url": "https://www.youtube.com/watch?v=VhCbdHCnADI",
-      "thumbnail": "/media/VhCbdHCnADI.jpg",
-      "thumbnailRemote": "https://i3.ytimg.com/vi/VhCbdHCnADI/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 211123,
-        "likeCount": null,
-        "commentCount": 1523
       }
     },
     {
@@ -442,7 +442,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 87945,
+        "viewCount": 87976,
         "likeCount": null,
         "commentCount": 419
       }
@@ -623,7 +623,7 @@
     "status": "verbunden",
     "stats": {
       "followerCount": 238,
-      "likeCount": 1454,
+      "likeCount": 1460,
       "videoCount": 17
     }
   }
