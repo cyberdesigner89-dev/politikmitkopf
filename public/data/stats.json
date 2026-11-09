@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-09T04:14:48.409Z",
+  "syncedAt": "2026-11-09T05:15:47.480Z",
   "timezone": "Europe/Zurich",
   "channels": [
     {
@@ -37,10 +37,10 @@
       "handle": "@politik.mit.kopf",
       "profileUrl": "https://www.tiktok.com/@politik.mit.kopf",
       "stats": {
-        "subscriberCount": 226,
+        "subscriberCount": 227,
         "viewCount": null,
         "videoCount": 17,
-        "likeCount": 1373,
+        "likeCount": 1380,
         "hiddenSubscriberCount": false
       }
     }
@@ -273,8 +273,8 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 226,
-      "likeCount": 1373,
+      "followerCount": 227,
+      "likeCount": 1380,
       "videoCount": 17
     }
   },
@@ -11197,6 +11197,13 @@
       "channelId": "tiktok",
       "subscriberCount": 226,
       "viewCount": 1373,
+      "videoCount": 17
+    },
+    {
+      "at": "2026-11-09T05:15:47.480Z",
+      "channelId": "tiktok",
+      "subscriberCount": 227,
+      "viewCount": 1380,
       "videoCount": 17
     }
   ],
