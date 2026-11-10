@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-10T15:57:05.401Z",
+  "syncedAt": "2026-11-10T16:38:17.805Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 180600190,
-        "videoCount": 1596,
+        "videoCount": 1597,
         "hiddenSubscriberCount": false
       }
     },
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "6HT-DnyQ4Sg",
+      "slug": "neues-von-ferat-kocak-der-faule-abgeordnete-mit-remmo-kontakten-und-er-6HT-DnyQ4Sg",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Neues von Ferat Koçak: Der faule Abgeordnete mit Remmo-Kontakten und Ermittlungsverfahren",
+      "description": "Gute Arbeit von Julia Ruhs.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Gute Arbeit von Julia Ruhs.",
+      "publishedAt": "2026-11-10T16:17:46+00:00",
+      "url": "https://www.youtube.com/watch?v=6HT-DnyQ4Sg",
+      "thumbnail": "/media/6HT-DnyQ4Sg.jpg",
+      "thumbnailRemote": "https://i3.ytimg.com/vi/6HT-DnyQ4Sg/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 2913,
+        "likeCount": null,
+        "commentCount": 27
+      }
+    },
+    {
       "id": "dkIPSeSFx5I",
       "slug": "dein-rentengeld-fuer-start-ups-klingbeils-plan-bitte-das-dkIPSeSFx5I",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -64,7 +88,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 485
+        "commentCount": 494
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 163816,
+        "viewCount": 164560,
         "likeCount": null,
-        "commentCount": 1128
+        "commentCount": 1129
       }
     },
     {
@@ -110,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 135554,
+        "viewCount": 135932,
         "likeCount": null,
-        "commentCount": 551
+        "commentCount": 552
       }
     },
     {
@@ -136,7 +160,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 511
+        "commentCount": 513
       }
     },
     {
@@ -182,7 +206,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 67264,
+        "viewCount": 67334,
         "likeCount": null,
         "commentCount": 536
       }
@@ -206,7 +230,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 151965,
+        "viewCount": 152081,
         "likeCount": null,
         "commentCount": 1017
       }
@@ -230,7 +254,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 54974,
+        "viewCount": 55031,
         "likeCount": null,
         "commentCount": 465
       }
@@ -278,7 +302,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 175858,
+        "viewCount": 175927,
         "likeCount": null,
         "commentCount": 1937
       }
@@ -322,7 +346,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 66510,
+        "viewCount": 66540,
         "likeCount": null,
         "commentCount": 607
       }
@@ -370,33 +394,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 55948,
+        "viewCount": 55951,
         "likeCount": null,
         "commentCount": 511
-      }
-    },
-    {
-      "id": "176ZPnOOjjY",
-      "slug": "hast-du-das-gesehen-so-eskaliert-die-aktuelle-stunde-im-bundestag-176ZPnOOjjY",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Hast du das gesehen? So eskaliert die Aktuelle Stunde im Bundestag",
-      "description": "https://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Hast du das gesehen? So eskaliert die Aktuelle Stunde im Bundestag",
-      "publishedAt": "2026-11-05T15:34:15+00:00",
-      "url": "https://www.youtube.com/watch?v=176ZPnOOjjY",
-      "thumbnail": "/media/176ZPnOOjjY.jpg",
-      "thumbnailRemote": "https://i2.ytimg.com/vi/176ZPnOOjjY/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 125574,
-        "likeCount": null,
-        "commentCount": 210
       }
     },
     {
@@ -418,7 +418,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82497,
+        "viewCount": 82523,
         "likeCount": null,
         "commentCount": 524
       }
@@ -442,7 +442,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 89644,
+        "viewCount": 89668,
         "likeCount": null,
         "commentCount": 423
       }
@@ -466,7 +466,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73317,
+        "viewCount": 73321,
         "likeCount": null,
         "commentCount": 336
       }
@@ -622,8 +622,8 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 254,
-      "likeCount": 1646,
+      "followerCount": 255,
+      "likeCount": 1660,
       "videoCount": 18
     }
   }
