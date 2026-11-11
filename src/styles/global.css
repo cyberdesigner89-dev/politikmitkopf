@@ -612,87 +612,7 @@ a { color: inherit; }
   height: auto;
 }
 .legal-note { color: var(--muted); font-size: 0.92rem; }
-.footer-credit {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-  margin: 22px 0 0;
-}
-@property --footer-logo-angle {
-  syntax: "<angle>";
-  inherits: false;
-  initial-value: 0deg;
-}
-.footer-credit-logo,
-.footer-credit-logo:hover { text-decoration: none; }
-.footer-credit-logo {
-  position: relative;
-  display: inline-block;
-  line-height: 0;
-}
-.footer-credit-logo img {
-  display: block;
-  width: 150px;
-  height: auto;
-  filter: drop-shadow(0 0 8px rgba(59, 167, 255, 0.45)) drop-shadow(0 0 16px rgba(59, 167, 255, 0.22));
-}
-.footer-credit-logo::after {
-  content: "";
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  width: 176px;
-  height: 88px;
-  transform: translate(-50%, -50%);
-  pointer-events: none;
-  background: rgba(59, 167, 255, 0.32);
-  mask-image: var(--credit-logo), var(--credit-logo);
-  mask-repeat: no-repeat, no-repeat;
-  mask-position: center, center;
-  mask-mode: alpha, alpha;
-  mask-size: 150px 62px, 154px 63.63px;
-  mask-composite: exclude, add;
-  -webkit-mask-image: var(--credit-logo), var(--credit-logo);
-  -webkit-mask-repeat: no-repeat, no-repeat;
-  -webkit-mask-position: center, center;
-  -webkit-mask-size: 150px 62px, 154px 63.63px;
-  -webkit-mask-composite: xor;
-  filter: drop-shadow(0 0 4px rgba(59, 167, 255, 0.5));
-}
-.footer-credit-logo:hover img,
-.footer-credit-logo:focus-visible img,
-.footer-credit-logo:hover::after,
-.footer-credit-logo:focus-visible::after {
-  filter: drop-shadow(0 0 8px rgba(59, 167, 255, 0.72)) drop-shadow(0 0 18px rgba(59, 167, 255, 0.4));
-}
-.footer-credit-text {
-  color: var(--muted);
-  font-size: 0.92rem;
-  text-shadow: 0 0 10px rgba(59, 167, 255, 0.28);
-}
-.footer-credit-text:hover,
-.footer-credit-text:focus-visible {
-  color: var(--accent);
-  text-shadow: 0 0 12px rgba(59, 167, 255, 0.45);
-}
-@media (prefers-reduced-motion: no-preference) {
-  .footer-credit-logo::after {
-    background: conic-gradient(
-      from var(--footer-logo-angle),
-      transparent 0deg,
-      transparent 286deg,
-      rgba(59, 167, 255, 0.35) 316deg,
-      #b9e2ff 338deg,
-      #f7fbff 346deg,
-      #3ba7ff 358deg,
-      transparent 360deg
-    );
-    animation: footer-logo-shimmer 5s linear infinite;
-  }
-}
-@keyframes footer-logo-shimmer {
-  to { --footer-logo-angle: 360deg; }
-}
+.cdcredit{display:flex;flex-direction:column;flex-wrap:nowrap;align-items:center;justify-content:center;gap:8px;margin:14px auto 4px;text-align:center} .cdcredit img{width:150px;height:auto;display:block;filter:drop-shadow(0 0 8px rgba(63,169,255,.35))} .cdcredit .cdt{display:block;max-width:34rem;margin:0 auto;font-size:.78rem;line-height:1.45;text-align:center;color:#9fc6ff;text-decoration:none}.cdcredit .cdt:hover{color:#fff;text-decoration:underline} @media(max-width:600px){.cdcredit{flex-direction:column;align-items:center}} @property --footer-logo-angle{syntax:"<angle>";inherits:false;initial-value:0deg} .cdcredit a.cdlogo,.cdcredit a.cdlogo:hover{text-decoration:none} .cdcredit a.cdlogo{position:relative;display:inline-block;line-height:0} .cdcredit a.cdlogo img{display:block;width:150px;height:auto;filter:drop-shadow(0 0 8px rgba(59,167,255,.45)) drop-shadow(0 0 16px rgba(59,167,255,.22))} .cdcredit a.cdlogo::after{content:"";position:absolute;left:50%;top:50%;width:176px;height:88px;transform:translate(-50%,-50%);pointer-events:none;background:rgba(59,167,255,.32); mask-image:var(--cd-logo),var(--cd-logo);mask-repeat:no-repeat,no-repeat;mask-position:center,center;mask-mode:alpha,alpha;mask-size:150px 62px,154px 63.63px;mask-composite:exclude,add; -webkit-mask-image:var(--cd-logo),var(--cd-logo);-webkit-mask-repeat:no-repeat,no-repeat;-webkit-mask-position:center,center;-webkit-mask-size:150px 62px,154px 63.63px;-webkit-mask-composite:xor; filter:drop-shadow(0 0 4px rgba(59,167,255,.5))} .cdcredit a.cdlogo:hover img,.cdcredit a.cdlogo:focus-visible img,.cdcredit a.cdlogo:hover::after,.cdcredit a.cdlogo:focus-visible::after{filter:drop-shadow(0 0 8px rgba(59,167,255,.72)) drop-shadow(0 0 18px rgba(59,167,255,.4))} .cdcredit .cdt{text-shadow:0 0 10px rgba(59,167,255,.28)} .cdcredit .cdt:hover,.cdcredit .cdt:focus-visible{text-shadow:0 0 12px rgba(59,167,255,.45)} @media (prefers-reduced-motion:no-preference){.cdcredit a.cdlogo::after{background:conic-gradient(from var(--footer-logo-angle),transparent 0deg,transparent 286deg,rgba(59,167,255,.35) 316deg,#b9e2ff 338deg,#f7fbff 346deg,#3ba7ff 358deg,transparent 360deg);animation:footer-logo-shimmer 5s linear infinite}} @keyframes footer-logo-shimmer{to{--footer-logo-angle:360deg}}
 
 dialog.search-dialog {
   margin: 0;
@@ -937,11 +857,6 @@ dialog.search-dialog::backdrop { background: rgba(12, 16, 24, 0.52); }
 
   .footer-mark img {
     margin-inline: auto;
-  }
-
-  .footer-credit {
-    flex-direction: column;
-    gap: 10px;
   }
 
   .form-grid,
