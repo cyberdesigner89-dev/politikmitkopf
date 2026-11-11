@@ -6,8 +6,7 @@ import { currentYear } from '../lib/format';
 import { withBase } from '../lib/paths';
 
 const watermark = withBase('/brand/watermark.svg');
-const creditLogo = withBase('/images/cyberdesigner-logo.png');
-const creditLogoWebp = withBase('/images/cyberdesigner-logo.webp');
+const creditLogo = withBase('/brand/cyberdesigner.png');
 ---
 <footer class="site-footer">
   <div class="wrap">
@@ -40,14 +39,9 @@ const creditLogoWebp = withBase('/images/cyberdesigner-logo.webp');
     </div>
     <p class="footer-mark" aria-hidden="true"><img src={watermark} alt="" width="980" height="140" decoding="async" loading="lazy" /></p>
     <p class="legal-note">© {currentYear()} {site.name}</p>
-    <div class="footer-credit">
-      <a class="footer-credit-logo" href="https://cyberdesigner.de" target="_blank" rel="noopener noreferrer" style={`--credit-logo:url("${creditLogo}")`}>
-        <picture>
-          <source type="image/webp" srcset={creditLogoWebp} />
-          <img src={creditLogo} alt="cyberdesigner.de" width="300" height="124" decoding="async" loading="lazy" />
-        </picture>
-      </a>
-      <a class="footer-credit-text" href="https://cyberdesigner.de" target="_blank" rel="noopener noreferrer">Diese Seite wurde entwickelt von cyberdesigner.de</a>
+    <div class="cdcredit">
+      <a class="cdlogo" href="https://cyberdesigner.de" target="_blank" rel="noopener" aria-label="cyberdesigner.de" style={`--cd-logo:url("${creditLogo}")`}><img src={creditLogo} alt="CyberDesigner.de" width="150" height="62" loading="lazy"></a>
+      <a class="cdt" href="https://cyberdesigner.de" target="_blank" rel="noopener">Diese Website ist SEO- und GEO-optimiert und bedarf keinerlei Anfragen.</a>
     </div>
   </div>
 </footer>
