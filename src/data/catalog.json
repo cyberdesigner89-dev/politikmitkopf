@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-12T13:34:46.732Z",
+  "syncedAt": "2026-11-12T14:32:00.722Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 180917613,
-        "videoCount": 1599,
+        "videoCount": 1600,
         "hiddenSubscriberCount": false
       }
     },
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "ix4rEE82mng",
+      "slug": "dumm-duemmer-deutsch-greta-lacht-fridays-for-future-aus-und-sie-checke-ix4rEE82mng",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Dumm, dümmer - Deutsch! Greta lacht Fridays for Future aus – und Sie checken es immer noch nicht!",
+      "description": "Die Wahrheit tut weh!\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\nQuelle: @hubikoch https://www.youtube.com/watch?v=zc1rItlQB2U\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Die Wahrheit tut weh!",
+      "publishedAt": "2026-11-12T14:08:53+00:00",
+      "url": "https://www.youtube.com/watch?v=ix4rEE82mng",
+      "thumbnail": "/media/ix4rEE82mng.jpg",
+      "thumbnailRemote": "https://i2.ytimg.com/vi/ix4rEE82mng/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 3163,
+        "likeCount": null,
+        "commentCount": 68
+      }
+    },
+    {
       "id": "9XVG6zdBsp0",
       "slug": "buergergeld-bleibt-stromsteuer-kommt-nicht-eskalation-um-den-haushalt-9XVG6zdBsp0",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 54114,
+        "viewCount": 66832,
         "likeCount": null,
-        "commentCount": 463
+        "commentCount": 489
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 101443,
+        "viewCount": 103357,
         "likeCount": null,
-        "commentCount": 1411
+        "commentCount": 1420
       }
     },
     {
@@ -110,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 122785,
+        "viewCount": 123053,
         "likeCount": null,
-        "commentCount": 409
+        "commentCount": 410
       }
     },
     {
@@ -136,7 +160,7 @@
       "stats": {
         "viewCount": 89103,
         "likeCount": 3818,
-        "commentCount": 631
+        "commentCount": 634
       }
     },
     {
@@ -158,9 +182,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 177218,
+        "viewCount": 177333,
         "likeCount": null,
-        "commentCount": 1150
+        "commentCount": 1151
       }
     },
     {
@@ -182,7 +206,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 142253,
+        "viewCount": 142329,
         "likeCount": null,
         "commentCount": 558
       }
@@ -254,7 +278,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 68158,
+        "viewCount": 68165,
         "likeCount": null,
         "commentCount": 553
       }
@@ -278,7 +302,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 154730,
+        "viewCount": 154755,
         "likeCount": null,
         "commentCount": 1022
       }
@@ -302,7 +326,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 55595,
+        "viewCount": 55600,
         "likeCount": null,
         "commentCount": 467
       }
@@ -350,7 +374,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 177433,
+        "viewCount": 177473,
         "likeCount": null,
         "commentCount": 1931
       }
@@ -376,30 +400,6 @@
       }
     },
     {
-      "id": "sZRwNQiipcc",
-      "slug": "klingbeil-zerstoert-die-rente-statt-msci-world-nur-deutsche-aktien-und-sZRwNQiipcc",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Klingbeil zerstört die Rente – statt MSCI World nur deutsche Aktien und Start-ups",
-      "description": "Der Blinde hat über sein Kunstwerk gesprochen.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Der Blinde hat über sein Kunstwerk gesprochen.",
-      "publishedAt": "2026-11-06T15:20:24+00:00",
-      "url": "https://www.youtube.com/watch?v=sZRwNQiipcc",
-      "thumbnail": "/media/sZRwNQiipcc.jpg",
-      "thumbnailRemote": "https://i4.ytimg.com/vi/sZRwNQiipcc/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 67437,
-        "likeCount": null,
-        "commentCount": 608
-      }
-    },
-    {
       "id": "-C62VWh7Vs0",
       "slug": "aktuelle-stunde-der-afd-zerlegt-linke-gruene-spd-widerspricht-der-spd--C62VWh7Vs0",
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
@@ -418,7 +418,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 84149,
+        "viewCount": 84211,
         "likeCount": null,
         "commentCount": 527
       }
@@ -442,7 +442,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 91653,
+        "viewCount": 91714,
         "likeCount": null,
         "commentCount": 432
       }
@@ -490,7 +490,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82153,
+        "viewCount": 82166,
         "likeCount": null,
         "commentCount": 533
       }
@@ -622,8 +622,8 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 278,
-      "likeCount": 1890,
+      "followerCount": 279,
+      "likeCount": 1893,
       "videoCount": 19
     }
   }
