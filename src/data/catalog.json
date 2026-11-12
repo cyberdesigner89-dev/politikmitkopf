@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-12T08:44:24.213Z",
+  "syncedAt": "2026-11-12T09:36:07.461Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 180917613,
-        "videoCount": 1598,
+        "videoCount": 1599,
         "hiddenSubscriberCount": false
       }
     },
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "9XVG6zdBsp0",
+      "slug": "buergergeld-bleibt-stromsteuer-kommt-nicht-eskalation-um-den-haushalt-9XVG6zdBsp0",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Bürgergeld bleibt, Stromsteuer kommt nicht – Eskalation um den Haushalt in Berlin!",
+      "description": "https://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Bürgergeld bleibt, Stromsteuer kommt nicht – Eskalation um den Haushalt in Berlin!",
+      "publishedAt": "2026-11-12T09:09:07+00:00",
+      "url": "https://www.youtube.com/watch?v=9XVG6zdBsp0",
+      "thumbnail": "/media/9XVG6zdBsp0.jpg",
+      "thumbnailRemote": "https://i2.ytimg.com/vi/9XVG6zdBsp0/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 4051,
+        "likeCount": null,
+        "commentCount": 61
+      }
+    },
+    {
       "id": "rOB981VNRGI",
       "slug": "esken-erklaert-propaganda-verraet-ungewollt-das-system-tagesschau-rOB981VNRGI",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82245,
+        "viewCount": 84056,
         "likeCount": null,
-        "commentCount": 1335
+        "commentCount": 1367
       }
     },
     {
@@ -86,7 +110,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 120759,
+        "viewCount": 120922,
         "likeCount": null,
         "commentCount": 408
       }
@@ -112,7 +136,7 @@
       "stats": {
         "viewCount": 89103,
         "likeCount": 3818,
-        "commentCount": 622
+        "commentCount": 623
       }
     },
     {
@@ -134,7 +158,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 176558,
+        "viewCount": 176598,
         "likeCount": null,
         "commentCount": 1149
       }
@@ -158,7 +182,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 141674,
+        "viewCount": 141738,
         "likeCount": null,
         "commentCount": 559
       }
@@ -184,7 +208,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 521
+        "commentCount": 522
       }
     },
     {
@@ -230,7 +254,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 68063,
+        "viewCount": 68072,
         "likeCount": null,
         "commentCount": 549
       }
@@ -254,7 +278,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 154520,
+        "viewCount": 154533,
         "likeCount": null,
         "commentCount": 1022
       }
@@ -278,7 +302,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 55550,
+        "viewCount": 55553,
         "likeCount": null,
         "commentCount": 467
       }
@@ -326,7 +350,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 177244,
+        "viewCount": 177255,
         "likeCount": null,
         "commentCount": 1931
       }
@@ -370,33 +394,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 67306,
+        "viewCount": 67324,
         "likeCount": null,
         "commentCount": 608
-      }
-    },
-    {
-      "id": "o0NvSo_bud8",
-      "slug": "linke-fordern-reparationen-fuers-klima-von-deinem-geld-o0NvSo_bud8",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Linke fordern Reparationen fürs Klima. Von deinem Geld?",
-      "description": "Die Linksfraktion fordert in einem Antrag im Bundestag, Reparationen zu zahlen, wegen der Klimagerechtigkeit. So wie ich das sehe, haben wir die Rohstoffe im Ausland bezahlt und nicht geklaut. Und von welchem Geld eigentlich, gibt es dann eine Reparationssteuer?\n\n#Reparationen #DieLinke #Klimagerechtigkeit",
-      "excerpt": "Die Linksfraktion fordert in einem Antrag im Bundestag, Reparationen zu zahlen, wegen der Klimagerechtigkeit. So wie ich das sehe, haben wir die Rohstoffe im Ausland bezahlt…",
-      "publishedAt": "2026-11-06T09:59:54+00:00",
-      "url": "https://www.youtube.com/watch?v=o0NvSo_bud8",
-      "thumbnail": "/media/o0NvSo_bud8.jpg",
-      "thumbnailRemote": "https://i4.ytimg.com/vi/o0NvSo_bud8/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Reparationen",
-        "DieLinke",
-        "Klimagerechtigkeit"
-      ],
-      "stats": {
-        "viewCount": 809,
-        "likeCount": null,
-        "commentCount": 138
       }
     },
     {
@@ -418,7 +418,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 83865,
+        "viewCount": 83877,
         "likeCount": null,
         "commentCount": 527
       }
@@ -442,7 +442,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 91321,
+        "viewCount": 91346,
         "likeCount": null,
         "commentCount": 430
       }
@@ -622,7 +622,7 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 274,
+      "followerCount": 275,
       "likeCount": 1883,
       "videoCount": 19
     }
