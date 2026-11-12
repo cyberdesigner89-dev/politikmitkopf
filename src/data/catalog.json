@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-12T19:41:33.136Z",
+  "syncedAt": "2026-11-12T20:27:09.601Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 181025700,
-        "videoCount": 1601,
+        "videoCount": 1602,
         "hiddenSubscriberCount": false
       }
     },
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "jo1KrXmMNWM",
+      "slug": "clanboss-issa-remmo-sitzt-im-eu-parlament-warum-laedt-die-evp-cdu-csu-jo1KrXmMNWM",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Clanboss Issa Remmo sitzt im EU-Parlament – Warum lädt die EVP (CDU/CSU) ihn ein?",
+      "description": "Die Unterwanderung ist weit fortgeschritten!\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Die Unterwanderung ist weit fortgeschritten!",
+      "publishedAt": "2026-11-12T19:42:34+00:00",
+      "url": "https://www.youtube.com/watch?v=jo1KrXmMNWM",
+      "thumbnail": "/media/jo1KrXmMNWM.jpg",
+      "thumbnailRemote": "https://i3.ytimg.com/vi/jo1KrXmMNWM/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 7922,
+        "likeCount": null,
+        "commentCount": 134
+      }
+    },
+    {
       "id": "q7SNiJt9fZg",
       "slug": "vw-in-der-krise-gewerkschaft-macht-antifa-woche-q7SNiJt9fZg",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -64,7 +88,7 @@
       "stats": {
         "viewCount": 147,
         "likeCount": null,
-        "commentCount": 12
+        "commentCount": 16
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 68615,
+        "viewCount": 78172,
         "likeCount": null,
-        "commentCount": 618
+        "commentCount": 644
       }
     },
     {
@@ -110,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 105893,
+        "viewCount": 109537,
         "likeCount": null,
-        "commentCount": 583
+        "commentCount": 592
       }
     },
     {
@@ -134,9 +158,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 105514,
+        "viewCount": 105901,
         "likeCount": null,
-        "commentCount": 1439
+        "commentCount": 1441
       }
     },
     {
@@ -158,7 +182,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 123368,
+        "viewCount": 123421,
         "likeCount": null,
         "commentCount": 411
       }
@@ -184,7 +208,7 @@
       "stats": {
         "viewCount": 89103,
         "likeCount": 3818,
-        "commentCount": 650
+        "commentCount": 651
       }
     },
     {
@@ -206,7 +230,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 177853,
+        "viewCount": 177909,
         "likeCount": null,
         "commentCount": 1152
       }
@@ -230,7 +254,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 142544,
+        "viewCount": 142582,
         "likeCount": null,
         "commentCount": 559
       }
@@ -352,7 +376,7 @@
       "stats": {
         "viewCount": 55629,
         "likeCount": null,
-        "commentCount": 468
+        "commentCount": 467
       }
     },
     {
@@ -380,30 +404,6 @@
       }
     },
     {
-      "id": "t0Za5i2Orbo",
-      "slug": "absurdistan-dresden-vater-opfert-haus-kindeswohl-wegen-grundsteuer-11-t0Za5i2Orbo",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Absurdistan Dresden: Vater opfert Haus & Kindeswohl wegen Grundsteuer – 11 Wochen auf dem Gehweg",
-      "description": "Ihr habt gefragt, warum Menschen Altparteien wählen. Hier seht ihr wie weit kognitive Dissonanz geht!\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Ihr habt gefragt, warum Menschen Altparteien wählen. Hier seht ihr wie weit kognitive Dissonanz geht!",
-      "publishedAt": "2026-11-07T09:18:12+00:00",
-      "url": "https://www.youtube.com/watch?v=t0Za5i2Orbo",
-      "thumbnail": "/media/t0Za5i2Orbo.jpg",
-      "thumbnailRemote": "https://i1.ytimg.com/vi/t0Za5i2Orbo/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 177614,
-        "likeCount": null,
-        "commentCount": 1934
-      }
-    },
-    {
       "id": "-C62VWh7Vs0",
       "slug": "aktuelle-stunde-der-afd-zerlegt-linke-gruene-spd-widerspricht-der-spd--C62VWh7Vs0",
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
@@ -422,7 +422,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 84559,
+        "viewCount": 84628,
         "likeCount": null,
         "commentCount": 530
       }
@@ -627,7 +627,7 @@
     "status": "verbunden",
     "stats": {
       "followerCount": 284,
-      "likeCount": 1956,
+      "likeCount": 1965,
       "videoCount": 20
     }
   }
