@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-12T16:26:35.351Z",
+  "syncedAt": "2026-11-12T17:21:10.776Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 181025700,
-        "videoCount": 1600,
+        "videoCount": 1601,
         "hiddenSubscriberCount": false
       }
     },
@@ -36,13 +36,37 @@
       "subscribeUrl": "https://www.youtube.com/@PolitikmitKopfReagiert?sub_confirmation=1",
       "stats": {
         "subscriberCount": 20200,
-        "viewCount": 641641,
+        "viewCount": 642481,
         "videoCount": 9,
         "hiddenSubscriberCount": false
       }
     }
   ],
   "videos": [
+    {
+      "id": "q7SNiJt9fZg",
+      "slug": "vw-in-der-krise-gewerkschaft-macht-antifa-woche-q7SNiJt9fZg",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "VW in der Krise. Gewerkschaft macht Antifa-Woche",
+      "description": "Laut IG Metall will VW bei der Belegschaft weltweit Nullrunden durchdrücken, die Gewerkschaft nennt das einen absurden Plan. Gleichzeitig läuft bei der IG Metall Wolfsburg die Antifa-Woche. Wie wäre es erst mal mit Autos, die der Kunde haben möchte?\n\n#VW #IGMetall #Wolfsburg",
+      "excerpt": "Laut IG Metall will VW bei der Belegschaft weltweit Nullrunden durchdrücken, die Gewerkschaft nennt das einen absurden Plan. Gleichzeitig läuft bei der IG Metall Wolfsburg die…",
+      "publishedAt": "2026-11-12T17:12:44+00:00",
+      "url": "https://www.youtube.com/watch?v=q7SNiJt9fZg",
+      "thumbnail": "/media/q7SNiJt9fZg.jpg",
+      "thumbnailRemote": "https://i2.ytimg.com/vi/q7SNiJt9fZg/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "VW",
+        "IGMetall",
+        "Wolfsburg"
+      ],
+      "stats": {
+        "viewCount": 147,
+        "likeCount": null,
+        "commentCount": 1
+      }
+    },
     {
       "id": "ix4rEE82mng",
       "slug": "dumm-duemmer-deutsch-greta-lacht-fridays-for-future-aus-und-sie-checke-ix4rEE82mng",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 14599,
+        "viewCount": 25945,
         "likeCount": null,
-        "commentCount": 379
+        "commentCount": 473
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 81067,
+        "viewCount": 87158,
         "likeCount": null,
-        "commentCount": 524
+        "commentCount": 550
       }
     },
     {
@@ -112,7 +136,7 @@
       "stats": {
         "viewCount": 103929,
         "likeCount": null,
-        "commentCount": 1431
+        "commentCount": 1430
       }
     },
     {
@@ -160,7 +184,7 @@
       "stats": {
         "viewCount": 89103,
         "likeCount": 3818,
-        "commentCount": 639
+        "commentCount": 643
       }
     },
     {
@@ -182,7 +206,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 177488,
+        "viewCount": 177560,
         "likeCount": null,
         "commentCount": 1151
       }
@@ -206,7 +230,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 142371,
+        "viewCount": 142385,
         "likeCount": null,
         "commentCount": 558
       }
@@ -326,9 +350,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 55611,
+        "viewCount": 55615,
         "likeCount": null,
-        "commentCount": 467
+        "commentCount": 468
       }
     },
     {
@@ -352,7 +376,7 @@
       "stats": {
         "viewCount": 167,
         "likeCount": null,
-        "commentCount": 364
+        "commentCount": 366
       }
     },
     {
@@ -374,29 +398,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 177506,
+        "viewCount": 177531,
         "likeCount": null,
         "commentCount": 1934
-      }
-    },
-    {
-      "id": "5Rgkf2wEPUA",
-      "slug": "letzter-livestream-vor-5Rgkf2wEPUA",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Letzter Livestream vor ... !",
-      "description": "",
-      "excerpt": "Letzter Livestream vor ... !",
-      "publishedAt": "2026-11-06T20:27:21+00:00",
-      "url": "https://www.youtube.com/watch?v=5Rgkf2wEPUA",
-      "thumbnail": "/media/5Rgkf2wEPUA.jpg",
-      "thumbnailRemote": "https://i2.ytimg.com/vi/5Rgkf2wEPUA/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [],
-      "stats": {
-        "viewCount": 777,
-        "likeCount": null,
-        "commentCount": 224
       }
     },
     {
@@ -418,7 +422,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 84275,
+        "viewCount": 84343,
         "likeCount": null,
         "commentCount": 527
       }
@@ -442,7 +446,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 91761,
+        "viewCount": 91801,
         "likeCount": null,
         "commentCount": 432
       }
@@ -514,7 +518,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 100382,
+        "viewCount": 100386,
         "likeCount": null,
         "commentCount": 578
       }
@@ -562,7 +566,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88625,
+        "viewCount": 88626,
         "likeCount": 4492,
         "commentCount": 404
       }
@@ -622,8 +626,8 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 280,
-      "likeCount": 1923,
+      "followerCount": 281,
+      "likeCount": 1936,
       "videoCount": 20
     }
   }
