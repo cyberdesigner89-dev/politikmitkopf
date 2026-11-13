@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-13T04:46:52.744Z",
+  "syncedAt": "2026-11-13T05:42:32.967Z",
   "timezone": "Europe/Zurich",
   "channels": [
     {
@@ -40,7 +40,7 @@
         "subscriberCount": 284,
         "viewCount": null,
         "videoCount": 20,
-        "likeCount": 1997,
+        "likeCount": 2004,
         "hiddenSubscriberCount": false
       }
     }
@@ -274,7 +274,7 @@
     "status": "verbunden",
     "stats": {
       "followerCount": 284,
-      "likeCount": 1997,
+      "likeCount": 2004,
       "videoCount": 20
     }
   },
@@ -13073,6 +13073,13 @@
       "channelId": "tiktok",
       "subscriberCount": 284,
       "viewCount": 1997,
+      "videoCount": 20
+    },
+    {
+      "at": "2026-11-13T05:42:32.967Z",
+      "channelId": "tiktok",
+      "subscriberCount": 284,
+      "viewCount": 2004,
       "videoCount": 20
     }
   ],
