@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-13T14:27:59.778Z",
+  "syncedAt": "2026-11-13T15:13:03.514Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 181338296,
-        "videoCount": 1604,
+        "videoCount": 1605,
         "hiddenSubscriberCount": false
       }
     },
@@ -27,7 +27,7 @@
       "id": "reagiert",
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
       "name": "Politik mit Kopf REAGIERT",
-      "videoCount": 9,
+      "videoCount": 10,
       "status": "verbunden",
       "avatar": "/brand/UCOdBOgdBxkqo5CaGukX8z4g.jpg",
       "slug": "politik-mit-kopf-reagiert",
@@ -37,12 +37,36 @@
       "stats": {
         "subscriberCount": 20200,
         "viewCount": 644010,
-        "videoCount": 9,
+        "videoCount": 10,
         "hiddenSubscriberCount": false
       }
     }
   ],
   "videos": [
+    {
+      "id": "KGPAY3aG7Hw",
+      "slug": "chaos-im-bundestag-aktuelle-stunde-vorfall-mit-einheitsflagge-pali-fah-KGPAY3aG7Hw",
+      "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
+      "channelName": "Politik mit Kopf REAGIERT",
+      "title": "Chaos im Bundestag - Aktuelle Stunde: Vorfall mit Einheitsflagge & Pali-Fahne vom 08.11.26 eskaliert",
+      "description": "Reaktion auf die Aktuelle Stunde im Bundestag zum Vorfall vom 8.11.26, bei dem die Einheitsflagge vor dem Reichstag abgerissen und durch eine Pali-Fahne ersetzt wurde – inklusive Ordnungsrufen und eskalierender Debatte.\n\nQuelle: Deutscher Bundestag\n\nhttps://youtu.be/PWzRo3FWjbo\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n\n#Bundestag #Politik #Bundesregierung\n\nhttps://youtu.be/4vqdluC_F_U\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Reaktion auf die Aktuelle Stunde im Bundestag zum Vorfall vom 8.11.26, bei dem die Einheitsflagge vor dem Reichstag abgerissen und durch eine Pali-Fahne ersetzt wurde –…",
+      "publishedAt": "2026-11-13T14:33:36+00:00",
+      "url": "https://www.youtube.com/watch?v=KGPAY3aG7Hw",
+      "thumbnail": "/media/KGPAY3aG7Hw.jpg",
+      "thumbnailRemote": "https://i4.ytimg.com/vi/KGPAY3aG7Hw/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 2941,
+        "likeCount": null,
+        "commentCount": 34
+      }
+    },
     {
       "id": "mYYOSCbNxic",
       "slug": "die-nacht-der-langen-messer-krimineller-bundeshaushalt-2027-macht-210-mYYOSCbNxic",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 64791,
+        "viewCount": 71689,
         "likeCount": null,
-        "commentCount": 665
+        "commentCount": 694
       }
     },
     {
@@ -88,7 +112,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 24
+        "commentCount": 25
       }
     },
     {
@@ -110,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 136739,
+        "viewCount": 138651,
         "likeCount": null,
-        "commentCount": 684
+        "commentCount": 689
       }
     },
     {
@@ -158,9 +182,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 129798,
+        "viewCount": 131344,
         "likeCount": null,
-        "commentCount": 822
+        "commentCount": 831
       }
     },
     {
@@ -182,9 +206,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 130315,
+        "viewCount": 130624,
         "likeCount": null,
-        "commentCount": 643
+        "commentCount": 650
       }
     },
     {
@@ -206,7 +230,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 109230,
+        "viewCount": 109322,
         "likeCount": null,
         "commentCount": 1453
       }
@@ -230,7 +254,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 124025,
+        "viewCount": 124051,
         "likeCount": null,
         "commentCount": 412
       }
@@ -278,7 +302,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 178627,
+        "viewCount": 178647,
         "likeCount": null,
         "commentCount": 1152
       }
@@ -398,7 +422,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 154967,
+        "viewCount": 154971,
         "likeCount": null,
         "commentCount": 1021
       }
@@ -422,7 +446,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 85364,
+        "viewCount": 85394,
         "likeCount": null,
         "commentCount": 534
       }
@@ -446,7 +470,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 92546,
+        "viewCount": 92574,
         "likeCount": null,
         "commentCount": 434
       }
@@ -590,7 +614,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 43017,
+        "viewCount": 43020,
         "likeCount": 3038,
         "commentCount": 508
       }
@@ -626,9 +650,9 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 286,
-      "likeCount": 2033,
-      "videoCount": 20
+      "followerCount": 288,
+      "likeCount": 2042,
+      "videoCount": 21
     }
   }
 }
