@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-13T19:48:29.670Z",
+  "syncedAt": "2026-11-13T20:37:19.729Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 181468752,
-        "videoCount": 1605,
+        "videoCount": 1606,
         "hiddenSubscriberCount": false
       }
     },
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "gK5hBhKCxRo",
+      "slug": "ex-staatssekretaer-zu-atomausstieg-strom-waere-guenstiger-gewesen-gK5hBhKCxRo",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Ex-Staatssekretär zu Atomausstieg: Strom wäre günstiger gewesen",
+      "description": "Habecks ehemaliger Staatssekretär Graichen räumt ein: Hätte man die Kernkraftwerke 2023 weiterlaufen lassen, hätte man mehr Strom zu relativ günstigen Grenzkosten gehabt. Abgeschaltet wurde trotzdem. Jetzt sitzen wir da und sind gespannt auf den Winter.\n\n#Graichen #Atomkraft #Habeck",
+      "excerpt": "Habecks ehemaliger Staatssekretär Graichen räumt ein: Hätte man die Kernkraftwerke 2023 weiterlaufen lassen, hätte man mehr Strom zu relativ günstigen Grenzkosten gehabt.…",
+      "publishedAt": "2026-11-13T19:54:54+00:00",
+      "url": "https://www.youtube.com/watch?v=gK5hBhKCxRo",
+      "thumbnail": "/media/gK5hBhKCxRo.jpg",
+      "thumbnailRemote": "https://i4.ytimg.com/vi/gK5hBhKCxRo/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Graichen",
+        "Atomkraft",
+        "Habeck"
+      ],
+      "stats": {
+        "viewCount": 793,
+        "likeCount": null,
+        "commentCount": 9
+      }
+    },
+    {
       "id": "6HWrmG0ipRU",
       "slug": "notfallgesetz-kommt-gasspeicher-unter-60-kohle-und-oelkraftwerke-solle-6HWrmG0ipRU",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 78346,
+        "viewCount": 91884,
         "likeCount": null,
-        "commentCount": 641
+        "commentCount": 672
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 32983,
+        "viewCount": 37968,
         "likeCount": null,
-        "commentCount": 281
+        "commentCount": 309
       }
     },
     {
@@ -110,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 97406,
+        "viewCount": 99492,
         "likeCount": null,
-        "commentCount": 764
+        "commentCount": 766
       }
     },
     {
@@ -158,9 +182,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 147603,
+        "viewCount": 148471,
         "likeCount": null,
-        "commentCount": 694
+        "commentCount": 693
       }
     },
     {
@@ -206,9 +230,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 138418,
+        "viewCount": 139187,
         "likeCount": null,
-        "commentCount": 850
+        "commentCount": 852
       }
     },
     {
@@ -230,7 +254,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 132119,
+        "viewCount": 132273,
         "likeCount": null,
         "commentCount": 652
       }
@@ -254,9 +278,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 109770,
+        "viewCount": 109807,
         "likeCount": null,
-        "commentCount": 1455
+        "commentCount": 1453
       }
     },
     {
@@ -326,7 +350,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 178839,
+        "viewCount": 178886,
         "likeCount": null,
         "commentCount": 1153
       }
@@ -350,9 +374,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 142869,
+        "viewCount": 142886,
         "likeCount": null,
-        "commentCount": 560
+        "commentCount": 556
       }
     },
     {
@@ -376,7 +400,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 527
+        "commentCount": 530
       }
     },
     {
@@ -401,30 +425,6 @@
         "viewCount": null,
         "likeCount": null,
         "commentCount": 175
-      }
-    },
-    {
-      "id": "ybbGTzZ-woI",
-      "slug": "toedlicher-anschlag-in-krakau-innenminister-sagt-rechts-ich-glaube-es-ybbGTzZ-woI",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Tödlicher Anschlag in Krakau – Innenminister sagt „rechts“, ich glaube es nicht",
-      "description": "Inzwischen wurden 3 Leichen am Wohnort des Täters gefunden. Die Opferzahl könnt höher ausfallen.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Inzwischen wurden 3 Leichen am Wohnort des Täters gefunden. Die Opferzahl könnt höher ausfallen.",
-      "publishedAt": "2026-11-08T07:53:19+00:00",
-      "url": "https://www.youtube.com/watch?v=ybbGTzZ-woI",
-      "thumbnail": "/media/ybbGTzZ-woI.jpg",
-      "thumbnailRemote": "https://i2.ytimg.com/vi/ybbGTzZ-woI/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 68247,
-        "likeCount": null,
-        "commentCount": 553
       }
     },
     {
@@ -470,9 +470,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 92626,
+        "viewCount": 92691,
         "likeCount": null,
-        "commentCount": 434
+        "commentCount": 433
       }
     },
     {
@@ -494,7 +494,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73378,
+        "viewCount": 73381,
         "likeCount": null,
         "commentCount": 336
       }
@@ -518,7 +518,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82240,
+        "viewCount": 82242,
         "likeCount": null,
         "commentCount": 536
       }
@@ -542,7 +542,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 100462,
+        "viewCount": 100463,
         "likeCount": null,
         "commentCount": 579
       }
@@ -651,7 +651,7 @@
     "status": "verbunden",
     "stats": {
       "followerCount": 290,
-      "likeCount": 2084,
+      "likeCount": 2092,
       "videoCount": 22
     }
   }
