@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-13T08:43:21.022Z",
+  "syncedAt": "2026-11-13T09:37:54.718Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 181338296,
-        "videoCount": 1603,
+        "videoCount": 1604,
         "hiddenSubscriberCount": false
       }
     },
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "mYYOSCbNxic",
+      "slug": "die-nacht-der-langen-messer-krimineller-bundeshaushalt-2027-macht-210-mYYOSCbNxic",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Die Nacht der langen Messer: krimineller Bundeshaushalt 2027 macht 210 Mrd. neue Schulden insgesamt!",
+      "description": "In der „Nacht der langen Messer“ hat der Haushaltsausschuss den Bundeshaushalt 2027 mit insgesamt 210 Milliarden Euro neuer Schulden durchgewunken – inklusive Sondertöpfen und Bereichsausnahmen, während echte Investitionen und Entlastungen ausbleiben.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "In der „Nacht der langen Messer“ hat der Haushaltsausschuss den Bundeshaushalt 2027 mit insgesamt 210 Milliarden Euro neuer Schulden durchgewunken – inklusive Sondertöpfen und…",
+      "publishedAt": "2026-11-13T08:48:43+00:00",
+      "url": "https://www.youtube.com/watch?v=mYYOSCbNxic",
+      "thumbnail": "/media/mYYOSCbNxic.jpg",
+      "thumbnailRemote": "https://i2.ytimg.com/vi/mYYOSCbNxic/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 5922,
+        "likeCount": null,
+        "commentCount": 185
+      }
+    },
+    {
       "id": "OAMU9hfFUxg",
       "slug": "nach-remmo-chat-kocak-gibt-sitz-im-innenausschuss-ab-OAMU9hfFUxg",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -64,7 +88,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 11
+        "commentCount": 13
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 104630,
+        "viewCount": 113023,
         "likeCount": null,
-        "commentCount": 573
+        "commentCount": 625
       }
     },
     {
@@ -134,9 +158,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 116915,
+        "viewCount": 119364,
         "likeCount": null,
-        "commentCount": 774
+        "commentCount": 786
       }
     },
     {
@@ -158,9 +182,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 125815,
+        "viewCount": 126991,
         "likeCount": null,
-        "commentCount": 626
+        "commentCount": 630
       }
     },
     {
@@ -182,9 +206,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 108133,
+        "viewCount": 108364,
         "likeCount": null,
-        "commentCount": 1443
+        "commentCount": 1449
       }
     },
     {
@@ -206,7 +230,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 123802,
+        "viewCount": 123850,
         "likeCount": null,
         "commentCount": 412
       }
@@ -232,7 +256,7 @@
       "stats": {
         "viewCount": 89103,
         "likeCount": 3818,
-        "commentCount": 658
+        "commentCount": 661
       }
     },
     {
@@ -254,7 +278,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 178404,
+        "viewCount": 178461,
         "likeCount": null,
         "commentCount": 1152
       }
@@ -278,7 +302,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 142652,
+        "viewCount": 142698,
         "likeCount": null,
         "commentCount": 559
       }
@@ -350,7 +374,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 68207,
+        "viewCount": 68212,
         "likeCount": null,
         "commentCount": 553
       }
@@ -374,33 +398,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 154899,
+        "viewCount": 154903,
         "likeCount": null,
-        "commentCount": 1022
-      }
-    },
-    {
-      "id": "kPZSbySMWyE",
-      "slug": "gruene-loesung-gegen-gewalt-mehr-strassenbeleuchtung-kPZSbySMWyE",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Grüne Lösung gegen Gewalt: mehr Straßenbeleuchtung!",
-      "description": "Für nichts sind die Grünen sich zu schade! \n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Für nichts sind die Grünen sich zu schade!",
-      "publishedAt": "2026-11-07T14:32:44+00:00",
-      "url": "https://www.youtube.com/watch?v=kPZSbySMWyE",
-      "thumbnail": "/media/kPZSbySMWyE.jpg",
-      "thumbnailRemote": "https://i4.ytimg.com/vi/kPZSbySMWyE/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 55679,
-        "likeCount": null,
-        "commentCount": 468
+        "commentCount": 1021
       }
     },
     {
@@ -422,7 +422,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 85115,
+        "viewCount": 85146,
         "likeCount": null,
         "commentCount": 534
       }
@@ -446,7 +446,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 92359,
+        "viewCount": 92404,
         "likeCount": null,
         "commentCount": 433
       }
@@ -494,7 +494,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82205,
+        "viewCount": 82214,
         "likeCount": null,
         "commentCount": 533
       }
@@ -542,7 +542,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 33731,
+        "viewCount": 33732,
         "likeCount": 3363,
         "commentCount": 634
       }
@@ -566,7 +566,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88652,
+        "viewCount": 88658,
         "likeCount": 4492,
         "commentCount": 404
       }
@@ -627,7 +627,7 @@
     "status": "verbunden",
     "stats": {
       "followerCount": 286,
-      "likeCount": 2021,
+      "likeCount": 2024,
       "videoCount": 20
     }
   }
