@@ -1,14 +1,14 @@
 {
-  "syncedAt": "2026-11-13T15:13:03.514Z",
+  "syncedAt": "2026-11-13T15:55:03.318Z",
   "live": null,
   "latest": {
-    "title": "Chaos im Bundestag - Aktuelle Stunde: Vorfall mit Einheitsflagge & Pali-Fahne vom 08.11.26 eskaliert",
-    "url": "https://www.youtube.com/watch?v=KGPAY3aG7Hw",
-    "pageUrl": "/videos/chaos-im-bundestag-aktuelle-stunde-vorfall-mit-einheitsflagge-pali-fah-KGPAY3aG7Hw/",
-    "thumbnail": "/media/KGPAY3aG7Hw.jpg",
-    "publishedAt": "2026-11-13T14:33:36+00:00",
-    "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
-    "channelName": "Politik mit Kopf REAGIERT"
+    "title": "Notfallgesetz kommt! Gasspeicher unter 60 % – Kohle- und Ölkraftwerke sollen es richten",
+    "url": "https://www.youtube.com/watch?v=6HWrmG0ipRU",
+    "pageUrl": "/videos/notfallgesetz-kommt-gasspeicher-unter-60-kohle-und-oelkraftwerke-solle-6HWrmG0ipRU/",
+    "thumbnail": "/media/6HWrmG0ipRU.jpg",
+    "publishedAt": "2026-11-13T15:02:12+00:00",
+    "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+    "channelName": "Politik mit Kopf"
   },
   "channels": [
     {
@@ -18,7 +18,7 @@
       "slug": "politik-mit-kopf",
       "stats": {
         "subscriberCount": 287000,
-        "viewCount": 181338296,
+        "viewCount": 181468752,
         "videoCount": 1605,
         "hiddenSubscriberCount": false
       }

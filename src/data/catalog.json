@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-13T15:13:03.514Z",
+  "syncedAt": "2026-11-13T15:55:03.318Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -18,7 +18,7 @@
       "subscribeUrl": "https://www.youtube.com/channel/UCsLN1bEfDJoZOs8udTwHatQ?sub_confirmation=1",
       "stats": {
         "subscriberCount": 287000,
-        "viewCount": 181338296,
+        "viewCount": 181468752,
         "videoCount": 1605,
         "hiddenSubscriberCount": false
       }
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "6HWrmG0ipRU",
+      "slug": "notfallgesetz-kommt-gasspeicher-unter-60-kohle-und-oelkraftwerke-solle-6HWrmG0ipRU",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Notfallgesetz kommt! Gasspeicher unter 60 % – Kohle- und Ölkraftwerke sollen es richten",
+      "description": "Ich dachte wir kaufen flexibel am Spotmarkt LNG. Haben Sie schon wieder gelogen?\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Ich dachte wir kaufen flexibel am Spotmarkt LNG. Haben Sie schon wieder gelogen?",
+      "publishedAt": "2026-11-13T15:02:12+00:00",
+      "url": "https://www.youtube.com/watch?v=6HWrmG0ipRU",
+      "thumbnail": "/media/6HWrmG0ipRU.jpg",
+      "thumbnailRemote": "https://i3.ytimg.com/vi/6HWrmG0ipRU/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 9964,
+        "likeCount": null,
+        "commentCount": 172
+      }
+    },
+    {
       "id": "KGPAY3aG7Hw",
       "slug": "chaos-im-bundestag-aktuelle-stunde-vorfall-mit-einheitsflagge-pali-fah-KGPAY3aG7Hw",
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 2941,
+        "viewCount": 5886,
         "likeCount": null,
-        "commentCount": 34
+        "commentCount": 95
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 71689,
+        "viewCount": 79037,
         "likeCount": null,
-        "commentCount": 694
+        "commentCount": 708
       }
     },
     {
@@ -134,7 +158,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 138651,
+        "viewCount": 140739,
         "likeCount": null,
         "commentCount": 689
       }
@@ -160,7 +184,7 @@
       "stats": {
         "viewCount": 147,
         "likeCount": null,
-        "commentCount": 37
+        "commentCount": 38
       }
     },
     {
@@ -182,9 +206,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 131344,
+        "viewCount": 133144,
         "likeCount": null,
-        "commentCount": 831
+        "commentCount": 834
       }
     },
     {
@@ -206,9 +230,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 130624,
+        "viewCount": 130993,
         "likeCount": null,
-        "commentCount": 650
+        "commentCount": 651
       }
     },
     {
@@ -230,7 +254,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 109322,
+        "viewCount": 109427,
         "likeCount": null,
         "commentCount": 1453
       }
@@ -254,7 +278,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 124051,
+        "viewCount": 124079,
         "likeCount": null,
         "commentCount": 412
       }
@@ -280,7 +304,7 @@
       "stats": {
         "viewCount": 89103,
         "likeCount": 3818,
-        "commentCount": 667
+        "commentCount": 669
       }
     },
     {
@@ -302,7 +326,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 178647,
+        "viewCount": 178667,
         "likeCount": null,
         "commentCount": 1152
       }
@@ -404,30 +428,6 @@
       }
     },
     {
-      "id": "AoD_G1D6kUA",
-      "slug": "mein-fehler-wie-dumm-kann-man-sein-update-polizeieinsatz-dresden-AoD_G1D6kUA",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Mein Fehler: Wie dumm kann man sein? – Update Polizeieinsatz Dresden",
-      "description": "Manchmal muss man korrigieren und auch klarstellen!\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Manchmal muss man korrigieren und auch klarstellen!",
-      "publishedAt": "2026-11-07T19:55:54+00:00",
-      "url": "https://www.youtube.com/watch?v=AoD_G1D6kUA",
-      "thumbnail": "/media/AoD_G1D6kUA.jpg",
-      "thumbnailRemote": "https://i2.ytimg.com/vi/AoD_G1D6kUA/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 154971,
-        "likeCount": null,
-        "commentCount": 1021
-      }
-    },
-    {
       "id": "-C62VWh7Vs0",
       "slug": "aktuelle-stunde-der-afd-zerlegt-linke-gruene-spd-widerspricht-der-spd--C62VWh7Vs0",
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
@@ -446,7 +446,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 85394,
+        "viewCount": 85425,
         "likeCount": null,
         "commentCount": 534
       }
@@ -470,7 +470,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 92574,
+        "viewCount": 92577,
         "likeCount": null,
         "commentCount": 434
       }
@@ -494,7 +494,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73375,
+        "viewCount": 73376,
         "likeCount": null,
         "commentCount": 336
       }
@@ -518,7 +518,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82219,
+        "viewCount": 82228,
         "likeCount": null,
         "commentCount": 533
       }
@@ -590,7 +590,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88660,
+        "viewCount": 88666,
         "likeCount": 4492,
         "commentCount": 404
       }
@@ -650,8 +650,8 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 288,
-      "likeCount": 2042,
+      "followerCount": 289,
+      "likeCount": 2051,
       "videoCount": 21
     }
   }
