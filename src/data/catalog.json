@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-13T07:53:59.344Z",
-  "ok": false,
+  "syncedAt": "2026-11-13T08:43:21.022Z",
+  "ok": true,
   "source": "youtube-public",
-  "error": "Mindestens ein Kanal konnte nicht gelesen werden. Angezeigt werden gespeicherte Videos.",
+  "error": null,
   "live": null,
   "channels": [
     {
@@ -10,7 +10,7 @@
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
       "name": "Politik mit Kopf",
       "videoCount": 15,
-      "status": "fehler",
+      "status": "verbunden",
       "avatar": "/brand/mark.jpg",
       "slug": "politik-mit-kopf",
       "handle": "@PolitikmitKopf",
@@ -18,8 +18,8 @@
       "subscribeUrl": "https://www.youtube.com/channel/UCsLN1bEfDJoZOs8udTwHatQ?sub_confirmation=1",
       "stats": {
         "subscriberCount": 287000,
-        "viewCount": 181025700,
-        "videoCount": 1602,
+        "viewCount": 181338296,
+        "videoCount": 1603,
         "hiddenSubscriberCount": false
       }
     },
@@ -28,7 +28,7 @@
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
       "name": "Politik mit Kopf REAGIERT",
       "videoCount": 9,
-      "status": "fehler",
+      "status": "verbunden",
       "avatar": "/brand/UCOdBOgdBxkqo5CaGukX8z4g.jpg",
       "slug": "politik-mit-kopf-reagiert",
       "handle": "@PolitikmitKopfReagiert",
@@ -36,13 +36,37 @@
       "subscribeUrl": "https://www.youtube.com/@PolitikmitKopfReagiert?sub_confirmation=1",
       "stats": {
         "subscriberCount": 20200,
-        "viewCount": 642481,
+        "viewCount": 644010,
         "videoCount": 9,
         "hiddenSubscriberCount": false
       }
     }
   ],
   "videos": [
+    {
+      "id": "OAMU9hfFUxg",
+      "slug": "nach-remmo-chat-kocak-gibt-sitz-im-innenausschuss-ab-OAMU9hfFUxg",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Nach Remmo-Chat: Koçak gibt Sitz im Innenausschuss ab",
+      "description": "Nach dem Chat mit dem Remmo-Sohn hat Ferat Koçak seinen Sitz im Innenausschuss abgegeben. Dabei passiert die eigentliche Arbeit im Bundestag in den Ausschüssen. Was macht ein Abgeordneter ohne Sitz im Innenausschuss?\n\n#Kocak #DieLinke #Innenausschuss",
+      "excerpt": "Nach dem Chat mit dem Remmo-Sohn hat Ferat Koçak seinen Sitz im Innenausschuss abgegeben. Dabei passiert die eigentliche Arbeit im Bundestag in den Ausschüssen. Was macht ein…",
+      "publishedAt": "2026-11-13T05:57:07+00:00",
+      "url": "https://www.youtube.com/watch?v=OAMU9hfFUxg",
+      "thumbnail": "/media/OAMU9hfFUxg.jpg",
+      "thumbnailRemote": "https://i4.ytimg.com/vi/OAMU9hfFUxg/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Kocak",
+        "DieLinke",
+        "Innenausschuss"
+      ],
+      "stats": {
+        "viewCount": null,
+        "likeCount": null,
+        "commentCount": 11
+      }
+    },
     {
       "id": "jo1KrXmMNWM",
       "slug": "clanboss-issa-remmo-sitzt-im-eu-parlament-warum-laedt-die-evp-cdu-csu-jo1KrXmMNWM",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 60653,
+        "viewCount": 104630,
         "likeCount": null,
-        "commentCount": 382
+        "commentCount": 573
       }
     },
     {
@@ -88,7 +112,7 @@
       "stats": {
         "viewCount": 147,
         "likeCount": null,
-        "commentCount": 25
+        "commentCount": 36
       }
     },
     {
@@ -110,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 102108,
+        "viewCount": 116915,
         "likeCount": null,
-        "commentCount": 711
+        "commentCount": 774
       }
     },
     {
@@ -134,9 +158,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 118840,
+        "viewCount": 125815,
         "likeCount": null,
-        "commentCount": 605
+        "commentCount": 626
       }
     },
     {
@@ -158,9 +182,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 107114,
+        "viewCount": 108133,
         "likeCount": null,
-        "commentCount": 1442
+        "commentCount": 1443
       }
     },
     {
@@ -182,9 +206,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 123621,
+        "viewCount": 123802,
         "likeCount": null,
-        "commentCount": 411
+        "commentCount": 412
       }
     },
     {
@@ -208,7 +232,7 @@
       "stats": {
         "viewCount": 89103,
         "likeCount": 3818,
-        "commentCount": 653
+        "commentCount": 658
       }
     },
     {
@@ -230,7 +254,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 178174,
+        "viewCount": 178404,
         "likeCount": null,
         "commentCount": 1152
       }
@@ -254,7 +278,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 142704,
+        "viewCount": 142652,
         "likeCount": null,
         "commentCount": 559
       }
@@ -280,7 +304,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 526
+        "commentCount": 527
       }
     },
     {
@@ -304,7 +328,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 177
+        "commentCount": 176
       }
     },
     {
@@ -326,7 +350,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 68239,
+        "viewCount": 68207,
         "likeCount": null,
         "commentCount": 553
       }
@@ -350,7 +374,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 154866,
+        "viewCount": 154899,
         "likeCount": null,
         "commentCount": 1022
       }
@@ -374,33 +398,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 55653,
+        "viewCount": 55679,
         "likeCount": null,
         "commentCount": 468
-      }
-    },
-    {
-      "id": "HgG3mlA-M1w",
-      "slug": "energiehilfe-fuer-kiew-und-wer-zahlt-deine-heizung-HgG3mlA-M1w",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Energiehilfe für Kiew. Und wer zahlt deine Heizung?",
-      "description": "Merz kündigt in der Pressekonferenz mit Selenskyj weitere Winterhilfe und Unterstützung bei der Energieversorgung für die Ukraine an. Weitere Winterhilfe heißt weiteres Geld. Und Hilfe bei der Energieversorgung verspricht ausgerechnet der, der selber zu wenig Energie hat. Dieser Winter wird nicht für die Ukraine eine Herausforderung, sondern für Deutschland.\n\n#Merz #Ukraine #Winterhilfe",
-      "excerpt": "Merz kündigt in der Pressekonferenz mit Selenskyj weitere Winterhilfe und Unterstützung bei der Energieversorgung für die Ukraine an. Weitere Winterhilfe heißt weiteres Geld.…",
-      "publishedAt": "2026-11-07T12:06:43+00:00",
-      "url": "https://www.youtube.com/watch?v=HgG3mlA-M1w",
-      "thumbnail": "/media/HgG3mlA-M1w.jpg",
-      "thumbnailRemote": "https://i1.ytimg.com/vi/HgG3mlA-M1w/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Merz",
-        "Ukraine",
-        "Winterhilfe"
-      ],
-      "stats": {
-        "viewCount": 167,
-        "likeCount": null,
-        "commentCount": 366
       }
     },
     {
@@ -422,9 +422,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 84930,
+        "viewCount": 85115,
         "likeCount": null,
-        "commentCount": 532
+        "commentCount": 534
       }
     },
     {
@@ -446,7 +446,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 92176,
+        "viewCount": 92359,
         "likeCount": null,
         "commentCount": 433
       }
@@ -470,7 +470,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73370,
+        "viewCount": 73371,
         "likeCount": null,
         "commentCount": 336
       }
@@ -494,7 +494,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82190,
+        "viewCount": 82205,
         "likeCount": null,
         "commentCount": 533
       }
@@ -518,9 +518,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 100415,
+        "viewCount": 100429,
         "likeCount": null,
-        "commentCount": 578
+        "commentCount": 579
       }
     },
     {
@@ -566,7 +566,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88642,
+        "viewCount": 88652,
         "likeCount": 4492,
         "commentCount": 404
       }
@@ -590,7 +590,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 43014,
+        "viewCount": 43016,
         "likeCount": 3038,
         "commentCount": 508
       }
@@ -626,8 +626,8 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 285,
-      "likeCount": 2016,
+      "followerCount": 286,
+      "likeCount": 2021,
       "videoCount": 20
     }
   }
