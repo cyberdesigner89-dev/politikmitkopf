@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-13T00:28:07.754Z",
+  "syncedAt": "2026-11-13T01:38:23.343Z",
   "ok": false,
   "source": "youtube-public",
   "error": "Mindestens ein Kanal konnte nicht gelesen werden. Angezeigt werden gespeicherte Videos.",
@@ -28,7 +28,7 @@
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
       "name": "Politik mit Kopf REAGIERT",
       "videoCount": 9,
-      "status": "fehler",
+      "status": "verbunden",
       "avatar": "/brand/UCOdBOgdBxkqo5CaGukX8z4g.jpg",
       "slug": "politik-mit-kopf-reagiert",
       "handle": "@PolitikmitKopfReagiert",
@@ -422,7 +422,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 84846,
+        "viewCount": 84930,
         "likeCount": null,
         "commentCount": 532
       }
@@ -446,7 +446,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 92110,
+        "viewCount": 92176,
         "likeCount": null,
         "commentCount": 433
       }
@@ -470,7 +470,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73369,
+        "viewCount": 73370,
         "likeCount": null,
         "commentCount": 336
       }
@@ -494,7 +494,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82177,
+        "viewCount": 82190,
         "likeCount": null,
         "commentCount": 533
       }
@@ -518,7 +518,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 100404,
+        "viewCount": 100415,
         "likeCount": null,
         "commentCount": 578
       }
@@ -566,7 +566,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88637,
+        "viewCount": 88642,
         "likeCount": 4492,
         "commentCount": 404
       }
@@ -627,7 +627,7 @@
     "status": "verbunden",
     "stats": {
       "followerCount": 284,
-      "likeCount": 1990,
+      "likeCount": 1992,
       "videoCount": 20
     }
   }
