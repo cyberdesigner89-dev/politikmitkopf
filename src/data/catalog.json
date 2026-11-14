@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-14T06:12:13.845Z",
+  "syncedAt": "2026-11-14T07:04:19.148Z",
   "ok": false,
   "source": "youtube-public",
   "error": "Mindestens ein Kanal konnte nicht gelesen werden. Angezeigt werden gespeicherte Videos.",
@@ -650,8 +650,8 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 292,
-      "likeCount": 2128,
+      "followerCount": 293,
+      "likeCount": 2132,
       "videoCount": 22
     }
   }
