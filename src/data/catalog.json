@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-15T16:33:16.899Z",
+  "syncedAt": "2026-11-15T21:11:29.730Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -36,13 +36,37 @@
       "subscribeUrl": "https://www.youtube.com/@PolitikmitKopfReagiert?sub_confirmation=1",
       "stats": {
         "subscriberCount": 20300,
-        "viewCount": 700995,
+        "viewCount": 702329,
         "videoCount": 10,
         "hiddenSubscriberCount": false
       }
     }
   ],
   "videos": [
+    {
+      "id": "goV4tumL91k",
+      "slug": "katastrophenlyrik-die-abstiegsangst-ist-real-goV4tumL91k",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Katastrophenlyrik? Die Abstiegsangst ist real",
+      "description": "Saskia Esken erklärt, wie faschistische Propaganda mit Katastrophenlyrik arbeitet. Maurice hält dagegen: Die Abstiegsängste sind real, das Leben ist teurer geworden. Wer macht euch mehr Angst, Propaganda oder eure Rechnungen?\n\n#Esken #SPD #Propaganda",
+      "excerpt": "Saskia Esken erklärt, wie faschistische Propaganda mit Katastrophenlyrik arbeitet. Maurice hält dagegen: Die Abstiegsängste sind real, das Leben ist teurer geworden. Wer macht…",
+      "publishedAt": "2026-11-15T16:32:15+00:00",
+      "url": "https://www.youtube.com/watch?v=goV4tumL91k",
+      "thumbnail": "/media/goV4tumL91k.jpg",
+      "thumbnailRemote": "https://i4.ytimg.com/vi/goV4tumL91k/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Esken",
+        "SPD",
+        "Propaganda"
+      ],
+      "stats": {
+        "viewCount": null,
+        "likeCount": null,
+        "commentCount": 66
+      }
+    },
     {
       "id": "I7LqTMnVkso",
       "slug": "propaganda-vs-realitaet-ich-war-in-china-und-wurde-meiner-illusionen-b-I7LqTMnVkso",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 175945,
+        "viewCount": 191571,
         "likeCount": null,
-        "commentCount": 1423
+        "commentCount": 1842
       }
     },
     {
@@ -88,7 +112,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 52
+        "commentCount": 71
       }
     },
     {
@@ -110,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 136833,
+        "viewCount": 139714,
         "likeCount": null,
-        "commentCount": 856
+        "commentCount": 878
       }
     },
     {
@@ -136,7 +160,7 @@
       "stats": {
         "viewCount": 9237,
         "likeCount": 1031,
-        "commentCount": 77
+        "commentCount": 86
       }
     },
     {
@@ -158,9 +182,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 164624,
+        "viewCount": 166681,
         "likeCount": null,
-        "commentCount": 852
+        "commentCount": 879
       }
     },
     {
@@ -182,9 +206,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 55403,
+        "viewCount": 55882,
         "likeCount": null,
-        "commentCount": 411
+        "commentCount": 417
       }
     },
     {
@@ -206,9 +230,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 122605,
+        "viewCount": 123029,
         "likeCount": null,
-        "commentCount": 845
+        "commentCount": 857
       }
     },
     {
@@ -232,7 +256,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 33
+        "commentCount": 35
       }
     },
     {
@@ -254,9 +278,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 164299,
+        "viewCount": 165124,
         "likeCount": null,
-        "commentCount": 723
+        "commentCount": 731
       }
     },
     {
@@ -280,7 +304,7 @@
       "stats": {
         "viewCount": 147,
         "likeCount": null,
-        "commentCount": 52
+        "commentCount": 56
       }
     },
     {
@@ -302,9 +326,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 167192,
+        "viewCount": 168952,
         "likeCount": null,
-        "commentCount": 932
+        "commentCount": 948
       }
     },
     {
@@ -326,7 +350,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 136802,
+        "viewCount": 136954,
         "likeCount": null,
         "commentCount": 659
       }
@@ -350,9 +374,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 110452,
+        "viewCount": 110626,
         "likeCount": null,
-        "commentCount": 1448
+        "commentCount": 1446
       }
     },
     {
@@ -374,7 +398,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 123933,
+        "viewCount": 123975,
         "likeCount": null,
         "commentCount": 412
       }
@@ -400,31 +424,7 @@
       "stats": {
         "viewCount": 89103,
         "likeCount": 3818,
-        "commentCount": 681
-      }
-    },
-    {
-      "id": "STA5_AzCurU",
-      "slug": "livestream-gestaendnis-graichen-gibt-zu-atomausstieg-aus-ideologie-str-STA5_AzCurU",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Livestream-Geständnis: Graichen gibt zu – Atomausstieg aus Ideologie, Strom wäre günstiger gewesen",
-      "description": "Wir müssen dringend unsere Gesetze ändern.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Wir müssen dringend unsere Gesetze ändern.",
-      "publishedAt": "2026-11-09T07:45:11+00:00",
-      "url": "https://www.youtube.com/watch?v=STA5_AzCurU",
-      "thumbnail": "/media/STA5_AzCurU.jpg",
-      "thumbnailRemote": "https://i4.ytimg.com/vi/STA5_AzCurU/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 180474,
-        "likeCount": null,
-        "commentCount": 1157
+        "commentCount": 692
       }
     },
     {
@@ -446,7 +446,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 86832,
+        "viewCount": 86953,
         "likeCount": null,
         "commentCount": 534
       }
@@ -470,7 +470,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 93179,
+        "viewCount": 93260,
         "likeCount": null,
         "commentCount": 434
       }
@@ -494,7 +494,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73410,
+        "viewCount": 73413,
         "likeCount": null,
         "commentCount": 336
       }
@@ -518,7 +518,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82335,
+        "viewCount": 82353,
         "likeCount": null,
         "commentCount": 536
       }
@@ -542,7 +542,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 100577,
+        "viewCount": 100601,
         "likeCount": null,
         "commentCount": 579
       }
@@ -566,7 +566,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 33742,
+        "viewCount": 33744,
         "likeCount": 3363,
         "commentCount": 634
       }
@@ -590,7 +590,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88709,
+        "viewCount": 88717,
         "likeCount": 4492,
         "commentCount": 404
       }
@@ -614,7 +614,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 43028,
+        "viewCount": 43030,
         "likeCount": 3038,
         "commentCount": 508
       }
@@ -636,7 +636,7 @@
       "stats": {
         "viewCount": 45560,
         "likeCount": 2339,
-        "commentCount": 165
+        "commentCount": 166
       }
     }
   ],
@@ -652,7 +652,7 @@
     "stats": {
       "followerCount": 294,
       "likeCount": 2169,
-      "videoCount": 22
+      "videoCount": 23
     }
   }
 }
