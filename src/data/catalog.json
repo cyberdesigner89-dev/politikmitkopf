@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-16T07:37:06.323Z",
-  "ok": false,
+  "syncedAt": "2026-11-16T17:24:03.909Z",
+  "ok": true,
   "source": "youtube-public",
-  "error": "Mindestens ein Kanal konnte nicht gelesen werden. Angezeigt werden gespeicherte Videos.",
+  "error": null,
   "live": null,
   "channels": [
     {
@@ -10,7 +10,7 @@
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
       "name": "Politik mit Kopf",
       "videoCount": 15,
-      "status": "fehler",
+      "status": "verbunden",
       "avatar": "/brand/mark.jpg",
       "slug": "politik-mit-kopf",
       "handle": "@PolitikmitKopf",
@@ -18,8 +18,8 @@
       "subscribeUrl": "https://www.youtube.com/channel/UCsLN1bEfDJoZOs8udTwHatQ?sub_confirmation=1",
       "stats": {
         "subscriberCount": 287000,
-        "viewCount": 182215623,
-        "videoCount": 1610,
+        "viewCount": 182336785,
+        "videoCount": 1612,
         "hiddenSubscriberCount": false
       }
     },
@@ -28,7 +28,7 @@
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
       "name": "Politik mit Kopf REAGIERT",
       "videoCount": 10,
-      "status": "fehler",
+      "status": "verbunden",
       "avatar": "/brand/UCOdBOgdBxkqo5CaGukX8z4g.jpg",
       "slug": "politik-mit-kopf-reagiert",
       "handle": "@PolitikmitKopfReagiert",
@@ -36,13 +36,61 @@
       "subscribeUrl": "https://www.youtube.com/@PolitikmitKopfReagiert?sub_confirmation=1",
       "stats": {
         "subscriberCount": 20300,
-        "viewCount": 702329,
+        "viewCount": 704094,
         "videoCount": 10,
         "hiddenSubscriberCount": false
       }
     }
   ],
   "videos": [
+    {
+      "id": "er1O36DHKdE",
+      "slug": "trotz-fleiss-keine-eigentumswohnung-also-an-die-vermoegen-ran-er1O36DHKdE",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Trotz Fleiß keine Eigentumswohnung, also an die Vermögen ran?",
+      "description": "Lars Klingbeil sagt, wer fleißig ist, kann sich in Berlin trotzdem keine Eigentumswohnung leisten, und will stärker an die Vermögen. Dabei macht der Bund 2027 schon 210 Milliarden neue Schulden. Liegt es wirklich an den Vermögen oder an Steuern und Abgaben für alle?\n\n#Klingbeil #SPD #Berlin",
+      "excerpt": "Lars Klingbeil sagt, wer fleißig ist, kann sich in Berlin trotzdem keine Eigentumswohnung leisten, und will stärker an die Vermögen. Dabei macht der Bund 2027 schon 210…",
+      "publishedAt": "2026-11-16T14:33:29+00:00",
+      "url": "https://www.youtube.com/watch?v=er1O36DHKdE",
+      "thumbnail": "/media/er1O36DHKdE.jpg",
+      "thumbnailRemote": "https://i2.ytimg.com/vi/er1O36DHKdE/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Klingbeil",
+        "SPD",
+        "Berlin"
+      ],
+      "stats": {
+        "viewCount": null,
+        "likeCount": null,
+        "commentCount": 40
+      }
+    },
+    {
+      "id": "BjEIG7QmkJU",
+      "slug": "wer-hat-wirklich-interesse-dass-reichelt-schweigt-auto-abgefackelt-nac-BjEIG7QmkJU",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Wer hat wirklich Interesse, dass Reichelt schweigt? Auto abgefackelt nach Corona-Ankündigung",
+      "description": "https://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Wer hat wirklich Interesse, dass Reichelt schweigt? Auto abgefackelt nach Corona-Ankündigung",
+      "publishedAt": "2026-11-16T08:26:23+00:00",
+      "url": "https://www.youtube.com/watch?v=BjEIG7QmkJU",
+      "thumbnail": "/media/BjEIG7QmkJU.jpg",
+      "thumbnailRemote": "https://i3.ytimg.com/vi/BjEIG7QmkJU/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 58479,
+        "likeCount": null,
+        "commentCount": 648
+      }
+    },
     {
       "id": "goV4tumL91k",
       "slug": "katastrophenlyrik-die-abstiegsangst-ist-real-goV4tumL91k",
@@ -64,7 +112,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 66
+        "commentCount": 129
       }
     },
     {
@@ -86,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 191571,
+        "viewCount": 233383,
         "likeCount": null,
-        "commentCount": 1842
+        "commentCount": 2072
       }
     },
     {
@@ -112,7 +160,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 71
+        "commentCount": 79
       }
     },
     {
@@ -134,9 +182,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 139714,
+        "viewCount": 146989,
         "likeCount": null,
-        "commentCount": 878
+        "commentCount": 888
       }
     },
     {
@@ -160,7 +208,7 @@
       "stats": {
         "viewCount": 9237,
         "likeCount": 1031,
-        "commentCount": 86
+        "commentCount": 104
       }
     },
     {
@@ -182,9 +230,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 166681,
+        "viewCount": 171340,
         "likeCount": null,
-        "commentCount": 879
+        "commentCount": 891
       }
     },
     {
@@ -206,9 +254,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 55882,
+        "viewCount": 58655,
         "likeCount": null,
-        "commentCount": 417
+        "commentCount": 452
       }
     },
     {
@@ -230,9 +278,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 123029,
+        "viewCount": 124781,
         "likeCount": null,
-        "commentCount": 857
+        "commentCount": 852
       }
     },
     {
@@ -256,7 +304,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 35
+        "commentCount": 36
       }
     },
     {
@@ -278,9 +326,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 165124,
+        "viewCount": 166095,
         "likeCount": null,
-        "commentCount": 731
+        "commentCount": 735
       }
     },
     {
@@ -304,7 +352,7 @@
       "stats": {
         "viewCount": 147,
         "likeCount": null,
-        "commentCount": 56
+        "commentCount": 61
       }
     },
     {
@@ -326,9 +374,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 168952,
+        "viewCount": 172572,
         "likeCount": null,
-        "commentCount": 948
+        "commentCount": 951
       }
     },
     {
@@ -350,7 +398,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 136954,
+        "viewCount": 136581,
         "likeCount": null,
         "commentCount": 659
       }
@@ -374,57 +422,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 110626,
+        "viewCount": 110839,
         "likeCount": null,
-        "commentCount": 1446
-      }
-    },
-    {
-      "id": "6HT-DnyQ4Sg",
-      "slug": "neues-von-ferat-kocak-der-faule-abgeordnete-mit-remmo-kontakten-und-er-6HT-DnyQ4Sg",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Neues von Ferat Koçak: Der faule Abgeordnete mit Remmo-Kontakten und Ermittlungsverfahren",
-      "description": "Gute Arbeit von Julia Ruhs.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Gute Arbeit von Julia Ruhs.",
-      "publishedAt": "2026-11-10T16:17:46+00:00",
-      "url": "https://www.youtube.com/watch?v=6HT-DnyQ4Sg",
-      "thumbnail": "/media/6HT-DnyQ4Sg.jpg",
-      "thumbnailRemote": "https://i3.ytimg.com/vi/6HT-DnyQ4Sg/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 123975,
-        "likeCount": null,
-        "commentCount": 412
-      }
-    },
-    {
-      "id": "dkIPSeSFx5I",
-      "slug": "dein-rentengeld-fuer-start-ups-klingbeils-plan-bitte-das-dkIPSeSFx5I",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Dein Rentengeld für Start-ups? Klingbeils Plan Bitte das",
-      "description": "Klingbeil rechnet: 2 % der Rentenversicherung am Kapitalmarkt, das sind 30 bis 40 Milliarden im Jahr. Sein Ziel: Kapital für Start-ups und Unternehmen in Deutschland. Nur sind Start-ups Hochrisiko, Faustregel: Von hundert tragen am Ende zwei den Rest, und garantiert ist das nicht.\n\n#Klingbeil #Rente #Startups",
-      "excerpt": "Klingbeil rechnet: 2 % der Rentenversicherung am Kapitalmarkt, das sind 30 bis 40 Milliarden im Jahr. Sein Ziel: Kapital für Start-ups und Unternehmen in Deutschland. Nur sind…",
-      "publishedAt": "2026-11-09T12:03:03+00:00",
-      "url": "https://www.youtube.com/watch?v=dkIPSeSFx5I",
-      "thumbnail": "/media/dkIPSeSFx5I.jpg",
-      "thumbnailRemote": "https://i1.ytimg.com/vi/dkIPSeSFx5I/hqdefault.jpg",
-      "durationLabel": "0:54",
-      "tags": [
-        "Klingbeil",
-        "Rente",
-        "Startups"
-      ],
-      "stats": {
-        "viewCount": 89103,
-        "likeCount": 3818,
-        "commentCount": 692
+        "commentCount": 1447
       }
     },
     {
@@ -446,7 +446,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 86953,
+        "viewCount": 87246,
         "likeCount": null,
         "commentCount": 534
       }
@@ -470,7 +470,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 93260,
+        "viewCount": 93476,
         "likeCount": null,
         "commentCount": 434
       }
@@ -494,7 +494,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73413,
+        "viewCount": 73424,
         "likeCount": null,
         "commentCount": 336
       }
@@ -518,9 +518,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82353,
+        "viewCount": 82410,
         "likeCount": null,
-        "commentCount": 536
+        "commentCount": 538
       }
     },
     {
@@ -542,7 +542,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 100601,
+        "viewCount": 100640,
         "likeCount": null,
         "commentCount": 579
       }
@@ -566,7 +566,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 33744,
+        "viewCount": 33747,
         "likeCount": 3363,
         "commentCount": 634
       }
@@ -590,7 +590,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88717,
+        "viewCount": 88739,
         "likeCount": 4492,
         "commentCount": 404
       }
@@ -614,7 +614,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 43030,
+        "viewCount": 43033,
         "likeCount": 3038,
         "commentCount": 508
       }
@@ -650,9 +650,9 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 294,
-      "likeCount": 2170,
-      "videoCount": 23
+      "followerCount": 295,
+      "likeCount": 2173,
+      "videoCount": 25
     }
   }
 }
