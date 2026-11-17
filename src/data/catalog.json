@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-17T08:35:25.034Z",
+  "syncedAt": "2026-11-17T17:50:21.038Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -18,8 +18,8 @@
       "subscribeUrl": "https://www.youtube.com/channel/UCsLN1bEfDJoZOs8udTwHatQ?sub_confirmation=1",
       "stats": {
         "subscriberCount": 287000,
-        "viewCount": 182671450,
-        "videoCount": 1613,
+        "viewCount": 182787944,
+        "videoCount": 1615,
         "hiddenSubscriberCount": false
       }
     },
@@ -36,13 +36,61 @@
       "subscribeUrl": "https://www.youtube.com/@PolitikmitKopfReagiert?sub_confirmation=1",
       "stats": {
         "subscriberCount": 20300,
-        "viewCount": 718617,
+        "viewCount": 723357,
         "videoCount": 10,
         "hiddenSubscriberCount": false
       }
     }
   ],
   "videos": [
+    {
+      "id": "HBa4AldjSBw",
+      "slug": "10-jahre-ohne-strom-keiner-schuld-warum-wir-strafgesetze-brauchen-gege-HBa4AldjSBw",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "10 Jahre ohne Strom – Keiner schuld? Warum wir Strafgesetze brauchen gegen schlechte Politik!",
+      "description": "Wenn Ideologie das Hirn gefressen hat, aber der Wähler immer weiter so wählt!\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Wenn Ideologie das Hirn gefressen hat, aber der Wähler immer weiter so wählt!",
+      "publishedAt": "2026-11-17T14:27:50+00:00",
+      "url": "https://www.youtube.com/watch?v=HBa4AldjSBw",
+      "thumbnail": "/media/HBa4AldjSBw.jpg",
+      "thumbnailRemote": "https://i1.ytimg.com/vi/HBa4AldjSBw/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 43937,
+        "likeCount": null,
+        "commentCount": null
+      }
+    },
+    {
+      "id": "X9dnHHc2joU",
+      "slug": "mehrheit-will-neuwahl-waehlt-aber-die-gleiche-partei-neue-umfrage-zeig-X9dnHHc2joU",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Mehrheit will Neuwahl – wählt aber die gleiche Partei! Neue Umfrage zeigt Dummheit der Wähler!",
+      "description": "Mehrheit würde gleich wählen wie zuvor. Mehrheit will auch eine Neuwahl. Getreu dem Motto: „Die Definition von Wahnsinn ist, immer wieder das Gleiche zu tun und ein anderes Ergebnis zu erwarten.“\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Mehrheit würde gleich wählen wie zuvor. Mehrheit will auch eine Neuwahl. Getreu dem Motto: „Die Definition von Wahnsinn ist, immer wieder das Gleiche zu tun und ein anderes…",
+      "publishedAt": "2026-11-17T09:30:19+00:00",
+      "url": "https://www.youtube.com/watch?v=X9dnHHc2joU",
+      "thumbnail": "/media/X9dnHHc2joU.jpg",
+      "thumbnailRemote": "https://i1.ytimg.com/vi/X9dnHHc2joU/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 80749,
+        "likeCount": null,
+        "commentCount": null
+      }
+    },
     {
       "id": "YCgPOXK7nL4",
       "slug": "endlich-lizenz-eingefroren-merz-darf-nicht-mehr-ueber-uns-fliegen-priv-YCgPOXK7nL4",
@@ -62,7 +110,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 178179,
+        "viewCount": 220145,
         "likeCount": null,
         "commentCount": 938
       }
@@ -110,7 +158,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 91706,
+        "viewCount": 96937,
         "likeCount": null,
         "commentCount": 766
       }
@@ -158,7 +206,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 248579,
+        "viewCount": 257360,
         "likeCount": null,
         "commentCount": 2124
       }
@@ -206,7 +254,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 148056,
+        "viewCount": 148453,
         "likeCount": null,
         "commentCount": 890
       }
@@ -254,7 +302,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 172678,
+        "viewCount": 172992,
         "likeCount": null,
         "commentCount": 895
       }
@@ -278,7 +326,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 72416,
+        "viewCount": 75525,
         "likeCount": null,
         "commentCount": 481
       }
@@ -302,7 +350,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 125511,
+        "viewCount": 125524,
         "likeCount": null,
         "commentCount": 853
       }
@@ -350,7 +398,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 166561,
+        "viewCount": 166884,
         "likeCount": null,
         "commentCount": 736
       }
@@ -380,54 +428,6 @@
       }
     },
     {
-      "id": "ix4rEE82mng",
-      "slug": "dumm-duemmer-deutsch-greta-lacht-fridays-for-future-aus-und-sie-checke-ix4rEE82mng",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Dumm, dümmer - Deutsch! Greta lacht Fridays for Future aus – und Sie checken es immer noch nicht!",
-      "description": "Die Wahrheit tut weh!\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\nQuelle: @hubikoch https://www.youtube.com/watch?v=zc1rItlQB2U\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Die Wahrheit tut weh!",
-      "publishedAt": "2026-11-12T14:08:53+00:00",
-      "url": "https://www.youtube.com/watch?v=ix4rEE82mng",
-      "thumbnail": "/media/ix4rEE82mng.jpg",
-      "thumbnailRemote": "https://i2.ytimg.com/vi/ix4rEE82mng/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 173832,
-        "likeCount": null,
-        "commentCount": 954
-      }
-    },
-    {
-      "id": "9XVG6zdBsp0",
-      "slug": "buergergeld-bleibt-stromsteuer-kommt-nicht-eskalation-um-den-haushalt-9XVG6zdBsp0",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Bürgergeld bleibt, Stromsteuer kommt nicht – Eskalation um den Haushalt in Berlin!",
-      "description": "https://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Bürgergeld bleibt, Stromsteuer kommt nicht – Eskalation um den Haushalt in Berlin!",
-      "publishedAt": "2026-11-12T09:09:07+00:00",
-      "url": "https://www.youtube.com/watch?v=9XVG6zdBsp0",
-      "thumbnail": "/media/9XVG6zdBsp0.jpg",
-      "thumbnailRemote": "https://i2.ytimg.com/vi/9XVG6zdBsp0/hqdefault.jpg",
-      "durationLabel": "14:27",
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 136735,
-        "likeCount": null,
-        "commentCount": 659
-      }
-    },
-    {
       "id": "-C62VWh7Vs0",
       "slug": "aktuelle-stunde-der-afd-zerlegt-linke-gruene-spd-widerspricht-der-spd--C62VWh7Vs0",
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
@@ -446,7 +446,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 87780,
+        "viewCount": 87933,
         "likeCount": null,
         "commentCount": 537
       }
@@ -470,7 +470,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 93630,
+        "viewCount": 93671,
         "likeCount": null,
         "commentCount": 434
       }
@@ -494,7 +494,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73435,
+        "viewCount": 73444,
         "likeCount": null,
         "commentCount": 336
       }
@@ -518,7 +518,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82447,
+        "viewCount": 82461,
         "likeCount": null,
         "commentCount": 538
       }
@@ -542,7 +542,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 100699,
+        "viewCount": 100726,
         "likeCount": null,
         "commentCount": 579
       }
@@ -566,7 +566,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 33750,
+        "viewCount": 33759,
         "likeCount": 3363,
         "commentCount": 634
       }
@@ -590,7 +590,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88907,
+        "viewCount": 88925,
         "likeCount": 4492,
         "commentCount": 404
       }
@@ -652,7 +652,7 @@
     "stats": {
       "followerCount": 296,
       "likeCount": 2175,
-      "videoCount": 25
+      "videoCount": 26
     }
   }
 }
