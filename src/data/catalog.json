@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-16T17:24:03.909Z",
+  "syncedAt": "2026-11-17T00:53:41.973Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -18,8 +18,8 @@
       "subscribeUrl": "https://www.youtube.com/channel/UCsLN1bEfDJoZOs8udTwHatQ?sub_confirmation=1",
       "stats": {
         "subscriberCount": 287000,
-        "viewCount": 182336785,
-        "videoCount": 1612,
+        "viewCount": 182401605,
+        "videoCount": 1613,
         "hiddenSubscriberCount": false
       }
     },
@@ -36,13 +36,37 @@
       "subscribeUrl": "https://www.youtube.com/@PolitikmitKopfReagiert?sub_confirmation=1",
       "stats": {
         "subscriberCount": 20300,
-        "viewCount": 704094,
+        "viewCount": 705182,
         "videoCount": 10,
         "hiddenSubscriberCount": false
       }
     }
   ],
   "videos": [
+    {
+      "id": "YCgPOXK7nL4",
+      "slug": "endlich-lizenz-eingefroren-merz-darf-nicht-mehr-ueber-uns-fliegen-priv-YCgPOXK7nL4",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Endlich! Lizenz eingefroren. Merz darf nicht mehr über uns fliegen – Privatflugzeug verkauft",
+      "description": "Manche Probleme lösen sich von selbst.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Manche Probleme lösen sich von selbst.",
+      "publishedAt": "2026-11-16T19:18:26+00:00",
+      "url": "https://www.youtube.com/watch?v=YCgPOXK7nL4",
+      "thumbnail": "/media/YCgPOXK7nL4.jpg",
+      "thumbnailRemote": "https://i2.ytimg.com/vi/YCgPOXK7nL4/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 148803,
+        "likeCount": null,
+        "commentCount": 787
+      }
+    },
     {
       "id": "er1O36DHKdE",
       "slug": "trotz-fleiss-keine-eigentumswohnung-also-an-die-vermoegen-ran-er1O36DHKdE",
@@ -64,7 +88,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 40
+        "commentCount": 69
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 58479,
+        "viewCount": 86961,
         "likeCount": null,
-        "commentCount": 648
+        "commentCount": 746
       }
     },
     {
@@ -112,7 +136,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 129
+        "commentCount": 137
       }
     },
     {
@@ -134,9 +158,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 233383,
+        "viewCount": 243077,
         "likeCount": null,
-        "commentCount": 2072
+        "commentCount": 2097
       }
     },
     {
@@ -160,7 +184,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 79
+        "commentCount": 81
       }
     },
     {
@@ -182,9 +206,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 146989,
+        "viewCount": 147784,
         "likeCount": null,
-        "commentCount": 888
+        "commentCount": 890
       }
     },
     {
@@ -208,7 +232,7 @@
       "stats": {
         "viewCount": 9237,
         "likeCount": 1031,
-        "commentCount": 104
+        "commentCount": 106
       }
     },
     {
@@ -230,9 +254,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 171340,
+        "viewCount": 172303,
         "likeCount": null,
-        "commentCount": 891
+        "commentCount": 893
       }
     },
     {
@@ -254,9 +278,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 58655,
+        "viewCount": 69956,
         "likeCount": null,
-        "commentCount": 452
+        "commentCount": 468
       }
     },
     {
@@ -278,9 +302,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 124781,
+        "viewCount": 125286,
         "likeCount": null,
-        "commentCount": 852
+        "commentCount": 853
       }
     },
     {
@@ -326,9 +350,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 166095,
+        "viewCount": 166480,
         "likeCount": null,
-        "commentCount": 735
+        "commentCount": 736
       }
     },
     {
@@ -374,9 +398,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 172572,
+        "viewCount": 173487,
         "likeCount": null,
-        "commentCount": 951
+        "commentCount": 953
       }
     },
     {
@@ -398,33 +422,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 136581,
+        "viewCount": 136684,
         "likeCount": null,
         "commentCount": 659
-      }
-    },
-    {
-      "id": "rOB981VNRGI",
-      "slug": "esken-erklaert-propaganda-verraet-ungewollt-das-system-tagesschau-rOB981VNRGI",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Esken erklärt Propaganda & verrät ungewollt das System Tagesschau!",
-      "description": "Saskia Esken erklärt offen, wie „unsere Propaganda“ funktioniert und beschreibt dabei ungewollt genau den Mechanismus, mit dem die Tagesschau und der öffentlich-rechtliche Rundfunk Narrative setzen.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Saskia Esken erklärt offen, wie „unsere Propaganda“ funktioniert und beschreibt dabei ungewollt genau den Mechanismus, mit dem die Tagesschau und der öffentlich-rechtliche…",
-      "publishedAt": "2026-11-11T16:30:01+00:00",
-      "url": "https://www.youtube.com/watch?v=rOB981VNRGI",
-      "thumbnail": "/media/rOB981VNRGI.jpg",
-      "thumbnailRemote": "https://i3.ytimg.com/vi/rOB981VNRGI/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 110839,
-        "likeCount": null,
-        "commentCount": 1447
       }
     },
     {
@@ -446,9 +446,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 87246,
+        "viewCount": 87643,
         "likeCount": null,
-        "commentCount": 534
+        "commentCount": 537
       }
     },
     {
@@ -470,7 +470,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 93476,
+        "viewCount": 93609,
         "likeCount": null,
         "commentCount": 434
       }
@@ -494,7 +494,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73424,
+        "viewCount": 73432,
         "likeCount": null,
         "commentCount": 336
       }
@@ -518,7 +518,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82410,
+        "viewCount": 82439,
         "likeCount": null,
         "commentCount": 538
       }
@@ -542,7 +542,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 100640,
+        "viewCount": 100681,
         "likeCount": null,
         "commentCount": 579
       }
@@ -566,7 +566,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 33747,
+        "viewCount": 33749,
         "likeCount": 3363,
         "commentCount": 634
       }
@@ -590,7 +590,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88739,
+        "viewCount": 88899,
         "likeCount": 4492,
         "commentCount": 404
       }
@@ -614,7 +614,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 43033,
+        "viewCount": 43037,
         "likeCount": 3038,
         "commentCount": 508
       }
@@ -650,8 +650,8 @@
     "avatar": "/brand/tiktok.jpg",
     "status": "verbunden",
     "stats": {
-      "followerCount": 295,
-      "likeCount": 2173,
+      "followerCount": 296,
+      "likeCount": 2175,
       "videoCount": 25
     }
   }
