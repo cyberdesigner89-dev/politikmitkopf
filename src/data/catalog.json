@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-18T15:30:23.017Z",
+  "syncedAt": "2026-11-18T22:39:54.487Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 288000,
         "viewCount": 182976200,
-        "videoCount": 1618,
+        "videoCount": 1619,
         "hiddenSubscriberCount": false
       }
     },
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "EYfHcMqWOUM",
+      "slug": "beim-luegen-gelogen-wir-machen-was-wir-versprochen-haben-18-monate-zu-EYfHcMqWOUM",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Beim Lügen gelogen: „Wir machen, was wir versprochen haben“ – 18 Monate zu spät & befristet!",
+      "description": "Merz kann es nicht!\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Merz kann es nicht!",
+      "publishedAt": "2026-11-18T20:13:56+00:00",
+      "url": "https://www.youtube.com/watch?v=EYfHcMqWOUM",
+      "thumbnail": "/media/EYfHcMqWOUM.jpg",
+      "thumbnailRemote": "https://i2.ytimg.com/vi/EYfHcMqWOUM/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 17073,
+        "likeCount": null,
+        "commentCount": 301
+      }
+    },
+    {
       "id": "b2_t5Oh3PQw",
       "slug": "lka-ermittelt-gegen-cdu-nach-fraktionssitzung-eidesstattliche-versiche-b2_t5Oh3PQw",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 5505,
+        "viewCount": 61343,
         "likeCount": null,
-        "commentCount": 111
+        "commentCount": 393
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 117101,
+        "viewCount": 218828,
         "likeCount": null,
-        "commentCount": 1983
+        "commentCount": 2470
       }
     },
     {
@@ -110,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 218406,
+        "viewCount": 244009,
         "likeCount": null,
-        "commentCount": 985
+        "commentCount": 1011
       }
     },
     {
@@ -134,9 +158,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 122595,
+        "viewCount": 126000,
         "likeCount": null,
-        "commentCount": 628
+        "commentCount": 634
       }
     },
     {
@@ -158,9 +182,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 105503,
+        "viewCount": 106674,
         "likeCount": null,
-        "commentCount": 935
+        "commentCount": 939
       }
     },
     {
@@ -182,9 +206,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 268890,
+        "viewCount": 281043,
         "likeCount": null,
-        "commentCount": 1198
+        "commentCount": 1221
       }
     },
     {
@@ -208,7 +232,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 80
+        "commentCount": 82
       }
     },
     {
@@ -230,7 +254,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 100325,
+        "viewCount": 100773,
         "likeCount": null,
         "commentCount": 816
       }
@@ -278,9 +302,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 267396,
+        "viewCount": 270218,
         "likeCount": null,
-        "commentCount": 2220
+        "commentCount": 2236
       }
     },
     {
@@ -326,9 +350,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 148323,
+        "viewCount": 148453,
         "likeCount": null,
-        "commentCount": 894
+        "commentCount": 892
       }
     },
     {
@@ -374,7 +398,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 173467,
+        "viewCount": 173572,
         "likeCount": null,
         "commentCount": 898
       }
@@ -398,33 +422,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 79129,
+        "viewCount": 80025,
         "likeCount": null,
-        "commentCount": 509
-      }
-    },
-    {
-      "id": "mYYOSCbNxic",
-      "slug": "die-nacht-der-langen-messer-krimineller-bundeshaushalt-2027-macht-210-mYYOSCbNxic",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Die Nacht der langen Messer: krimineller Bundeshaushalt 2027 macht 210 Mrd. neue Schulden insgesamt!",
-      "description": "In der „Nacht der langen Messer“ hat der Haushaltsausschuss den Bundeshaushalt 2027 mit insgesamt 210 Milliarden Euro neuer Schulden durchgewunken – inklusive Sondertöpfen und Bereichsausnahmen, während echte Investitionen und Entlastungen ausbleiben.\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "In der „Nacht der langen Messer“ hat der Haushaltsausschuss den Bundeshaushalt 2027 mit insgesamt 210 Milliarden Euro neuer Schulden durchgewunken – inklusive Sondertöpfen und…",
-      "publishedAt": "2026-11-13T08:48:43+00:00",
-      "url": "https://www.youtube.com/watch?v=mYYOSCbNxic",
-      "thumbnail": "/media/mYYOSCbNxic.jpg",
-      "thumbnailRemote": "https://i2.ytimg.com/vi/mYYOSCbNxic/hqdefault.jpg",
-      "durationLabel": "14:02",
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 125904,
-        "likeCount": null,
-        "commentCount": 852
+        "commentCount": 513
       }
     },
     {
@@ -446,9 +446,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88377,
+        "viewCount": 88503,
         "likeCount": null,
-        "commentCount": 537
+        "commentCount": 536
       }
     },
     {
@@ -470,7 +470,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 93718,
+        "viewCount": 93737,
         "likeCount": null,
         "commentCount": 434
       }
@@ -494,7 +494,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73453,
+        "viewCount": 73457,
         "likeCount": null,
         "commentCount": 336
       }
@@ -518,7 +518,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82493,
+        "viewCount": 82508,
         "likeCount": null,
         "commentCount": 538
       }
@@ -542,7 +542,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 100765,
+        "viewCount": 100848,
         "likeCount": null,
         "commentCount": 579
       }
@@ -566,7 +566,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 33762,
+        "viewCount": 33765,
         "likeCount": 3363,
         "commentCount": 634
       }
@@ -590,7 +590,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88964,
+        "viewCount": 88977,
         "likeCount": 4492,
         "commentCount": 404
       }
@@ -614,7 +614,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 43043,
+        "viewCount": 43044,
         "likeCount": 3038,
         "commentCount": 508
       }
@@ -652,7 +652,7 @@
     "stats": {
       "followerCount": 296,
       "likeCount": 2182,
-      "videoCount": 26
+      "videoCount": 27
     }
   }
 }
