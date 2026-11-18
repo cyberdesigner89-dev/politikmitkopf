@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-17T17:50:21.038Z",
+  "syncedAt": "2026-11-18T00:00:05.283Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -19,7 +19,7 @@
       "stats": {
         "subscriberCount": 287000,
         "viewCount": 182787944,
-        "videoCount": 1615,
+        "videoCount": 1616,
         "hiddenSubscriberCount": false
       }
     },
@@ -44,6 +44,30 @@
   ],
   "videos": [
     {
+      "id": "P5ria2bCJdw",
+      "slug": "cyberangriffe-eskalieren-equinor-microsoft-apple-co-kritische-infrastr-P5ria2bCJdw",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Cyberangriffe eskalieren: Equinor, Microsoft, Apple & Co. – kritische Infrastruktur in Gefahr?",
+      "description": "Gasversorgung unter Beschuss von ganz anderer Seite!\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Gasversorgung unter Beschuss von ganz anderer Seite!",
+      "publishedAt": "2026-11-17T19:40:21+00:00",
+      "url": "https://www.youtube.com/watch?v=P5ria2bCJdw",
+      "thumbnail": "/media/P5ria2bCJdw.jpg",
+      "thumbnailRemote": "https://i1.ytimg.com/vi/P5ria2bCJdw/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 99910,
+        "likeCount": null,
+        "commentCount": 618
+      }
+    },
+    {
       "id": "HBa4AldjSBw",
       "slug": "10-jahre-ohne-strom-keiner-schuld-warum-wir-strafgesetze-brauchen-gege-HBa4AldjSBw",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 43937,
+        "viewCount": 104244,
         "likeCount": null,
-        "commentCount": null
+        "commentCount": 571
       }
     },
     {
@@ -86,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 80749,
+        "viewCount": 98291,
         "likeCount": null,
-        "commentCount": null
+        "commentCount": 912
       }
     },
     {
@@ -110,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 220145,
+        "viewCount": 252518,
         "likeCount": null,
-        "commentCount": 938
+        "commentCount": 1172
       }
     },
     {
@@ -136,7 +160,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 74
+        "commentCount": 80
       }
     },
     {
@@ -158,9 +182,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 96937,
+        "viewCount": 98671,
         "likeCount": null,
-        "commentCount": 766
+        "commentCount": 813
       }
     },
     {
@@ -184,7 +208,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 139
+        "commentCount": 141
       }
     },
     {
@@ -206,9 +230,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 257360,
+        "viewCount": 260902,
         "likeCount": null,
-        "commentCount": 2124
+        "commentCount": 2170
       }
     },
     {
@@ -232,7 +256,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 82
+        "commentCount": 84
       }
     },
     {
@@ -254,9 +278,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 148453,
+        "viewCount": 148792,
         "likeCount": null,
-        "commentCount": 890
+        "commentCount": 894
       }
     },
     {
@@ -280,7 +304,7 @@
       "stats": {
         "viewCount": 9237,
         "likeCount": 1031,
-        "commentCount": 107
+        "commentCount": 113
       }
     },
     {
@@ -302,9 +326,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 172992,
+        "viewCount": 173190,
         "likeCount": null,
-        "commentCount": 895
+        "commentCount": 896
       }
     },
     {
@@ -326,9 +350,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 75525,
+        "viewCount": 77108,
         "likeCount": null,
-        "commentCount": 481
+        "commentCount": 505
       }
     },
     {
@@ -350,9 +374,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 125524,
+        "viewCount": 125716,
         "likeCount": null,
-        "commentCount": 853
+        "commentCount": 851
       }
     },
     {
@@ -398,33 +422,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 166884,
+        "viewCount": 167177,
         "likeCount": null,
         "commentCount": 736
-      }
-    },
-    {
-      "id": "q7SNiJt9fZg",
-      "slug": "vw-in-der-krise-gewerkschaft-macht-antifa-woche-q7SNiJt9fZg",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "VW in der Krise. Gewerkschaft macht Antifa-Woche",
-      "description": "Laut IG Metall will VW bei der Belegschaft weltweit Nullrunden durchdrücken, die Gewerkschaft nennt das einen absurden Plan. Gleichzeitig läuft bei der IG Metall Wolfsburg die Antifa-Woche. Wie wäre es erst mal mit Autos, die der Kunde haben möchte?\n\n#VW #IGMetall #Wolfsburg",
-      "excerpt": "Laut IG Metall will VW bei der Belegschaft weltweit Nullrunden durchdrücken, die Gewerkschaft nennt das einen absurden Plan. Gleichzeitig läuft bei der IG Metall Wolfsburg die…",
-      "publishedAt": "2026-11-12T17:12:44+00:00",
-      "url": "https://www.youtube.com/watch?v=q7SNiJt9fZg",
-      "thumbnail": "/media/q7SNiJt9fZg.jpg",
-      "thumbnailRemote": "https://i2.ytimg.com/vi/q7SNiJt9fZg/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "VW",
-        "IGMetall",
-        "Wolfsburg"
-      ],
-      "stats": {
-        "viewCount": 147,
-        "likeCount": null,
-        "commentCount": 61
       }
     },
     {
@@ -446,7 +446,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 87933,
+        "viewCount": 88123,
         "likeCount": null,
         "commentCount": 537
       }
@@ -470,7 +470,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 93671,
+        "viewCount": 93690,
         "likeCount": null,
         "commentCount": 434
       }
@@ -494,7 +494,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73444,
+        "viewCount": 73445,
         "likeCount": null,
         "commentCount": 336
       }
@@ -518,7 +518,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82461,
+        "viewCount": 82471,
         "likeCount": null,
         "commentCount": 538
       }
@@ -542,7 +542,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 100726,
+        "viewCount": 100745,
         "likeCount": null,
         "commentCount": 579
       }
@@ -590,7 +590,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88925,
+        "viewCount": 88940,
         "likeCount": 4492,
         "commentCount": 404
       }
@@ -651,7 +651,7 @@
     "status": "verbunden",
     "stats": {
       "followerCount": 296,
-      "likeCount": 2175,
+      "likeCount": 2178,
       "videoCount": 26
     }
   }
