@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-19T03:50:23.794Z",
+  "syncedAt": "2026-11-19T12:14:39.291Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -18,8 +18,8 @@
       "subscribeUrl": "https://www.youtube.com/channel/UCsLN1bEfDJoZOs8udTwHatQ?sub_confirmation=1",
       "stats": {
         "subscriberCount": 288000,
-        "viewCount": 182976200,
-        "videoCount": 1619,
+        "viewCount": 183632114,
+        "videoCount": 1621,
         "hiddenSubscriberCount": false
       }
     },
@@ -44,6 +44,54 @@
   ],
   "videos": [
     {
+      "id": "UQlJBfsBQwE",
+      "slug": "flughafen-frankfurt-was-ist-aus-deutschland-geworden-UQlJBfsBQwE",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Flughafen Frankfurt: Was ist aus Deutschland geworden?",
+      "description": "In Shanghai wird der Flughafen weiter ausgebaut. In Frankfurt stehen im Terminal 1 Schirme und Auffangbehälter unter der Decke, Shopping gibt es hinter dem Bauzaun. Was denken internationale Umsteiger, wenn sie hier ankommen?\n\n#Frankfurt #Flughafen #China",
+      "excerpt": "In Shanghai wird der Flughafen weiter ausgebaut. In Frankfurt stehen im Terminal 1 Schirme und Auffangbehälter unter der Decke, Shopping gibt es hinter dem Bauzaun. Was denken…",
+      "publishedAt": "2026-11-19T11:26:26+00:00",
+      "url": "https://www.youtube.com/watch?v=UQlJBfsBQwE",
+      "thumbnail": "/media/UQlJBfsBQwE.jpg",
+      "thumbnailRemote": "https://i2.ytimg.com/vi/UQlJBfsBQwE/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Frankfurt",
+        "Flughafen",
+        "China"
+      ],
+      "stats": {
+        "viewCount": null,
+        "likeCount": null,
+        "commentCount": 20
+      }
+    },
+    {
+      "id": "DxFxN2orfk0",
+      "slug": "mit-atomrakete-zum-apec-gipfel-trump-xi-putin-in-shenzhen-minuteman-ii-DxFxN2orfk0",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Mit Atomrakete zum APEC-Gipfel | Trump, Xi & Putin in Shenzhen - Minuteman III ICBM",
+      "description": "Was denkt ihr kommt dabei heraus?\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
+      "excerpt": "Was denkt ihr kommt dabei heraus?",
+      "publishedAt": "2026-11-19T09:14:50+00:00",
+      "url": "https://www.youtube.com/watch?v=DxFxN2orfk0",
+      "thumbnail": "/media/DxFxN2orfk0.jpg",
+      "thumbnailRemote": "https://i1.ytimg.com/vi/DxFxN2orfk0/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Bundestag",
+        "Politik",
+        "Bundesregierung"
+      ],
+      "stats": {
+        "viewCount": 17366,
+        "likeCount": null,
+        "commentCount": 147
+      }
+    },
+    {
       "id": "EYfHcMqWOUM",
       "slug": "beim-luegen-gelogen-wir-machen-was-wir-versprochen-haben-18-monate-zu-EYfHcMqWOUM",
       "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
@@ -62,9 +110,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 48343,
+        "viewCount": 81730,
         "likeCount": null,
-        "commentCount": 384
+        "commentCount": 517
       }
     },
     {
@@ -86,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 68118,
+        "viewCount": 74331,
         "likeCount": null,
-        "commentCount": 411
+        "commentCount": 431
       }
     },
     {
@@ -110,9 +158,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 231564,
+        "viewCount": 245968,
         "likeCount": null,
-        "commentCount": 2510
+        "commentCount": 2620
       }
     },
     {
@@ -134,9 +182,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 251508,
+        "viewCount": 264672,
         "likeCount": null,
-        "commentCount": 1009
+        "commentCount": 1042
       }
     },
     {
@@ -158,9 +206,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 126932,
+        "viewCount": 128967,
         "likeCount": null,
-        "commentCount": 634
+        "commentCount": 641
       }
     },
     {
@@ -182,9 +230,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 107046,
+        "viewCount": 107767,
         "likeCount": null,
-        "commentCount": 940
+        "commentCount": 947
       }
     },
     {
@@ -206,9 +254,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 285054,
+        "viewCount": 289956,
         "likeCount": null,
-        "commentCount": 1227
+        "commentCount": 1246
       }
     },
     {
@@ -254,9 +302,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 101014,
+        "viewCount": 101336,
         "likeCount": null,
-        "commentCount": 817
+        "commentCount": 818
       }
     },
     {
@@ -280,7 +328,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 142
+        "commentCount": 144
       }
     },
     {
@@ -302,9 +350,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 271514,
+        "viewCount": 274025,
         "likeCount": null,
-        "commentCount": 2238
+        "commentCount": 2241
       }
     },
     {
@@ -350,57 +398,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 148508,
+        "viewCount": 148519,
         "likeCount": null,
         "commentCount": 892
-      }
-    },
-    {
-      "id": "gK5hBhKCxRo",
-      "slug": "ex-staatssekretaer-zu-atomausstieg-strom-waere-guenstiger-gewesen-gK5hBhKCxRo",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Ex-Staatssekretär zu Atomausstieg: Strom wäre günstiger gewesen",
-      "description": "Habecks ehemaliger Staatssekretär Graichen räumt ein: Hätte man die Kernkraftwerke 2023 weiterlaufen lassen, hätte man mehr Strom zu relativ günstigen Grenzkosten gehabt. Abgeschaltet wurde trotzdem. Jetzt sitzen wir da und sind gespannt auf den Winter.\n\n#Graichen #Atomkraft #Habeck",
-      "excerpt": "Habecks ehemaliger Staatssekretär Graichen räumt ein: Hätte man die Kernkraftwerke 2023 weiterlaufen lassen, hätte man mehr Strom zu relativ günstigen Grenzkosten gehabt.…",
-      "publishedAt": "2026-11-13T19:54:54+00:00",
-      "url": "https://www.youtube.com/watch?v=gK5hBhKCxRo",
-      "thumbnail": "/media/gK5hBhKCxRo.jpg",
-      "thumbnailRemote": "https://i4.ytimg.com/vi/gK5hBhKCxRo/hqdefault.jpg",
-      "durationLabel": "0:43",
-      "tags": [
-        "Graichen",
-        "Atomkraft",
-        "Habeck"
-      ],
-      "stats": {
-        "viewCount": 9237,
-        "likeCount": 1031,
-        "commentCount": 116
-      }
-    },
-    {
-      "id": "6HWrmG0ipRU",
-      "slug": "notfallgesetz-kommt-gasspeicher-unter-60-kohle-und-oelkraftwerke-solle-6HWrmG0ipRU",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Notfallgesetz kommt! Gasspeicher unter 60 % – Kohle- und Ölkraftwerke sollen es richten",
-      "description": "Ich dachte wir kaufen flexibel am Spotmarkt LNG. Haben Sie schon wieder gelogen?\n\nhttps://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Ich dachte wir kaufen flexibel am Spotmarkt LNG. Haben Sie schon wieder gelogen?",
-      "publishedAt": "2026-11-13T15:02:12+00:00",
-      "url": "https://www.youtube.com/watch?v=6HWrmG0ipRU",
-      "thumbnail": "/media/6HWrmG0ipRU.jpg",
-      "thumbnailRemote": "https://i3.ytimg.com/vi/6HWrmG0ipRU/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 173671,
-        "likeCount": null,
-        "commentCount": 898
       }
     },
     {
@@ -422,7 +422,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 80405,
+        "viewCount": 81029,
         "likeCount": null,
         "commentCount": 515
       }
@@ -446,9 +446,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88577,
+        "viewCount": 88667,
         "likeCount": null,
-        "commentCount": 535
+        "commentCount": 542
       }
     },
     {
@@ -470,7 +470,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 93740,
+        "viewCount": 93747,
         "likeCount": null,
         "commentCount": 434
       }
@@ -494,7 +494,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73458,
+        "viewCount": 73460,
         "likeCount": null,
         "commentCount": 336
       }
@@ -518,7 +518,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82511,
+        "viewCount": 82512,
         "likeCount": null,
         "commentCount": 538
       }
@@ -542,9 +542,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 100873,
+        "viewCount": 100893,
         "likeCount": null,
-        "commentCount": 579
+        "commentCount": 577
       }
     },
     {
@@ -590,7 +590,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88984,
+        "viewCount": 88996,
         "likeCount": 4492,
         "commentCount": 404
       }
@@ -651,7 +651,7 @@
     "status": "verbunden",
     "stats": {
       "followerCount": 296,
-      "likeCount": 2182,
+      "likeCount": 2184,
       "videoCount": 27
     }
   }
