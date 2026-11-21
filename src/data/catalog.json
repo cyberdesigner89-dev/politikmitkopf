@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-21T04:04:23.640Z",
+  "syncedAt": "2026-11-21T12:28:16.946Z",
   "ok": true,
   "source": "youtube-public",
   "error": null,
@@ -18,8 +18,8 @@
       "subscribeUrl": "https://www.youtube.com/channel/UCsLN1bEfDJoZOs8udTwHatQ?sub_confirmation=1",
       "stats": {
         "subscriberCount": 288000,
-        "viewCount": 184242543,
-        "videoCount": 1625,
+        "viewCount": 184311196,
+        "videoCount": 1626,
         "hiddenSubscriberCount": false
       }
     },
@@ -36,13 +36,37 @@
       "subscribeUrl": "https://www.youtube.com/@PolitikmitKopfReagiert?sub_confirmation=1",
       "stats": {
         "subscriberCount": 20300,
-        "viewCount": 734643,
+        "viewCount": 735724,
         "videoCount": 10,
         "hiddenSubscriberCount": false
       }
     }
   ],
   "videos": [
+    {
+      "id": "42Fw6CsQa4s",
+      "slug": "merz-verkauft-offenbar-sein-flugzeug-wozu-noch-altersentschaedigung-42Fw6CsQa4s",
+      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
+      "channelName": "Politik mit Kopf",
+      "title": "Merz verkauft offenbar sein Flugzeug: Wozu noch Altersentschädigung?",
+      "description": "Friedrich Merz darf nicht mehr selbst fliegen, seine Lizenz ist eingefroren und sein Privatflugzeug offenbar verkauft. Allein der Unterhalt so eines Fliegers kostet jeden Monat mehr als ein Mindestlohn. Warum hat so jemand später noch Anspruch auf eine Altersentschädigung aus der Steuerkasse?\n\n#Merz #Bundestag #Privatflugzeug",
+      "excerpt": "Friedrich Merz darf nicht mehr selbst fliegen, seine Lizenz ist eingefroren und sein Privatflugzeug offenbar verkauft. Allein der Unterhalt so eines Fliegers kostet jeden Monat…",
+      "publishedAt": "2026-11-21T08:50:37+00:00",
+      "url": "https://www.youtube.com/watch?v=42Fw6CsQa4s",
+      "thumbnail": "/media/42Fw6CsQa4s.jpg",
+      "thumbnailRemote": "https://i1.ytimg.com/vi/42Fw6CsQa4s/hqdefault.jpg",
+      "durationLabel": null,
+      "tags": [
+        "Merz",
+        "Bundestag",
+        "Privatflugzeug"
+      ],
+      "stats": {
+        "viewCount": null,
+        "likeCount": null,
+        "commentCount": 19
+      }
+    },
     {
       "id": "DgfSqluHJ-k",
       "slug": "notfallplan-droht-uns-diesen-winter-die-industrie-abschaltung-gas-ener-DgfSqluHJ-k",
@@ -62,9 +86,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82097,
+        "viewCount": 101497,
         "likeCount": null,
-        "commentCount": 344
+        "commentCount": 475
       }
     },
     {
@@ -88,7 +112,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 122
+        "commentCount": 139
       }
     },
     {
@@ -110,9 +134,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 114011,
+        "viewCount": 114704,
         "likeCount": null,
-        "commentCount": 555
+        "commentCount": 577
       }
     },
     {
@@ -134,9 +158,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 106653,
+        "viewCount": 108272,
         "likeCount": null,
-        "commentCount": 987
+        "commentCount": 1008
       }
     },
     {
@@ -160,7 +184,7 @@
       "stats": {
         "viewCount": null,
         "likeCount": null,
-        "commentCount": 167
+        "commentCount": 174
       }
     },
     {
@@ -182,9 +206,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 88109,
+        "viewCount": 88798,
         "likeCount": null,
-        "commentCount": 313
+        "commentCount": 310
       }
     },
     {
@@ -206,9 +230,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 94405,
+        "viewCount": 94641,
         "likeCount": null,
-        "commentCount": 547
+        "commentCount": 548
       }
     },
     {
@@ -230,9 +254,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 81682,
+        "viewCount": 82016,
         "likeCount": null,
-        "commentCount": 438
+        "commentCount": 437
       }
     },
     {
@@ -254,9 +278,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 261033,
+        "viewCount": 261537,
         "likeCount": null,
-        "commentCount": 2723
+        "commentCount": 2728
       }
     },
     {
@@ -278,9 +302,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 291362,
+        "viewCount": 291756,
         "likeCount": null,
-        "commentCount": 1066
+        "commentCount": 1068
       }
     },
     {
@@ -302,9 +326,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 133313,
+        "viewCount": 133831,
         "likeCount": null,
-        "commentCount": 646
+        "commentCount": 649
       }
     },
     {
@@ -326,7 +350,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 109388,
+        "viewCount": 109575,
         "likeCount": null,
         "commentCount": 952
       }
@@ -350,9 +374,9 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 307195,
+        "viewCount": 308555,
         "likeCount": null,
-        "commentCount": 1286
+        "commentCount": 1301
       }
     },
     {
@@ -380,30 +404,6 @@
       }
     },
     {
-      "id": "BjEIG7QmkJU",
-      "slug": "wer-hat-wirklich-interesse-dass-reichelt-schweigt-auto-abgefackelt-nac-BjEIG7QmkJU",
-      "channelId": "UCsLN1bEfDJoZOs8udTwHatQ",
-      "channelName": "Politik mit Kopf",
-      "title": "Wer hat wirklich Interesse, dass Reichelt schweigt? Auto abgefackelt nach Corona-Ankündigung",
-      "description": "https://youtu.be/NCnORR0sLME?si=262FudbT9OksC79x\n\n🛍️ Mein Amazon-Shop mit Produkten die ich empfehle: https://amzn.eu/d/0gPb9Zmz *\n👉 Tesla - 1000 Freikilometer am Supercharger für dich, wenn du über meinen Empfehlungslink bestellst: https://ts.la/maurice669555 *\n\nUnterstützung per Spende ist möglich:\n\nIBAN: CH42 0077 7009 8834 0181 6 (Euro-Konto)\nIBAN: CH15 0077 7009 8834 0191 4 (CHF-Konto)\nAn: MK Swiss Media GmbH\nZwecke: Spende \n\n👉 WhatsApp: https://whatsapp.com/channel/0029Vb822FVBadmbHAN3mg0L\n👉 Telegram: https://t.me/politik_mit_kopf\n👉 X: https://x.com/Politikmit_Kopf\n👉 TikTok: https://www.tiktok.com/@politik.mit.kopf\n👉 Instagram: https://www.instagram.com/politik_mitkopf/\n👉 Facebook: https://www.facebook.com/PolitikmitKopf\n\nhttps://youtu.be/_Ie-kq9kkdE?si=W8TroYG1V3y9ZW1q\n\n#Bundestag #Politik #Bundesregierung\n\n*Werbung / Affiliate-Link. Als Partner verdiene ich an qualifizierten Käufen.",
-      "excerpt": "Wer hat wirklich Interesse, dass Reichelt schweigt? Auto abgefackelt nach Corona-Ankündigung",
-      "publishedAt": "2026-11-16T08:26:23+00:00",
-      "url": "https://www.youtube.com/watch?v=BjEIG7QmkJU",
-      "thumbnail": "/media/BjEIG7QmkJU.jpg",
-      "thumbnailRemote": "https://i3.ytimg.com/vi/BjEIG7QmkJU/hqdefault.jpg",
-      "durationLabel": null,
-      "tags": [
-        "Bundestag",
-        "Politik",
-        "Bundesregierung"
-      ],
-      "stats": {
-        "viewCount": 102070,
-        "likeCount": null,
-        "commentCount": 820
-      }
-    },
-    {
       "id": "KGPAY3aG7Hw",
       "slug": "chaos-im-bundestag-aktuelle-stunde-vorfall-mit-einheitsflagge-pali-fah-KGPAY3aG7Hw",
       "channelId": "UCOdBOgdBxkqo5CaGukX8z4g",
@@ -422,7 +422,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 84234,
+        "viewCount": 84732,
         "likeCount": null,
         "commentCount": 520
       }
@@ -446,7 +446,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 89246,
+        "viewCount": 89337,
         "likeCount": null,
         "commentCount": 544
       }
@@ -470,7 +470,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 93812,
+        "viewCount": 93835,
         "likeCount": null,
         "commentCount": 435
       }
@@ -494,7 +494,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 73472,
+        "viewCount": 73475,
         "likeCount": null,
         "commentCount": 336
       }
@@ -518,7 +518,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 82590,
+        "viewCount": 82602,
         "likeCount": null,
         "commentCount": 538
       }
@@ -542,7 +542,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 100963,
+        "viewCount": 100972,
         "likeCount": null,
         "commentCount": 579
       }
@@ -566,7 +566,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 33769,
+        "viewCount": 33770,
         "likeCount": 3363,
         "commentCount": 633
       }
@@ -590,7 +590,7 @@
         "Bundesregierung"
       ],
       "stats": {
-        "viewCount": 89020,
+        "viewCount": 89023,
         "likeCount": 4492,
         "commentCount": 404
       }
